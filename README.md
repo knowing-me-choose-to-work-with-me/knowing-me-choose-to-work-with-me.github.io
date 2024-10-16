@@ -1,32 +1,36 @@
 ## Bit On Title
-- Though objective is to be self-exlpainatory,  Some other titles that i had thought of 
-    - knowing-me-support-me, knowing-me-hire-me, hire-me-fire-me-once-job-is-done, rent-me-6-months, [knowing Me, Knowing You - ABBA-song](https://en.wikipedia.org/wiki/Knowing_Me,_Knowing_You))
+- Some other titles that i had thought of 
+    - knowing-me-support-me, knowing-me-hire-me, hire-me-fire-me-once-job-is-done, 6-months-contract, rent-me-6-months, [Knowing Me, Knowing You](https://en.wikipedia.org/wiki/Knowing_Me,_Knowing_You))
 
 
 ## Site Motivation
-Motivation for this site, from a perspective of  hiring-me or choosing-to-work-with-me 
-It's difficult to put all our thoughts in condensed 2 page resume, this is  more of a open book to my experiences.
-Also, in my experiences, so far, while working to solve a core-business-problem, friction is unavoidable, mostly demands lot more time and energy, we usually have have lot of differences in opinions, culuture, thoughts, methodologies, approaches, problem-solving-skills, real-time-experiences, the way we perceive real-world and software-world etc.
-This is a open book of my mine, to  help minimize friction towards me, you and us, to make us more comfortable, familiar in our ideas, thoughts and creativity. Hopefully,  this site helps you understand me better on my rationale choices and  you welcome me with a open mindset
+- Motivation for this site, is to help you decide in  hiring-me or helping in your decsion making so that you/your team to  make a choice to work with me.
+- It's difficult to put all our thoughts in condensed 2 page resume, this is  more of a open book to my experiences so that you can make better choices.
+- In my experiences, so far, while working to solve a core-business-problem, friction is unavoidable, mostly demands lot more time, energy and patience, we usually have have lot of differences in opinions, culuture, thoughts, methodologies, approaches, problem-solving-skills, real-time-experiences, the way we perceive real-world and software-world etc.
+- This is a open book of my mine, to  help minimize friction towards me, you and us, to make us more comfortable, familiar in our ideas, thoughts and creativity. Hopefully,  this site helps you understand me better on my rationale choices and  you welcome me with a open mindset
 
-## contact
-- [Mail](prashanth.jtr@gmail.com) | [LinkedIn](linkedin.com/in/prashanth-tr-ba3363304)
-## about me 
+## Contact
+- [Mail](mailto:prashanth.jtr@gmail.com) | [LinkedIn](https://in.linkedin.com/in/prashanth-tr-ba3363304)
+## About Me 
 - Prashanth T R, myself a  Software Engineer having 18years of experience in IT with research-first mindset, building and automating for data-centric novel-business-problems
     - all business problems are unique and they need a customized solution built for its purpose, constrant-space
-    - the research is not to burn the cash of the company but to find low-cost-effective technology solution, they typically involve few weeks, parallely while trying to understand the business we are suppose to automate
+    - the research is not to burn the cash of the company but to find low-cost-effective technology solution, 
+        - complex business domain take time to get clear understanding. we get better undestanding to choose right cost-effective techniques, tools as we make repeated attemptss.
     - by automation, I mean as  simple as arithmetic to algebraic to advanced ones(regression,interpoloation,xyz)  to a  scale (multiplied by domain like nubmer of products, customers, time etc) because deep down thats what I have encountered so far.
     - by data centric I usually mean the volume of equations to be automated say like thousands to millions to billions with some busniess-rules which are specific to the domain context of the problem
 ## One Reason To Work With Me
 - You want just one reason to figure out if i will be a good fit or not for your team, for your current set of problems
     - Given enough autonomy on solving the business-problem, I typically form a small team(3 to 4 people) apply a feature-driven-development splitting with a mental-model of organic business-flows (say 1 to 10 or so), showing/demonstrating business with new capabilities(automation), carefully crafting for core-important-flows say (4 to 6) identified with verifiable weightage (60 to 80)% giving business stakeholder with  few design-options which they can choose based on cost-factors like development(scoped-to-time), competence, financial and opportunity with cost-effective technology solutions. 
-        - I have proven track record of $23/tb on custom-techniques for storing and leveraging this further to processing with just 1-network-call
+        - I typically take few rides vertical to horizontal to make end-users  domain-problem is well understood, is put at the center of the solution, the overall solution-space surronds it. 
+            - [Software Design by domain-driven-design](#software-design-by-domain-driven-design)
+        - I have proven track record of building-cost-centric solutions with $23/tb on custom-techniques for storing and leveraging this further to processing with just 1-network-call
         - I do have solid grip on doing in-memory processing  with either mutations or immutable techniques for larger data-sets in millions in pratice and  in theory it holds good for billions as well, again few custom techniques, tricks
         - as an engineer, if you are excited on leveraging cloud-object-stores to full potential for historical data usecases , then my expertize, may be worth while to consider.
         - I also have great interest in using serverless FAAS technologies
         - [math-works](#math-works)
-        - I like my-work to speak-about-me, than a designation, it could be misleading-you, as it does-me
-- I'm also open for contract to hire for 6 months, with some negotiations on my billing.
+        - I like my-work to speak-about-me, than a designation, it could be misleading-to-you, as it does-to-me (Wipro's architect is one quote from mine)
+        
+- I'm also open for contract to hire for 6 months or little more, with some negotiations on my billing.
 - If you are looking for an IC role, please check on relevant sections.
 - Future-thoughts
     - I do have a thought of being an independent-consultant or agency of few-like minded people, though its down the road of 3 to 5 years
@@ -38,21 +42,65 @@ This is a open book of my mine, to  help minimize friction towards me, you and u
     - [Cultural Fitness](#cultural-fitness)
 - [Hiring Manager](#hiring-manager)
 - [CXO](#CXO)
-- [Architect | solution-architect](#architect)
+- [Architect](#architect)
 - [Business Decision Maker](#business-decision-maker)
 - [Product Owner](#product-owner)
 - [Functional Owner](#functional-owner)
 - [QA Developer/Engineer](#qa-developerengineer)
 - [Backend Developer/Engineer](#backend-developerengineer)
 - [Fontend Developer/Engineer](#frontend-developerengineer)
+- [](#)
+- [](#)
+- [](#)
+- [](#)
+- [](#)
+
+- [Domain Exposure](#domain-exposure)
+- [Retail](#retail)
+- [Financial Services](#financial-services)
+- [Telecom](#telecom)
+- [Aviation](#aviation)
+- [Billing](#billing )
+- [](#)
+## Domain Exposure
+- ### Retail
+- ### Financial Services
+- ### Telecom
+- ### Aviation
+- ### Billing
 
 ## You want to jump on to my work experiences
 - [Work-Experiences](#work-experiences) 
     - [Company-1-Tomax Jun-2005 to Sep-2009](#company-1-tomax-jun-2005-to-sep-2009)
+        - [Retail](#retail) 4.3 years | inventory-mgmt | demand-forecasting | 
+        - intro to corporate culture, foundations for  software development as taught by my-great-mentor who taught not execute until the output is conceived in mind.
     - [Company-2-CSC Dec-2009 to Mar-2016](#company-2-csc-dec-2009-to-mar-2016)
+        - intro to consultancy, deputation, 
     - [Company-3 Wipro Apr-2016 to Jul-2018](#company-3-wipro-apr-2016-jul-2018)
     - [Company-4-GE Oct-2018 to Jan-2024](#company-4-ge-oct-2018-jan-2024)
         - 5.3 years - discovering myself as software-engineer, system-designer, data-modeler, architect
+
+## TOC
+- [Quick Bites on Problem Solving](#quick-bites-on-problem-solving)
+- [Software Design](#software-design)
+- [Software Design with SOLID, CUPID, UNIX Philosophy](#software-design-with-solid-cupid-unix-philosophy)
+- [Software Design with Patterns ](#software-design-with-patterns)
+- [Software Design by domain-driven-design](#software-design-by-domain-driven-design)
+- [Data Modeling](#data-modeling)
+- [System Thinking](#system-thinking)
+- [Product Thinking](#product-thinking)
+- [Software Architecture](#software-architecture)
+- [Execution Style](#execution-style)
+- [Java Ecosystem](#java-ecosystem) 
+- [Cloud Computing](#cloud-computing)
+- [Fascinating Technologies](#fascinating-technologies)  
+- [an-engineer-since-2019](#an-engineer-since-2019)
+- [Execution Style](#execution-style)
+- [](#)
+- [](#)
+- [](#)
+- [](#)
+- [](#)
 
 ## math-works
 - lets check how much records we can process with limited ram of 8gb
@@ -123,18 +171,20 @@ This is a open book of my mine, to  help minimize friction towards me, you and u
 
 
 ## Hiring Manager
-- You could be Manager, Director, VP .. xyz
+- With all respect, as they vary from org to org, assuming to a be Manager, Director, VP .. xyz
+
 - you probably want to take a look at culture-fitness first followed by technical-fitness
-- You probably want to check on some the rationales, challegenes, domain, project experiences
-- [Cultural Fitness](#cultural-fitness)
-- [One Reason To Work With Me](#one-reason-to-work-with-me)
-- [My Work Style](#my-work-style) 
+    - [Cultural Fitness](#cultural-fitness) | [My Work Style](#my-work-style) | [Teaching Mentoring](#teaching-mentoring)
+- You probably want to check on some of the rationales, challegenes, domain, project experiences of mine
+- [One Reason To Work With Me](#one-reason-to-work-with-me) 
 - [Work-Experiences](#work-experiences)
     - [You want to jump on to my work experiences](#you-want-to-jump-on-to-my-work-experiences)
 - [Why do I step into your shoes](#why-do-i-step-into-your-shoes)
     - some rationale of my  biggest fears you need to know to stepping in
-- [Teaching Mentoring](#teaching-mentoring)
-
+- If at we get to meet, I might like to know  below for my role, to help you if I can fit for it
+    - day to day tasks which you have visualized or observed in the org 
+    - your weightage for me on operational, analytics, system-wide design/architecural solutioning
+    - weightage  on building-pipelines (cicd, data)
 
 
 ## CXO
@@ -316,10 +366,10 @@ parallel i was digesting this CXA technique, a protoype bassed approach you can 
 of course lot And lot went smooth, Ocassionaly I had guidance from my mentor and other leads when i was getting struck.
 
 Then it was mid-2009, we recived a letter from CEO starting  with "Nothing is permanent in life" ending with we are closing Tomax India operations. More than me, it was shocking for several seniors as probably because of their financial dependency, emotional attachement(including myself).
-on sep 15 2009 we all tomax india were happy, because we got almost 4 to 6 months of salary as compenstation based on tenure we served. by the way i got 4 months 
+on sep 15 2009 we all tomaxians india were happy, because we got almost 4 to 6 months of salary as compenstation based on tenure we served. by the way i got 4 months 
 I just said to myself any company i join, i will keep resignation in my pocket and work fearlessly.
 i took a break to spend 2 months with my family, went to my native for  a month enjoying food.
-Then when i started back, job openning were little less, more screening due to global financial housing bubble impact. finally after with a bit of struggle, with 50% hike i got an offerm from CSC, chennai, i accepted
+Then when i started back, job openning were little less, more screening due to global financial housing bubble impact. finally after with a bit of struggle, with 50% hike i got an offer from CSC, chennai, i accepted
 
 
 ## Company-2-CSC Dec-2009 to Mar-2016
@@ -475,23 +525,24 @@ since I was a new commer my colleague-1 and 2 did many times articulation becaus
         - the visiblity to cloud gave clear cut idea that we can leverage cpu GHz, ram-memory 4 to 8gb , started making several attempts to leverage on these concepts for every service request.
         - also i was new to Git and github so the my initial colleagu-1,colleague-2 helped me to configure this for me.
         - culture and team orgzn
-            in ge based on project u work, the team has parterner ship with vendors could be %(50 + 50) or (30%ge+70%vendors(tcs, capegemini,genpact(BAs))). So far  i was working as consultant for almost 8 years and now I had to work with consultant inverse of what i had done.
+            in ge based on project u work, the team has parterner ship with vendors could be %(50 + 50) or (30%ge+70%vendors(tcs, capegemini,genpact(BAs))). So far  i was working as consultant for almost 8 years and now I had to work with consultants, inverse of what i had done. So I knew the degree of respect to be given.
+            Some were real good.
             Though there was not strict timing, the team followed agile practices, the team size was close to 15 members,  i think so. 
-            2-qa(akhay,pooja-b), 
+            2-qa, 
             1 ba, 
             1 vendor-architect, 
             1 data-modeler-cum-dba- 
             1 PO, 
             2 FO
             1-pod-lead, 
-            7-backend-developers(myself+3ge(surjot,malpani,pooja)+2vendor(k))
-            3-front-end( 2 ge(vishnu,abhinav)+vendor) vishnu,harshalli
-            after i joined in couple of months atleast 4 people got dropped off. by the end of 2 plus years, the team size got reduced to 7 member (vishnu,kalyan,akshay,gautham,po,ba,fo)
+            7-backend-developers(myself+3ge+2vendor)
+            3-front-end( 2 ge+1vendor) 
+            after i joined in couple of months atleast 4 people got dropped off. by the end of 2 plus years, the team size got reduced to 7 member (fronted-developer,pod-lead,qa,developer-backend,po,ba,fo) due to stabilization, covid-impact
         - purpose   
-            - before this tool, there was a tool where all cmr users uploaded their documents to a box folder, whicn can shared and collaborated. so this tool was primarliy targeted to automate that in cloud.
+            - before this tool, there was a tool where all users(anlaysts of various domain) uploaded their documents to a box folder, whicn can shared and collaborated. so this tool was primarliy targeted to automate that in cloud.
             The original desinger, authors made a good choice of leveraging Elasticfilesotrage service from aws, though several times i visualized it to be a s3 bucket. after I left this change was done.
-            - another purpose was to automate close to 80 cmr steps , these belong to variouse modeling needs like technical, financiail, cost etc
-        - first weeks like my 1st company, came  with testing the application from my POD-lead(team-lead), then analyzing few requirements on feasiblity though i proposed few solutions, i heard the application would crash if he fulfilled the requirements so didnt materialize, then came some minor enhancements and bugs in existing application.
+            - another purpose was to automate close to 80 high-level workflow steps , these belong to variouse modeling needs like technical, financiail, cost etc
+        - first weeks like my 1st company, came  with testing the application from my POD-lead(team-lead), then analyzing few requirements on feasiblity though i proposed few solutions, i heard the other application(consumer) would crash if we fulfilled the requirements,  so it didn't materialize, then came some minor enhancements and bugs in existing application.
         one bug got my attention because nobody wanted to touch it, there was requirement to capture all the activities user did on the overall workflow which was captured en events table, only top 20 or 30 were shown on the screen, yet the events table which kept on growing day by day connected with some important tables, and each time some one went to activities screen, it took 7 to 8 mins to load for couple of scenario, occassionaly that particular microservice failed, crashed . team just restarted the microservice manually by running a chef script. after careful observations i applied a fix by some removing nester query joins and co-relation and even moved fetching a a set of records and its aggregation logic to service layer from database logic. Now it just took few seconds (i guess < 10 seconds). I got some attention from my backend developers team.
         -  my 1st major deliverable came after almost 2 months of joining , so this was tool had only 1 integration for a contract setup for financial-modeling, now with intent of central orchestartor as visioned by people who built and envisioned this tool, the 2nd integration came  to make an integration with a downstream (technical-modeling) on which requirement kept changing for next 6 months or so. It was also a request from pod-lead, director to lead the design, developement, they were anticipating some future changes heavy in this.
         with help of my colleagues-ge barely 1.5 years of IT expeerince, a qa-ge  i formed an informal team for my developemnt.
@@ -566,7 +617,7 @@ since I was a new commer my colleague-1 and 2 did many times articulation becaus
         - unlike my previous-team,  This was a vendor-partner heavy team, had their daily scrums in late evenings for on-site PO, BA
         - My previous also also joined this this cost-modeling-space with a manager-role, this was a relief as we had developed a frequency and trust with almost a year or so. He also had a trade-off mindset on timelines of deliverables which was super helpful during execution.
         - first,  we made few corrections like having standup on morning and need basis to connect to PO, BA for clearity on functional and requirements, with little friction eventually everything got settled down.
-        - my first task was to analyze a pecular file upload issue which was faling for larger files, after some hiccups i solved by increasing the RAM size, to everyones surprise, others probably didnt notice it. after some math said you could upload upto 2gb for file size, with 10 lakhs per sheet etc which we had discovered.
+        - my first task was to analyze a pecular file upload issue which was faling for larger files, after some hiccups i solved by increasing the RAM size, to everyones surprise, others probably didnt notice it. after some math said you could upload upto 2gb for file size, with a-million per sheet etc which we had discovered.
         - as we were identifying the major problems, were can contribute top 2 things came up
         - Problem-1 : integration strategy for the Next-Gen integration 
         - Problem-2 : a new modeling capability called module-by-workscope which we heard was quite data-centric
@@ -652,3 +703,279 @@ since I was a new commer my colleague-1 and 2 did many times articulation becaus
         - I ruled out offensive, all Ge problem pointed towards defensive strategy.
         - after few brainstorming discussion with team , I proposed few techniques to split the data based on productline, customer etc and to leverae something like cloud-ojbect-store.
 
+
+
+
+
+
+
+## TOC
+- [Quick Bites on Problem Solving](#quick-bites-on-problem-solving)
+- [Software Design](#software-design)
+- [Software Design with SOLID, CUPID, UNIX Philosophy](#software-design-with-solid-cupid-unix-philosophy)
+- [Software Design with Patterns ](#software-design-with-patterns)
+- [Software Design by domain-driven-design](#software-design-by-domain-driven-design)
+- [Data Modeling](#data-modeling)
+- [System Thinking](#system-thinking)
+- [Product Thinking](#product-thinking)
+- [Software Architecture](#software-architecture)
+- [Execution Style](#execution-style)
+- [Java Ecosystem](#java-ecosystem) 
+- [Cloud Computing](#cloud-computing)
+- [Fascinating Technologies](#fascinating-technologies)  
+- [an-engineer-since-2019](#an-engineer-since-2019)
+- [Execution Style](#execution-style)
+- [](#)
+- [](#)
+- [](#)
+- [](#)
+- [](#)
+
+## Quick Bites on Problem Solving
+- These are some of my approaches, techniques, strategies when the business-domain to technical-domain  is well-understood 
+- arithmetic, %,
+- eval-loop-controls(for,streams,)
+- crafting-and-controlling mutable-state as it gets into some useful transformation like aggregations, rollups, reductions etc
+- crafting immutable-structures for business permutations, cobminations 
+- heavy usage of hashing-in-java-context for O(1) performance
+- structing-low-level(pkg-by-feature,nested-classes, static-utilities,non-static-state-controls) 
+- threading : usually leverage http-stateless per-request-thread, per-event-async-thread(for-complex-scenearios only)
+- dynamic-2d-array-apis(custom-built) lever
+    - my goto solution for front-end problems when they have to populate a matrix of data, if they ask repeatedly
+-  data-pull and compute with custom-techniques at 1-network-call, system-calls, IO 
+
+## Software Design
+### My Biased Opinions, Views, Perceptions
+### My Biased Techniques, strategies
+
+## Software Design with SOLID, CUPID, UNIX Philosophy
+- eval(SOLID,CUPID,unix-philosophy) , generally prefer CUPID and unix philosophy over SOLID becuase in practice SOLID didnt help me to model the domain problem really
+    - i would also like to put a strong opinion that irrespective of what we choose, its not visible to customer, end-user one excpetion ofcourse is if  you r shipping a open-source tool,library 
+    - so picking is choice of architect, designer, engineer a-good-developer
+    - the key idea no matter what we pick should be cater the evolving needs of business problem 
+        - in my view, this holds good in buidling all sorts of application needs 
+        - operational aka transactional 
+        - analytical  to advanced anlytics using ML, AI technlologies
+            - inspite of cheapest object cloud-storage comanies, dont have data ready for advanced analytics, most of it is RDBMs and mostly for couple of years, all being truncated/deleted not storing archiving aws-s3 for example
+            - on a side note with all the hype in AI, identifying useful USE CASEs like smartphone did to us,  is yet to happen or i am yet to hear/discover
+            - 
+        - realtime streaming 
+        -
+## Software Design with Patterns 
+- in my view if time-is-money, we save TIME by leveraging, someone's (person, team org)   solution to a repitive-problem-space    
+- pattern : context-driven, recurring, 
+- Gof patterns
+    - again this is not visible to customer, end-user 
+    - a little research on backgroud will take you to https://en.wikipedia.org/wiki/Christopher_Alexander https://en.wikipedia.org/wiki/Pattern_language both kickstart you with enough wisdom to build custom patterns as per the domain
+    - if u r an aware :  the original authors didnt invent them, they just identified and documented, so its more of discovery than invention, but Chistopher did popularize the term pattern is often attributed to father of pattern.
+    - 
+    - first these are very low-level Object Oriented patterns, they are really useful if you are building a library(aws-sdk) etc so domain of application really depends on the domain probelm at hand.
+    
+    -   i have heavily leveraged builder, factories, adapter, facade if you expect me know everyting and check my knowledge on these probably I am a  wrong fit
+- J2EE, JEE pattern
+
+## Software Design by domain-driven-design
+- [Domain-driven design ](https://en.wikipedia.org/wiki/Domain-driven_design)
+    - this is what i leverage in most solving all business problem, be it automation of billing, rolling up cost for million records, partitioning stratgies for data-modeling, scaling on data-volume growth, security(internet,intranet)
+    - if you agree a lot on this, probably we can jump on this dicussion first.
+    - please do screen me heavily on this, it will help you in I am good fit.
+    - please dont hire/work with me 
+        - if you are hearing first time and you still found a  better way to solve the problem
+        - you dont like this design not matter what
+- from a clould-computing per-se also the from evolution to options, in-my view point to only one thing to accelarate on solving business problem or to automate it with evolving-business-needs 
+    - on-premise -> IAAS -> PAAS -> SAAS , FAAS 
+- retirement to replatform
+    - in most of my observation the core-business-domain its operating-principles more or less remain same like in typical ecommerce order,inventory and in manufacturing(MRO,supply-chain)
+        -  user-personas may change
+        - traditional ways of doing it might change   
+        - new digital tools got cheaper
+        - renting out or leveraging cloud
+        - on a side note 
+
+
+
+- [Data Modeling](#data-modeling)
+## Data Modeling 
+- more of what worked for-me-so-far
+- strong opinion on partitioning data on the biz domain attributes for ex product, customer, time etc
+    - I am constantly looking for new techniques and strategies to add to my data-modeling-toolkit
+- in my experience most of projects I have worked have modelled synthectic attributes in storage and worst these get exposed on several integration as well, so getting right here is fundamental for future scalability, integration, extensibilty like adding a new product or customer 
+- constraints on the biz domain also help a lot , it has helped in many situations to constrain the solution-space
+
+- [System Thinking](#system-thinking)
+## System Thinking
+- system-thinking
+    - In my view, I would  like to think of it has set of structures {str-1,str-2,...str-n} and behaviors {bhvr1,b2....bn } with some degree of dependency, coupling, coheshion between each structure, behaviour,  change in one can causing ripple-effect based on how they are built, communicating-with-bridges-channels  
+        - on a side note, a good analogy to civil structures, bridges, flats-in-apartments, townships with schools,hospitals to form complex ecosystems of towns, cities
+    - combination of them then make several  useful-systems( deeply-nested-dependent,  tightly/loosely coupled over a communication-channel)
+    - some factors to consider on operational-stuff like  dynamic-load, distributed-nature, replication-need, peak-it-can-handle(with-orinial-intent to ungoing or future-need)
+    - primary factors to consider while building 
+        - communication
+        - coupling
+        - cohesion
+        - domain/problem its trying to solve
+
+- [Software Architecture](#software-architecture)
+## Software Architecture
+- in my view and observation sofar, the evolution of it has heavy influence from civil, manufacturing, shipping-containers, rental-space(cloud) etc to start-with, so its recommended to be a good observer looking at several realworld entities like below to kickstart  as opposed to famous management-lesson to be a good listner unless your domain is music, movies, microsoft-teams, crime-investigator etc 
+    - civil : structures(pillars), bridges, flats-in-apartments, townships with schools,hospitals to form complex ecosystems of towns, cities
+    - logistics : shipping, stacked-containers, 
+    - manufacturing : supply-chain, inventory, order
+    - hospitality : hotels, homestays, hostels
+- the point : There is a default design and architecture everywhere(planets revolving, mighty Sun) even if didn't intended 
+- based on our views it may  be application, cloud, system, enterprise, 
+- it also could be dynamic, static, modular, 
+- [J2EE to JEE](https://en.wikipedia.org/wiki/Jakarta_EE) this was the standard till till spring and spring boot with 
+
+- [Cloud Computing](#cloud-computing)
+## Cloud Computing
+- on-premise -> IAAS -> PAAS -> SAAS , FAAS 
+
+- [Product Thinking](#product-thinking)
+## Product Thinking 
+- 
+
+- [Execution Style](#execution-style)
+## Execution Style
+- set of 5s, 20s, 
+
+- [an-engineer-since-2019](#an-engineer-since-2019)
+## an-engineer-since-2019
+- attempting to being like one, thinking like one, 
+    - what good i am if dont talk about processing MBs to GBs in  Ghz, in a operating system process, probably due to an event trigger to http-request thread having feteched  a gb of data from a storage like database/s3 
+    - with some just basic arithmetic its possible to process the data once in-memory RAM either through mutation of heap or immutable functional programming with streams library in java having some good grip on the way JVM works.
+    - its quite possible to build a theory on approximate time usually in seconds to process the amount of data(MBs to GBs)
+        - on a side note for big-data technologies Apache-Spark excites me or promises me to process memory on more than 1 node in memory
+        - in near future, getting a good grip on this might make me a good developer to build data-pipelines for big-data, machine-learning data space
+    - frankly i wasnt  smart enough to understand in my (4 year engineering  + 13 years software development) that makes 17 years, may be i wasn't smart enough 
+        - on a side note later to come back again
+        -  I had 1 good mentor who gave me some basic understanding in my 2 years of my career at first company
+        - i think first company experience will shape you a lot, atleast it made a good developer though not engineer
+        - his first teaching
+            - you imagine the problem wholistically to which you are coding , dont run trial and error to see the output
+             when you are convinced that 90% you are done, execute it, with 10% change or correction you should be able to generate the desired output solving the probelem.
+             i took this concept so far that i am notorious not to run my code till i am convince even for days to week based on the complexity of week, and still generate the desired output.
+             most of the time i dont test my code, i ask  testers/qa to run all comibnations, give them my own context and scenarios so that i can pick next complex stuff to solve.
+        - its my first mentor whom I should give alot  of credit for shaping me up
+    - trust me, i understood all the above,  after 13 years of software development and as i came across these technologies
+    - many thanks goes to parallel developments when i got introduced to concepts since 2018 on below
+        - cloud computing  
+        - dev-ops culture now its dev-sec-ops (largely due AI penetration) 
+            - on a side note since nov 2022 chatgpt boom its  ML-ops, LLM-ops
+        - microservices
+        - cicd pipeline
+        - nosql development, success stories
+            - so 2018, 2019 was a tough year to digest and apply in practice, with less guidance and lot of researching etc 
+        - 12-factor app, api gateway, Oauth,
+            - what to pick  all this for good reason.
+    - though all these technologies were there since early 2000s probably even before , I have to admit, I probably wasnt passionate enough to look early, however  since 2018 its good think as an engineer as opposed to developer
+    - another reason  being obscured by on-prem deployment team organization, we didnt had visibility what happend once the executable jar, war,ear tested and built, we usually heard another team will take care of it.
+        - cloud , devops, microservices togther broke this silo concern we got visibity to G
+    - 2019 April conferences [GIDS](https://developersummit.com/)
+        -  2 day programme , though i was sponsored for a single day, a colleague of mine cancelled i got another day chance to attend, which i was delighted
+        - This changed my perception of building software design, architecture, microservice granularity, mis conception of 12-factor app as a standard, 
+    - since college days i was facinated towards storage-devices, PCs(cpu,ram) and i was always curious in understanding how to leverage on   cpu speed(3ghz) and storage-speed(nvme.m2(5GB/s)))
+        - some how this has also  helped me to understand storage and compute solution better
+        - back in college days i was also facinated with GPU but seeing cost and its application(gaming, 3d-modeling), i kept away from researching it, and kept buying built in with CPU till date.
+
+- [Java Ecosystem](#java-ecosystem)    
+## Java Ecosystem   
+- java-ecoysystem
+    - java, java, java..
+    - experience in building desktop application, web services, microservices, data-centric backend applicatios
+    - i have primarily seen the evoultion of Java technogies,  
+        - its multi-paradigm 
+        - what i personally like in java one side is imperative sytle,  fine grained control on mutation of objects for large data sets , imagining a thread on jvm heap of course we have to trade off the heavy verbose code for it. 
+        - also for my cognitive style JVM , its memory model, garbage-collection techniques, multithreading concurrency etc suite well , probably in few of my attempts i failed to understand this in python
+        - just see below database technologies written in java, if you would like to research more.
+        - if you are new to java or need to know what stuff could be built with to excite you or broaden on mindset
+            - https://en.wikipedia.org/wiki/Amazon_DynamoDB, https://en.wikipedia.org/wiki/Apache_Cassandra https://en.wikipedia.org/wiki/Apache_Kafka  https://en.wikipedia.org/wiki/Neo4j 
+        - jdk-21 
+            - in my view , the most promising release  after java-8,  i am yet to leverage java 9 modualarity
+            - very exciting with virtural-threads, just a conigruation-change(spring.thread-executor=virtual) in springboot should boost performance, though i need to test for a heavy thread centric micro-service in pilot mode, before productionizing it. 
+            - record pattern, simplicity at best with implicit(immutablity,adapthive defau), data-oriented programming, atleast we  can now get rid of lomobok annotation
+        - just my view dont take it to heart id you are still using EJB, applets etc
+            - some flourish and current trend (spring,springboot) leveraging aop, DI, cloud integrations
+            - near to endagered (EJB) , in my view also http-statless helps a lot, so stateful bean, hyped entity beans didnt make sense as data-volume growth increased
+            - to extinct(Java applet) 
+        - servlet 
+            - first J2ee technology to serve data in 2000s now abstracted by Spring framework by @Restcontroller
+        - JSP
+            - dynamic content + static html served by underlying servlet technology, no more relevant now
+        - JSF
+            - building web component as a developer i didnt like it much, never got comfortable with it, as i recall it was due to verbose of tagging etc
+        - [springboot](https://spring.io/projects/spring-boot)
+            - this is a game changer in java for building production ready microservices 
+            - leveraging cloud integration support, 
+            - vast data-acess libraries from simple-powerful-jdbc to nosql(cassandra,neo4j)
+        - protocols
+            - CORBA 
+                - it was really complex to understand, and complex enough to explain now as well
+                - just FYI in case intersted, then as I recall it helped even  hetergeneous  java, c++ objects to communicate with interfaces and technology defined by corba,
+            - RMI (simply superceded by @RestController)
+                - last used 2016, 2017
+                - first basic block of distributed programming in java
+                - uses socket programing  leveraging tcp/ip with java interfaces 
+                - java agnostic not hetergenous like Corba
+            - SOAP  (simply superceded by @RestController from spring)
+                - xml over http - to serve data
+                - almost decommioned/deprecated with REST arcitecture styles 
+                - this is my first web api development experience around 2009 and 2012,2012
+                - got exposure xml-parsers( sax and jax ) 
+            - JDBC
+                - my goto tool to access data
+                - @JDBCTemplate simplifies all the boiler plate and good to use especially while pulling large data sets in batch, complex sql joins for transparency (orm tools really fail here only in my view and experience)
+                - ofcourse for simple cases could be replaced by @Entity from spring
+            - [JMS](https://en.wikipedia.org/wiki/Jakarta_Messaging)
+                - 
+
+
+- [Fascinating Technologies](#fascinating-technologies)    
+## Fascinating Technologies
+- [AC from War of Currents](https://en.wikipedia.org/wiki/War_of_the_currents)
+    - if AC wasnt popularized and made accessible to common people like us then several technogies wouldnt have been simply possible
+    - watch out dramtaic move on above [The_Current_War](https://en.wikipedia.org/wiki/The_Current_War) 
+    - FYI ending war gave rise to [General Electric](https://en.wikipedia.org/wiki/General_Electric) interstingly i worked for GE  for 5 years
+    - probably fear, idea,  are connected, probably create innnovation to serve large scale  at low cost
+- [civil-engineering](https://en.wikipedia.org/wiki/Civil_engineering)
+    - all the advancements from 1 floor strucuture to high-rise-apartments,townships, historical-monuments, airports, statues, towers, dams, bridges, roads , flyovers etc
+    - in facto lot of software design, patterns are heavily influenced by this discipline, so its a good analogy to see what happening in real world physical structure.
+    - proabably a mathematcial error could cause deaths at scale like dam
+    - software-jargons (pillar, foundation, factories, facade, bridge, )
+    - if you still dont agree with me, please take a look at this one of my favourite goto book on  role of software architect https://architectelevator.com/ if this excites take a look at this https://www.patternlanguage.com/
+        - this is just to understand the intersection of two disciplines
+    - its important to observe patterns in this field and real-world
+- [www](https://en.wikipedia.org/wiki/WorldWideWeb)  by inventor [Tim Berners-Lee](https://en.wikipedia.org/wiki/Tim_Berners-Lee)
+    - without this i wouldn't be propbably here, democratized sharing knowledge for world just by clicking(now-touching)
+    - http i usually leverage for scalablity,concurrency for inherently being distributed universally.
+- [wiki Encyclopedia](https://en.wikipedia.org/wiki/Main_Page)
+    - this is my goto for everything (knowledge,wisdom,defintion,history..etc) ofcourse on sofwtare(pattern,protocols,design,architecture)
+    - just on a side note if you ever like my work (past,present,future) and want to thank/gift me, please donate [wiki](https://donate.wikimedia.org/w/index.php?title=Special:LandingPage&country=IN&uselang=en&wmf_medium=sidebar&wmf_source=donate&wmf_campaign=C13_en.wikipedia.org)
+    - yeah i donate annually, though many times i feel to contribute frequently, may be near-future quarterly
+    - without this i wouldnt be here, being what I am now
+- [java](https://openjdk.org/)
+    - this will be my 1st preferred language (past,present,future) 
+    - [Multi-paradigm](https://en.wikipedia.org/wiki/Programming_paradigm#Multi-paradigm) [Multi-paradigm-comparision](https://en.wikipedia.org/wiki/Comparison_of_multi-paradigm_programming_languages)  
+    - also interstingly it has helped as a medium to choose my life-partner(mostly we fight occassionaly, but i still dont want to blame java for that), if we ever get to work together you might get to hear that-story which happened while building a blackberry-application in 2012, so its also a personal sentiment towards java.
+    - if you think sustainability
+        - [energy-efficiency](https://ionutbalosin.com/2024/03/analyzing-jvm-energy-consumption-for-jdk-21-an-empirical-study/)
+- [raspberrypi](https://www.raspberrypi.com/) 
+    - this is the most fasicnating hardware i have ever seen
+    - most of the times, the solution I am building, I imagine if i could fit in   8Gb Pi4(₹8k), yet to try pi5
+    - This is good computing contraint to me
+- [aws-s3](https://en.wikipedia.org/wiki/Amazon_S3) 
+    - any cloud object store should be fine including from google, microsoft, xyz
+    - atleast this is  what i am familiar with for now, with its constraints(3500put, 5000get) per-second for pre-prefix triggers a engineering math which we could leverage to model  many solutions to many unique-problems, espcessially analytical computations and storage options 
+    - with $23 per tb, this has become a factor to think interms of scale, storage-cost, ofcourse 99.9999 promise of durability
+    - on s3 put, trigger a lambda to do useful stuff
+    - https://docs.aws.amazon.com/AmazonS3/latest/userguide/Welcome.html
+- [sql](https://en.wikipedia.org/wiki/SQL)
+     - if there is one declarative language or style we have to thank for doing our job is this now and forever...
+     - we tell what we want in english, it gives what we want, then engine keeeps changing by vendor and we reap benenfit, provide db-engine is open-source, or ur paying premium for commerical-one
+     - sql, nosql(surprisingly u still write SQL in nosql-technology)
+     - with advanced analytics technologies with push ML, AI, sql unlikely go away , its that powerful
+     - rathar than running sql on traditional 2d matrix on rdbms, now we could be running on top of csv,parquet,json etc with some library/cloud-service acting as sql engine on top of cloud-object-store or data-lake etc
+        - on a side note  nothing stopping us to pull the data from a storage and doing joins(inner,left,right) on over java-objects using hashing technique, like we did in couple of projects.
+     - aws-s3-select over s3 for objects(csv,parquet, json) has also opened new doors for me to solve some modeling to  analytical problems
+     - from big-data to ML problems,  data-lakehouse  query-engines backing sql interfaces also reassures that sql is not going anwhere in near future as well and shows its expansion from rdbms -> data-warehouse -> data-lakes(object-stores ) -> lakehouse(query-engines from analytics to data-movement needs)
+     -
