@@ -1,13 +1,29 @@
+
+
+## Site Map
+- [star](#star)
+- [Bit On Title](#bit-on-title) | [Site Motivation](#site-motivation) | [About Me](#about-me) | [Contact](#contact) 
+- [One Reason To Work With Me](#one-reason-to-work-with-me)| [You Are](#you-aree)
+- [Domain Exposure](#domain-exposure) : [Retail](#retail) | [Financial Services](#financial-services) | [Telecom](#telecom) | [Aviation](#aviation) | [Billing](#billing)
+- [](#) | [](#) | [](#) | [](#) | [](#) | [](#) | [](#) | [](#) |
+- [](#)
+- [](#)
+- [](#) | [](#) | [](#) | [](#) | [](#) | [](#) | [](#) | [](#) |
+- [](#) | [](#) | [](#) | [](#) | [](#) | [](#) | [](#) | [](#) |
+[](#) | [](#) | [](#) | [](#) | [](#) | [](#) | [](#) | [](#) |
+
 ## Bit On Title
 - Some other titles that i had thought of 
     - knowing-me-support-me, knowing-me-hire-me, hire-me-fire-me-once-job-is-done, 6-months-contract, rent-me-6-months, [Knowing Me, Knowing You](https://en.wikipedia.org/wiki/Knowing_Me,_Knowing_You))
 
 
 ## Site Motivation
-- Motivation for this site, is to help you decide in  hiring-me or helping in your decsion making so that you/your team to  make a choice to work with me.
-- It's difficult to put all our thoughts in condensed 2 page resume, this is  more of a open book to my experiences so that you can make better choices.
-- In my experiences, so far, while working to solve a core-business-problem, friction is unavoidable, mostly demands lot more time, energy and patience, we usually have have lot of differences in opinions, culuture, thoughts, methodologies, approaches, problem-solving-skills, real-time-experiences, the way we perceive real-world and software-world etc.
-- This is a open book of my mine, to  help minimize friction towards me, you and us, to make us more comfortable, familiar in our ideas, thoughts and creativity. Hopefully,  this site helps you understand me better on my rationale choices and  you welcome me with a open mindset
+- Motivation for this site, is to help you decide in  hiring-me or helping in your decsion making so that you/your team could make a better choice to work with me.
+- one one dimension, it's difficult to put all our thoughts in condensed 2 page resume, this is  more of a open book to my experiences so that you can make better choices as you are evaluating me for certain role
+- In another dimension, In my all experiences, so far, while working to solve a core-business-problem, as we try to discover each other, friction is unavoidable and  mostly demands lot more time, energy and patience to understand each other. 
+    - this could be primarily because of few factors and dimensions, we usually have have lot of differences in opinions, culuture, thoughts, methodologies, techniques, approaches, problem-solving-skills, real-time-experiences, the way we perceive real-world and software-world etc
+- This is a open book of my mine, to  help you minimize friction towards me, yourself and us, eventually to make us more comfortable, familiar in our ideas, thoughts and creativity. Hopefully,  this site helps you understand me better on my rationale choices and help you welcome me with an open mindset
+- Last but not the least, it's influenced by wiki links, so please feel to click whatever interests you
 
 ## Contact
 - [Mail](mailto:prashanth.jtr@gmail.com) | [LinkedIn](https://in.linkedin.com/in/prashanth-tr-ba3363304)
@@ -29,6 +45,7 @@
         - I also have great interest in using serverless FAAS technologies
         - [math-works](#math-works)
         - I like my-work to speak-about-me, than a designation, it could be misleading-to-you, as it does-to-me (Wipro's architect is one quote from mine)
+        - you have 
         
 - I'm also open for contract to hire for 6 months or little more, with some negotiations on my billing.
 - If you are looking for an IC role, please check on relevant sections.
@@ -37,18 +54,11 @@
     
 
 
-## You are one of the below
-- [Recuriter HR](#recuriter-hr)
-    - [Cultural Fitness](#cultural-fitness)
-- [Hiring Manager](#hiring-manager)
-- [CXO](#CXO)
-- [Architect](#architect)
-- [Business Decision Maker](#business-decision-maker)
-- [Product Owner](#product-owner)
-- [Functional Owner](#functional-owner)
-- [QA Developer/Engineer](#qa-developerengineer)
-- [Backend Developer/Engineer](#backend-developerengineer)
-- [Fontend Developer/Engineer](#frontend-developerengineer)
+## You Are
+- [Recuriter HR](#recuriter-hr) | [Hiring Manager](#hiring-manager) | [CXO](#CXO)
+- [Architect](#architect) | 
+-  [Business Decision Maker](#business-decision-maker) | - [Product Owner](#product-owner) | [Functional Owner](#functional-owner)
+- [QA Developer/Engineer](#qa-developerengineer) | [Backend Developer/Engineer](#backend-developerengineer) | [Fontend Developer/Engineer](#frontend-developerengineer)
 - [](#)
 - [](#)
 - [](#)
@@ -80,23 +90,21 @@
     - [Company-4-GE Oct-2018 to Jan-2024](#company-4-ge-oct-2018-jan-2024)
         - 5.3 years - discovering myself as software-engineer, system-designer, data-modeler, architect
 
-## TOC
+## My Tech-Stack Views, Techniques, 
 - [Quick Bites on Problem Solving](#quick-bites-on-problem-solving)
 - [Software Design](#software-design)
-- [Software Design with SOLID, CUPID, UNIX Philosophy](#software-design-with-solid-cupid-unix-philosophy)
+    - [Software Design with SOLID, CUPID, UNIX Philosophy](#software-design-with-solid-cupid-unix-philosophy)
 - [Software Design with Patterns ](#software-design-with-patterns)
 - [Software Design by domain-driven-design](#software-design-by-domain-driven-design)
-- [Data Modeling](#data-modeling)
-- [System Thinking](#system-thinking)
-- [Product Thinking](#product-thinking)
-- [Software Architecture](#software-architecture)
+- [Data Modeling](#data-modeling) | [System Thinking](#system-thinking) |  [Product Thinking](#product-thinking)
+- [Software Architecture](#software-architecture) | [Cloud Computing](#cloud-computing)
 - [Execution Style](#execution-style)
-- [Java Ecosystem](#java-ecosystem) 
-- [Cloud Computing](#cloud-computing)
+- [My Java Stack & Few Titbits](#my-java-stack--few-titbits) 
+- 
 - [Fascinating Technologies](#fascinating-technologies)  
 - [an-engineer-since-2019](#an-engineer-since-2019)
 - [Execution Style](#execution-style)
-- [](#)
+- [Teaching Mentoring](#teaching-mentoring)
 - [](#)
 - [](#)
 - [](#)
@@ -138,6 +146,7 @@
 - i prefer challenging work where in can improvise on the solutions, mostly for novel-business-problems
 - [My Work Style](#my-work-style) - this might also be interesting.
 
+- [Teaching Mentoring](#teaching-mentoring)
 ## Teaching Mentoring
 - In my [Company-1-Tomax Jun-2005 to Sep-2009](#company-1-tomax-jun-2005-to-sep-2009) after we got trained for 6 months, company tasked us to mentor the next 2 batches (3 to 4 people)  for subsequent years, they were amazing with lot of energy, curiosity and  we also got better by teaching them based. We had to keep upto date with technology-trends like J2EE at that time. It also improvised my vocabulary
 - In [Company-2-CSC Dec-2009 to Mar-201](#company-2-csc-dec-2009-to-mar-2016) at the client manager(verizon) after gaining 1.5 years of trust and relationship, was open enough in tasking us (csc-colleagues) to mentor their 1st batch of fresh college engineers whom they had hired probably for  diversity. We shared a lot, laughed a lot, it was fun with them. 1 person had keen interest in solving with performance and my luck also he got assigned to my team. He always challenged the solutions which we were baking, it was good exercise for me as I mentored him.
@@ -202,8 +211,9 @@
     - [Why do I step into your shoes](#why-do-i-step-into-your-shoes)
     - [Fascinating Technologies](#fascinating-technologies)
 
+- [Architect](#architect)
 ## Architect 
-- You could be a solution-architect, system-wide-archiect, data-architect, xyz-architect , accidental(like-me-in-wipro)
+- You could be a solution-architect, system-wide-archiect, data-architect, principal-architect, xyz-architect , accidental(like-me-in-wipro)
 - You can expect below from me.
     - my strength is really on applying domain-driven-design, doing trade-off analysis, documenting architectural decisions, design options for novel-business-problems
     - In my view buisness-flow, data-flow diagrams are more important than general clould providers reference architecture. 
@@ -211,21 +221,23 @@
     - I usually draw plain diagrams  which caters larger-stakeholders like (PO, FO, BA,developers) so that we all speak same language and simplify the problem in first-hand. Next explore some new busines-capabilities.
     - i strongly believe core functionality to work smoother, accurate on aggregations, so its important we are clear with core problem.
     - once we are thorough, of course we can  now look a scalability leveraging domain-attributes. 
-    - I usually believ in crafting custom-tailored-solution constrained to the actual-problem-space
-    - I love taking to all stakeholder from developer to all way from business-stakeholders, I do respect all. 
+    - I usually believe in crafting custom-tailored-solution constrained to the actual-problem-space
+    - I love taking to all stakeholder from developer to all way from business-stakeholders, I do respect all for their inputs
     - I generally present 2 or 3 design option allow stakeholders to choose interms of cost-constraints like money, developemnt, opportunity etc
     - this might be further helpful
-        - [Math Works](#math-works) | [an-engineer-since-2019](#an-engineer-since-2019)  
-        - [Why do I step into your shoes](#why-do-i-step-into-your-shoes)
-        - [One Reason To Work With Me](#one-reason-to-work-with-me)
+        - [Math Works](#math-works) | [an-engineer-since-2019](#an-engineer-since-2019)  | [Why do I step into your shoes](#why-do-i-step-into-your-shoes)| [One Reason To Work With Me](#one-reason-to-work-with-me)
 - I am usually bad at below, considerations of mine for you to tradeoff
     - I usually dont have a generic-architecture that I could readily apply, unless the domain-problem is very static in nature.
     - Please excuse me, if I dont have a general cloud-providers infra reference architecture diagram.
     - Also, I am not really good at building brand new CICD pipelines, I usually try some  existing one, figure out alternatives till the feature shapes up well, I usually automate this at end
     - Though, I have some interest in SRE and operational stuff, until business problem demands it, I stay away from over-engineering on SRE the business-attributes should exhibit this behavior
-    - if applications are not-internet facing,  I usually  dont emphasize too much metics like junit, sonar, sast,cast, monitoring(new-relic) tool as they often dont get the context of problem, mostly they have false positives, though configuring them is no harm and potentially serve as a good checklist.
-
-
+    - if applications are not-internet facing,  I usually  dont emphasize too much metrics like junit, sonar, sast,cast, monitoring(new-relic) tool as they often dont get the context of problem, mostly they have false positives, though configuring them is no harm and potentially serve as a good checklist.
+- 
+- [XYZ Lead](#xyz-lead)
+## XYZ Lead
+- with all respect, you could be deginated as  team lead, technical lead, POD lead, lead-engineer-developer, principal-engineer ..xyz doing various further roles like system-design, applying architectures , scrum-master, Point-of-Contact, SME
+- this might interest you, 
+    - [Architect](#architect)
 
 ## Why do I step into your shoes
 - I attempt to know the problem from  your point of view
@@ -244,9 +256,27 @@
 - You could be PO, FO, executive, director, VP ...xyz 
 - Love to talk to you, whats on your mind, how you want me to help
 - what data points, you need
+- what manual-touch points you want to discuss, automate
+- what we can priortize
+- what you can expect from me
+    - To the best of my knowledge will speak your business-langurage, you dont have to learn our technical-language
+    - to listen to your pain points
+    - come with a working prototype to POC to have an experience of it
+    - give you some options on certain important tradeoffs on  business-flows(immediate-responsiveness,strong-consistency), (performance,scurity)
+    - not bother you on operational-stuff like metrics(test-coverage,vulnerabilities,)
+- my expectations
+    - user personas important ones
+    - how the system is used by end-users
+    - clarity on core, important business-flows, if down impacts highly
+    - to know/hear from you on pain points like usability, lot-of-manual-touchpoints, whic could be addressed in next 6 months or so
+    - current manual-touchpoints
+    - clarity on unused, lower-adoption of features  
+    - what flexibilities you are expecting
+
 
 ## Product Owner
-- based on my own experience, POs as oppososed to have total ownership(domain,technical,operational-stuff),  play a mix of roles (mgmt,point-of-contact, delegator-to-(technical-team, QA, BA etc) ) 
+- based on my own experience, POs as oppososed to having a total ownership(procuctdomain,technical,operational-stuff),  play a mix of roles (mgmt,point-of-contact, delegator-to-(technical-team, QA, BA etc) ) 
+- most of the times, POs are tasked to own application/tools mostly in capital based, industrial based orgs, so the name could be misleading
 - my last company had only 13 product lines, but hundres of POs, so thats where my difference of opinion comes from.
 - if you could help me on what you would like to own and your expectations from my side we could have less friction and put our business goal than occasional-namesake-roles
 - below is how I could help, clarify
@@ -325,14 +355,7 @@
 - Domain : Retail
 - Exposure on inventory-mgmt, workflow-mgmt, 
 - tenure 4.3 years, taste of good-developer caring-for-performance, building-reusable components for desktop-applications,
-- interview(process) 
-- round-1 a set of multiple choice questions, 
-- round-2(a coding on paper), 
-- round-3 mgr+hr 
-- in the coding round i was asked to build a floyd's trinangle which i had never heard of early, my-interviewer gave me hint that it was right triangle of * incrementing by one on each line, having some grip on for loops , I gave few attempts with 2 nested for loops, i was almost giving up , inteviewer said you are almost there with logic.
-when i went out from room. my friends from NIIT-java-training institute said what took you so long, it was 45 mins. we all had 20 min to 30 mins max. as we were waiting for the shortlisting, i knew i performed bad, but gave a thought that if selected, i will anwser boldly, confidently for 1 reason ( I wanted to work with the interviewing person), that was the impact he had created. Yes i was seleted, for next round, anwsered few things on socket,api, hobbies etc, joined tomax on 6th june 2005.
-An insight for you, if i like the inteviewing person (wisdom,patience,openess,smarter than me), i like to perform better and have inclination of joining the company, trading off on my expected-CTC
-- 6-months-traning 
+
 - initally I was in a training of 6 months, re-trained on java,sql, dbms concepts, html,javascript.
 - we also received some good session on retail product as well.
 we were four peope from NIIT(different branches), and from tomax there were four dedicated mentors for us, later there were .
@@ -375,10 +398,7 @@ Then when i started back, job openning were little less, more screening due to g
 ## Company-2-CSC Dec-2009 to Mar-2016
 - computer sciences corporation, now DXC again acquird by HP
 - tenure 6 years: attempting to be a good consultant, exploring leadership, collaboration, new challenges in domain of telecom,investment-banking
-- interview proces 
-- round-1 : 4 people from csc did a rapid fire questioning to test my knowledge, presure-hanling skills on java, swing, servlet, sql etc.
-- round-2 : client as panel of 2 (mgr + tech-lead) telephonic in csc bangaore office , repeated more less above, plus mulithreading, and couple of puzzles , i attempted 1 
-- Finally hr got over and after disucssing with my mentor, friends, i choose to go chennai.
+
 - ### verizon deputation, chennai (3 years)
 - 1st project(vmlite()) and taste of blackberry, being deputed a client-office chennai olympia techpark
 - task-1 is a good one to share i was tasked load some static-data to database and devise a solution (automation-script), the static domain was little tricky, so with dedicated week of work i devsied a partial solutiong in java, parsing and reformatting with something like notepad/textpad which i dont recall,
@@ -407,12 +427,10 @@ Then when i started back, job openning were little less, more screening due to g
 
 - CSC was courteous to find project for me in bangalore, on myrequest
 - visa, banglore (2 months)
-- inteviewed for an hour or so, the person who was inteviewing(telephone) i never met
-- intially i was screened for technical stuff, and later they wanted to put me on L3 support work, which i declined
-- i was released to bench thats what they call back then, CSC looking at my past experience, with in a week helped me to sceened at Societe Generalle
+
 - on a side note there were some credit card processing domain session by an excellent BusinessAnalyst, that was helpful
 - Societe Generalle -investment banking (3 years)
-- interveiw process (1 round of technical discussion), the inteviewer was very polite and was screening on culture and proessure handling stuff
+
 - project-1 (referential repository)
     - a very good team lead, super BA, QA and excellent team members, i never felt like a consultant
     - unlike verizon, all meeting in Societe Generalle were open for everybody, there is no close talk/discussion separately with SocGen employees , we were allowed in all team lunch, parties, outings etc.
@@ -439,10 +457,6 @@ Then when i started back, job openning were little less, more screening due to g
     - on a side note finally working for 3 years, i got convinced that stock market is trustable and  i can also invest. So its a life time lesson added for my financial-goal, this domain has helped me on personal goal.
     - i dont mind now joining back to this domain any time, as long as the i culturally fit them well.
 ## Company-3-Wipro Apr-2016 Jul-2018
-- i thought of 2 months break, and passively applied job, got an offer from wipro-weekend drive.
-- parallely i was also interviewed by HCL, again for a constutant position for caterplillar
-- interview process(panel 4 gave different situations )
-- inteview process(1 technical discussion all-conceptual) the interviewer was impressed with my fundaamentals i believe followd by hr round , got an offer, i chose to accept
 - project-1 (Ericsson telecom)
 - unlike my onsite client deputation , this was in wipro office (1 year electornic city, another year in divaysthree tech park, white field)
 - frankly speaking this my firs exposure to service-based consultancy services , from office , canteen, campus etc
@@ -474,262 +488,231 @@ since I was a new commer my colleague-1 and 2 did many times articulation becaus
         Though technically it sounded good, it didnt materialize and more over  usually its not good to negotiate once I resign from my position , so declined that offer from wipro's attempt to retain me.
 - left wipro on 11 july 2018, with a cake celebration(first one for me on leaving company)
 ## Company-4-GE Oct-2018 Jan-2024
--  5.3 years - discovering myself as software-engineer, system-designer, architect
-- 
-    - by oct 1st i had two offers 1 from GE, 1 from Quest
-    - quest
-        - i even went to  quest for 2 days, becuse GE HR round was pending, on second day of quest, in mid onboarding of Quest i had GE HR round, and from my ge hiring manger got a call stating that i went through it but hike would be 10% only as suggested earlier by him. next day i sent my resignation to Quest, and couriered their access badge etc.
-        - fin
-    - inteview-process
-        - i had just finished my HR round from Quest, as per schedule reached GE prestige shantiniketan bangalore
-        - the hiring manager introduced the panel of two (archiect,staff engineer)  at 2 pm
-        - this will be a lengthy, as it reflects the way i could be interviewed hence  forth
-        - round-1
-            - i was asked to design a stock-market trading application and was contrainted to meet SLA of a < 1second
-                - i started explaing the http 2 conectpts which i had recently researched on multiplexing, bidirectional concelpts, i just ruled out synchrous tcp/ip on my design, did few more thinks like handling asyn communiations etc.
-                - was asked to draw a sequence-diagram, i had use stuff like that quite some time back, so i did all diagramming with flow-chart, data-flow etc on whiteboard
-            - i was also asked to qucikly explain some design conceps for building facebook/linkedin, ofcouse i was struggling to design the concepts because i didnt use either practically, though i had some graph linking in my mind, the panel gave some tips on many-to-many scenario.
-            - by this time more than a hour had passed, the staff panel left for a meeting
-        - round-2
-            - the architect gave a coding round to design a computing algorithm for all part of a GE engine, he said the could be thousand of parts. and we could be using it for more than 1 engine, now scale was hundreds of thousand parts.left me in the room and went for meeting
-            - having some good grip on building table tree components in my first company I kind of leveraged that concpet
-            - i wrote  a custom java data-strucure list<nodes>, with a node parent, details of the part, used equals, hash code check check for engine and part equality.
-            - built a rollup strategy as parts got added, using mutationn, making some thread safety partitioning by engine,part-name comibnation as key strategy.
-            - some of the edge cases were not possible.
-            - afer more than a hour the inteveiwing-architect came back and took the papers  i wrote, he asked few more scenarios i gave some explanantions
-            - i was told to wait it was almost 7 to 7 30 pm, the hiring-manager came and said he had a meeting and will come back later, please wait we will finish today itself.
-            - finally around 8 he came back as opposed to discussing in meeting room, we went for a stroll, on prestige shantiniketan campus, it was quite big.
-             he asked how i felt about that technical discussions,  i just said it was good for me , system design, i tride my best. he asked why i have 2 months gap, why i quit wipro in just 2 years, i said my interest joing the right company and challenging work, He was direct and asked will you leave ge after 2 years if the project is not challenging, i had no fear, having some mixed opinion on wipro-culture, i instantly said yes i will quit if dont get challenging work. he asked my expectation on CTC. 
-             so far this was the best interview rounds, so i said i am ready to negotiate on CTC if the work u offer is challenging and you promise to take care of correction in future.
-             he said let HR round get over we can discuss post that.
-        - round-3 HR
-            - the HR Was repeatedly asking the reason to live wipro, he was convinced by my gap post wipro for 2 months,
-            - then asked why i want to join, i gave some reasons of my interest towards ge based on Ge Healtcare interview process, i hadnt cleared 2 years back, so i am trying for now.
-            - he took my expectations, when i can join etc
-        - finally i got from ge-recruiter(very-nice-person who was co orginating professional). that i have cleared HR round, hiring manager will back to me,
-        - same day hiring-mangaer called and said if you are ok with 10 to 15 % Ge is willing to rollout, for GEs reputation i aceepted.
-    - Ge aviation domain
-        - the way i have understood,the space i got exposed to,  everything in GE stars with an engine coming to shop visit,then many many appliations digitize  on the overhaul repair,replacement of parts etc .
-            every year for a  pre-selected quarter of a year they check if the margin they signed with customer to see if margin signed for 5 to 20+ year is profitable or not, so that hey can make some adjustment on overhaul for next year repair vs replacement of part (old,new) 
-                customer(
-                        airline like tata,indigo,southwest
-                        airfame boeing,airbus
-                        ), 
-            - on  a side note GE is very strict process oriented, strong cultured on ethics
-    - project-1 (workflow-orchestrator)
-        - my intro to microsevices, spring-boot, aws-cloud, cicd-pipeline, aviation-domain
-        - having a strong grip on servlet, soap-webservice,  I discovered these are new replaced with @restcontroller
-        - i had visiblty to machine hosted where the service ran,
-        - i had visibility to machine which hosted database
-        - jdbc DAO, DTO was replaced by JPA @respository and @JDBCTemplate
-        - the visiblity to cloud gave clear cut idea that we can leverage cpu GHz, ram-memory 4 to 8gb , started making several attempts to leverage on these concepts for every service request.
-        - also i was new to Git and github so the my initial colleagu-1,colleague-2 helped me to configure this for me.
-        - culture and team orgzn
-            in ge based on project u work, the team has parterner ship with vendors could be %(50 + 50) or (30%ge+70%vendors(tcs, capegemini,genpact(BAs))). So far  i was working as consultant for almost 8 years and now I had to work with consultants, inverse of what i had done. So I knew the degree of respect to be given.
-            Some were real good.
-            Though there was not strict timing, the team followed agile practices, the team size was close to 15 members,  i think so. 
-            2-qa, 
-            1 ba, 
-            1 vendor-architect, 
-            1 data-modeler-cum-dba- 
-            1 PO, 
-            2 FO
-            1-pod-lead, 
-            7-backend-developers(myself+3ge+2vendor)
-            3-front-end( 2 ge+1vendor) 
-            after i joined in couple of months atleast 4 people got dropped off. by the end of 2 plus years, the team size got reduced to 7 member (fronted-developer,pod-lead,qa,developer-backend,po,ba,fo) due to stabilization, covid-impact
-        - purpose   
-            - before this tool, there was a tool where all users(anlaysts of various domain) uploaded their documents to a box folder, whicn can shared and collaborated. so this tool was primarliy targeted to automate that in cloud.
-            The original desinger, authors made a good choice of leveraging Elasticfilesotrage service from aws, though several times i visualized it to be a s3 bucket. after I left this change was done.
-            - another purpose was to automate close to 80 high-level workflow steps , these belong to variouse modeling needs like technical, financiail, cost etc
-        - first weeks like my 1st company, came  with testing the application from my POD-lead(team-lead), then analyzing few requirements on feasiblity though i proposed few solutions, i heard the other application(consumer) would crash if we fulfilled the requirements,  so it didn't materialize, then came some minor enhancements and bugs in existing application.
-        one bug got my attention because nobody wanted to touch it, there was requirement to capture all the activities user did on the overall workflow which was captured en events table, only top 20 or 30 were shown on the screen, yet the events table which kept on growing day by day connected with some important tables, and each time some one went to activities screen, it took 7 to 8 mins to load for couple of scenario, occassionaly that particular microservice failed, crashed . team just restarted the microservice manually by running a chef script. after careful observations i applied a fix by some removing nester query joins and co-relation and even moved fetching a a set of records and its aggregation logic to service layer from database logic. Now it just took few seconds (i guess < 10 seconds). I got some attention from my backend developers team.
-        -  my 1st major deliverable came after almost 2 months of joining , so this was tool had only 1 integration for a contract setup for financial-modeling, now with intent of central orchestartor as visioned by people who built and envisioned this tool, the 2nd integration came  to make an integration with a downstream (technical-modeling) on which requirement kept changing for next 6 months or so. It was also a request from pod-lead, director to lead the design, developement, they were anticipating some future changes heavy in this.
-        with help of my colleagues-ge barely 1.5 years of IT expeerince, a qa-ge  i formed an informal team for my developemnt.
-            colleague-1 : had an excellent mindset of solving business-problem and a performance-oreiented getting job done attitued
-            colleague-2 : was very passionate on technology he used.
-            qa : he had a great sense of humor, was super fast on manual testing, was primarily an automation tester, complementing other qa person who did manual testing.
-        all a good grip on domain especiall my colleague-1 was my goto person to understand the business problem
-        parallel there was lot of discusions happening on integrations, business use case from PO to PO , BA to BA conversations. I made 1 thing very clear to keep design simple, stupid, extensible and flexible. Because the discussion suggested lot of unknowns, some future changes, also political-conflicts for uknown-reasons to me
-        Being prouduer of the data, upstream. I did 2 things 
-        1. I devised api contract codes for each of the business use case. - froze on contract code but gave option for extensibity by adding new codes
-        2. Rather, tightly coupling designing for java objects , i choose to parse the json payload, got some dirty pollutiong of code, but it was quick to make any change for  downstream application request.
-            - before I left the project, i converted back to java objects for other readability.
-        both helped to have a good control and i could litterally make change as soon as I heard change in requirement and do a git push, for qa testing.
-        Ofcourse due to json complexity I had to do the whole development, later did KT and my team appreaciated point-1.
-        almost 5 months passed, for having nearly less bugs, doing quick evolving changes, I came to notice of POs, In my team the POs got changed twice and we got a new PO
-        I stopped actively taking developments it was well stabilized.
-        - parallely on technical front, i was updating several things
-            -  i got trainings AWS, aviation domain.
-                - more than aws the avaiation-domain helped me to solve lot of future domain-problems
-            - aws visiblity of resources was forcing me to think on efficient utlization below 
-                compute -  2 to 4 gb ram compute, 
-                storage-db -  the data growth of appliation 32 MB by the time i left i might have touched 100mb or so
-                storage-efs - for storing all documents, since it was elasic, never bothered but felt s3 to be a good fit
-            - microservices - good design
-                spreaded across 8 to 9 microsercies
-                - only 3 meant solving domain problem, rest 5 felt more of libary, shared service dilemma
-                - 12 factor app     
-            - cicd 
-                colleague-3(the architect-3 who interviewed)
-                was helping me to understand the aws resources, chef-script, helping me to get some IAM permission
-            - I was nominated for 2-days [GIDS conference](https://developersummit.com/),bangalore
-                - sessions from neal-ford, mark richards, scott davis and few other changed changed my approach on microservices design, architecture, domain-driven-desing, front-end tricks etc
-                - i applied several techniques from these , discarded some concepts of 12-factor heroku apporach
-                - some techniques like jdbc over hibernate, domain-driven-desing  were not new to me, however hearing from expert boosed on my confidence  in that direction.
-                - I was able to build stuff with confidence, talked/advocated in my team on tradeoffs etc
-                - from here on wards, i made attempt to attend every year( i even said to my director, to nominate me every year for this)
-            - comping back to  my next assignments, few requirements came.
-                1.  was a KPI  to capture some 36 months for data for few parameters/factors
-                    my colleague1, collegue-2 had a good grip on domain, so  I just guided them on design and advocated on JDBC batch processing with an diffrent approach to store 2d array. 
-                    also in our brainstorming we projected the data volume growth for 10 plus years, this helped in giving clear directions to stakeholders.
-                    its here where i had discussion with funtionalOwner-1 for brainstorming on requrirements. I suggested to store the data for long term which she liked. the best thing her docucument with BA was very clear, we didnt had to stuggle on understanding the requirements. 
-                2. next i took the lead of an new-integration due its criticallity, same old deviced contract codes, etc however took a math apporach to store plain numbers for the domain terms (lock(100),unlock(-100)signoff(200),re-approval(-200)), just a tiny math, but helped for reconciliation and backward compatiblity, aggragation in later. the purpose was simply to have a governance to approve a set of users to to agree if overall business for the given contract can finalized to close for the financial year. 
-                Prallely my POD lead had move out of our organizatin. Now there was no replacement, had I to handle few mangeent activies, though I was offered for the POD lead position, being skeptical of mgmt chaos I rejected, however unofficial i became point of contact for the team, apart from from PO.
-                3. next guided the team on  design for a feature (probably idea of 1 or 2 users) to introduce a interim iteration/workflow-setup, almost 8 weeks of effort, post-deployment to production, due to a change of mgmt, we were asked to take it out. we just applied a hack to turn off the feature.
-                4. Again guided a team on security vulnearablty to securely upload files, apply few defens of depth strategies like file extension, exploding archive and verifying contents etc.
-                5. the nextgen technical-modeling hype kickstarted, along with pandemic. i was pulled in for several endless discussion on integration. the first integration was supposed to be replaced by a new tool. fortunately we got a  new POD lead(colleague-4), I was able to focus on my technical stuff.
-                colleague-4 was a very systematic planner, in all his activities. 
-                6. by this time i had already expressed with my lead and director to move away from this project and to take up an new challenge. I was requested to complete the next-gen integration and promised for next one, 
-                we had two major features at our hand 
-                1. Problem-1 : To standardize the workflow setup
-                2. Problem-2 : the design, develop and  integrate for new integration tool
-                parallely, my lead was smart enough to pick the next POD lead. we devised a plan.
-                for the problem i just guided the team team on design, this came with lot discussion with biz stakeholder FO,PO 
-                for Probelem-2, i played an IC role,from lengthy discussions, to develop and implement with all stakeholders. I also got a chance to work with my  along with my colleague-3-architect who interviewed me.
-                He had couple of integration strategies sync,async.
-                Knowing the application enough, I strongly insisted the synchronous communication (web-api) with KISS.
-                we also brainstormed on technology to pick, though I was more inclined toward exiting Java/springboot stack.
-                My colleague had visioned serverless in mind. No matter how we implemented it was clear to me that downstream application need to get/pull information needed from our-upstream-application with < 2 to 5 seconds, because downstream had no clue on overall workflow and only it can get from upstream.
-                So from serverless point of view, little google on aws-lambda warned on cold-start, so java was out of context(graal vm was in news, but wasnt tested), so he recommended on node.js/typescript. 
-                To test in practice, built the simplest, api requirement we noticed the server to be booted in a second or couple. This gave a good confidence that if could server the data pull in millis, then we could meet the SLA of 2 to 5 seconds.
-                I built the most complex api query and verified that it took in 700 to 800 milllis. We zeroed on node.js/typscipt. we sucessfully built  apis and overall developemnt in 8 t 9 weeks.
-                MY colleague-3-architect contributed on almost all cloud-formation temlates, for aws-lambda. This helped me to focus on solving the overall business problem in a better way.
-                production went smooth, in fact we deployed 1 day prior itself.
-                 It was a good learning from me, as well. we presented the the solution to larger audience, also noticed that serverless with integration was something we tried newly in much wider space of the org.
-                on a side note, to keep the integration extensible and flexible i leveraged sql view, complex joins and leverageed all buisness logic in it, measuring for an SLA made sense . so the typyescript service layer just handled the error scenarios and was dumb enough on any busincess logic.
-                    - on a side note to verify system scalablity, we did a load testing with Jmeter.
-                Prallelely, my colleague-4 did a great job on excecution of problem-1.
+-  5.3 years - discovering myself as software-engineer, system-designer, application-architect, solution-architect
+### aviation-domain-exposure - the-Engine-product , after-market-service-agreement, the-margin-review
+- [ge-aerospace](https://www.geaerospace.com/sitemap) [GE-wiki](https://en.wikipedia.org/wiki/GE_Aerospace) my exposure is on in-house software tools and applicaitons built for [commercial-services](https://www.geaerospace.com/commercial/services)
+- the way, I have understood, on the space i got exposed to, and everything what I workef for in GE  starts with an engine coming to shop-visit, then many appliations digitize  on the MRO (overhaul repair,replacement of parts etc). The services offered are very customized for each customer be it airline or airframer which they call by customized-service-agreements CSAs which span from 5 to 20+ years of contract, GE has x-margin-profit which are reviewed CMRs(contractual-margin-review) annually on a pre-defined quarter. The basic idea is to check the MRO cost incurred for the set of engine which came to shop. So, every quarter of the year, they check or review(to-be-precise) on the x-margin-tobe-realized which was signed with customer to see if its profitable or not. if not then to make some adjustments on cost trading off repair vs replacement-of-parts((old,new)) or send them to another MRO shops spreaded across the globe where the labor cost is cheaper. For some Engines like CFM56, Leap due to JV say 50:50 the revenue gets shared. The complexity continues like this on how ge charges/bills customer on several factors like temperature, altitude, thrust and utilization(just like my-bike-service)
+    - GE Purpose "We invent the future of flight, lift people up and bring them home safely"
+    - culture-perse : in-my-view though I could be wrong, I imagine it to be pyramid of  people(bottom), process, techonology(top) and due to the very nature of business they usually put safety and security at top. so even for inhouse-software solutions which are not internet  facing still to use a technology, process and multi-level approvals are always deeply inherent in the culture. I should admit that there are lot of good problems(modeling-analytics-simulation) to be exploited and  solved. I also felt that I was evolving as a good software engineer during my tenure for the support I got from my immediate-managment and colleagues support. 
+    - since childhood, I have great interest in aeroplanes, its fascinating to watch them fly, although i kind of dont like long-journey in plane due to conjusted seating, I usually  prefer aisle seat, so that I can strech my legs.
+        - Personally, I had put a lot of effort, extr-hours in understanding the engine its parts, modules etc CMRs, CSAs, upstreams, downstreams   scanning through confluences, recordings and countless conversations with my ge-colleagues, vendor-partners. This had helped me to stretch for almost 5+ years in GE solving different problems. The culture is pretty good for learning if you like the domain.
+- some key memorable things in my entire tenure of GE
+    - [GIDS conference](https://developersummit.com/) sponsored by GE
+        - sessions from neal-ford, mark richards, scott davis and few other changed changed my approach on microservices design, architecture, domain-driven-design, front-end tricks etc
+        - i applied several techniques from these , discarded some concepts of 12-factor heroku approach.
+        - some techniques like jdbc over hibernate, domain-driven-design  were not new to me, however hearing from expert boosted my confidence  in that direction. I was able to build stuff with confidence, talked/advocated to my team on tradeoffs etc
+        - Now, I make a good attempt to attend every year
+    - 2.5 days jets lite where you get a great opportunityto dismantle a small engine, with lot of safety gear and team-work-stuff
+
+- ### project-1 (workflow-orchestrator)
+- Clearview CMR
+- my intro to microsevices-with-spring-boot, aws-cloud, cicd-pipeline, aviation-domain
+    - having a strong grip on servlet, soap-webservices,  I discovered, these are now replaced with @restcontroller @service, @entity. 
+    - lot of data-access like jdbc DAO, DTO was simplified with higher abstractions offered by JPA @respository and @JDBCTemplate
+    - Thanks to cloud, now I had visiblty to machines hosted where the (service,datbase,frontend-app) ran
+    - This visiblity to cloud gave clear cut idea that we can now leverage cpu GHz, ram-memory 4 to 8gb , started making several attempts to leverage on these concepts for every functionas-requriements
+- my role   
+    - Initially, played a backend-developer, then evolved to more of technical-lead taking care of entire design and architecture.
+- Purpose of overall Tool - In-house tool 
+    - The original authors and to certain extent my vision of it to be a
+        - automation tool to collborate on cmr documents, modeling inputs, outputs  across models(technical,financial)
+        - a cmr-workfloworchestrator automating 80+ cmr steps/tasks 
+        - a cmr kickoff tool, signoff tool, workflow-progres tool, an integration-tool
+        - Served high-level personas for CMRs
+   
+-  My design decisions, tasks, contributions 
+    - my initial work started with testing, feasiblity of flowing all-cmrs-data to a downstream in one-shot, a performance-issue which was addressed by tweaking sql (removing few co related queries and nested joins and moving a piece of it for service-layer)
+        - the peformance-issue and some attention
+            - There was a requirement to capture all the activities, user did on the overall workflow, it  was captured on a events table with delta-change of step/task, only top 20 or 30 activiteis were useful and shown on the screen, yet the service pulled all the events table which kept on growing day by day connected with some important tables, and each time some one went to activities screen, occassionaly it was 10 to 20k records,  it took 7 to 8 mins to load for couple of scenarios, occassionaly that particular microservice failed, crashed . Team just restarted the microservice manually by running a chef script. after careful observations, I made a  disovery that though there were 10 to 20k of records, at back of sql it did join several 100k recores, I did  apply a fix by removing nested query joins and co-related queries and even moved fetching a set of records and its aggregation logic to service layer from database logic. Now it just took few seconds (i guess < 10 seconds). Now, I got some attention from my backend developers team.
+    - automation-1-FleetFlex-Integration : 
+        - started as a developer, collaborator with other architects, and eventually led the whole design and implemenation, and then guided team for subsequent changes
+        -  so far this application had only 1 integration with downstream for financial-modeling-space,  the 2nd integration came  for another  downstream for technical-modeling-space on which requirement kept changing for next 6 months or so.
+        I made few things very clear,  to keep design simple, stupid, extensible and flexible. Because the discussion suggested lot of unknowns, some future changes, also political-conflicts for uknown-reasons to me.
+        Being cmr-workflow-data-prouducer and an upstream orchestrator. I did 2 things further to help me for quick changes
+        1. Devised api contract codes for each of the business use case. Froze on contract codes but gave option for extensibity by adding new codes
+        2. Rather, tightly coupling and designing for java objects , i choose to parse the json payload, got some dirty pollution of json code, but it was quick to make any change for  downstream application request.
+            - Before I left the project, i converted back to java objects for others readability.
+        Both helped me to have a good control and I could litterally make changes as soon as I heard change in requirement and do a git push, for qa testing.
+    
+    - automation-2-OpsParam-KPI 
+        - Guided team on design and data-model for this requirement.
+        - Purpose:  to capture some 36 months for severity factors of engine-flew like flight-leg, utilization, derate,temperature
+        Two of  my young colleagues had a good grip on business-domain and also had a good depth on implementation as well, so  I just guided them on design and advocated on JDBC batch processing with an diffrent approach to store 2d array. 
+        With good brainstorming,  we projected the data volume growth for 10 plus years, this helped in giving clear directions to stakeholders including to retain the history of summary backed by a history table to keep the actual summary to be rolling and relevant for current year.
         
-                As i joined new team,   I gave KT  on all that I had gained for few weeks.
+    - automation-3-postprocessing-tagging   
+        - my-role collaboration on  design with other architects and 
+        -  a minor enhancement to tag on modeling-documents with  various postprocessing tools/applications, their outputs were to be shared by s3 bucket. This was my intro fascinating aws-s3 which has become an excellent storage tool for me.
+    - automation-4-Finlization-step
+        - my-role: design,implementation end to end, collaboration-with-stakholders
+        -  finalizing a workflow step for a technical-modeling space one more to add on, it was just backed up an sql, however the business-discussions got heavy and stopped after working piece of delivered.
+    - automation-5-CMR-signoff
+        - my-role: collaboration-with-stakholders, desing, implementation and integration
+        - purpose: to have a governance to approve a set of users to to agree if overall business for the given contract can be finalized to close the CMR for the financial year
+        -  I took this for its criticallity, same old deviced contract codes, etc however took a math apporach to store plain numbers for the domain terms (lock(100),unlock(-100)signoff(200),re-approval(-200)), just a tiny math, but helped for reconciliation and backward compatiblity, aggragation in later. 
+    - automation-6-interim-workflow-setup
+        - my-role: guidance, collaboration with stakeholders
+        - a small-feature (probably idea of 1 or 2 users) to introduce a interim iteration/workflow-setup, almost 8 weeks of effort
+        - post-deployment to production, due to a change of mgmt, we were asked to take it out. we just applied a hack to turn off the feature.
+    - automation-7-secure-file-upload
+        - my-role: guidance on design
+        -  To securely upload files, apply few defense-of-depth strategies like file extension, exploding archive and verifying contents etc.
+    - automation-8-template-standardization
+        - my-role: lead the design, data-model, collaboration-with-stakeholders(lot of burndown, conflict-mgmt, covid-chaos)
+        - purpose : To standardize the cmr-workflow-setup, so that any upstream/downstream could mutually agree on what a task/step defintion meant, across various modeling-spaces
+        - 
+    - automation-9-Workflow-Hierarchy
+        - my-role : collaboration-with-stakeholders,  played an IC, end to end design, implementation, data-model in mid of covid-chaos
+            - built on top of a POC from my colleague-architect's serverless-integration with aws-lambda
+        - purpose : to share the workflow-setup to down stream to a new replacement tool(SIM-SimulationInputManager) of automation-1-fleetflex-integration
+        - a-little-story to share : 
+            - First, I got a chance to work  along with my colleague-architect who interviewed me.He had couple of integration strategies sync,async. Knowing the application enough, I strongly insisted the synchronous communication (web-api) with KISS principle. we also brainstormed on technology to pick, I was more inclined toward exiting Java/springboot stack.My colleague-architect had visioned serverless in mind. No matter how we implemented it, it was bothering me that downstream application need to get/pull information needed from our-upstream-application with-in 2 to 5 seconds, because downstream had no clue on overall workflow and it can only get from us as upstream. They had a heavy dependency to select the contract, followed by the technical-modeling-workflow setup against the cmr, backed by a standardized-workflow-template devised by us-the-upstream. Only when they had these two flows could they kickstart theirs. So from serverless point of view, little google on aws-lambda warned on cold-start, so java was out of context(graal vm was in news, but wasnt tested), Finally as demonstrated by my other architect  with node.js/typescript, we noticed the server to be booted in a second or couple. This gave us a good confidence that if we could serve the data-pull in millis, then we could meet the SLA of 2 to 5 seconds. I built the most complex api query and verified that it took in 700 to 800 milllis. We zeroed on node.js/typscipt/aws-lambda. I sucessfully built all remaining apis and overall developemnt in 8 t 9 weeks.  My colleague-3-architect contributed on almost all cloud-formation templates, for aws-lambda. This helped me to focus on solving the overall business problem in a better way. production went smooth, in fact we deployed 1 day prior itself. It was a good learning for me, as well. We presented the the solution to larger audience, also noticed that serverless with integration was something we tried newly in much wider space of the org.on a side note, to keep the integration extensible and flexible I had leveraged sql views, complex joins and leveraged all buisness logic in it and  the typyescript service layer just handled the error scenarios and was dumb enough on any busincess logic.On a side note to verify system scalablity, we did a load testing with Jmeter simulating 500+ cmr domain events per second as opposed to ideal 30+cmrs per second. ofcourse it wasn't necessary looking at aws-lambda-concurrency of 1000s, however proof was needed to ensure confidence in all stakeholders.  
+- some intersting observations to debate or discuss or improvise
+    - Team org and evolution : 3 PO change, 2 Pod-lead, team size for 17+ to 6+
+        - i myself rejected Pod lead role, for architectural-stuff
+    - spreaded across 8 to 9 microsercies,  only 3 meant solving domain problem, rest 5 felt more of libary, shared service candidates
+    - storage-db -  the data growth of appliation was hardly 32 MB by the time and by the time, i left it might have touched 100mb or so.  for an orchestrator for 3 to 5 years this was the data growth, I observed. The modeling inputs and outputs were stored on aws-EFS 
+    - The key business-domain-event could have been roughly 30cmrs * 50steps spreaded across across each quarter , so this wasnt any data-centic application and I ocassionaly debated with my colleagues on hype/buzz against this. Probably I knew, too much on this data-model.
 
-    - #### project-2 the modeling problem
-        - unlike my previous-team,  This was a vendor-partner heavy team, had their daily scrums in late evenings for on-site PO, BA
-        - My previous also also joined this this cost-modeling-space with a manager-role, this was a relief as we had developed a frequency and trust with almost a year or so. He also had a trade-off mindset on timelines of deliverables which was super helpful during execution.
-        - first,  we made few corrections like having standup on morning and need basis to connect to PO, BA for clearity on functional and requirements, with little friction eventually everything got settled down.
-        - my first task was to analyze a pecular file upload issue which was faling for larger files, after some hiccups i solved by increasing the RAM size, to everyones surprise, others probably didnt notice it. after some math said you could upload upto 2gb for file size, with a-million per sheet etc which we had discovered.
-        - as we were identifying the major problems, were can contribute top 2 things came up
-        - Problem-1 : integration strategy for the Next-Gen integration 
-        - Problem-2 : a new modeling capability called module-by-workscope which we heard was quite data-centric
+- ### project-2 the modeling problem
+- Cost Model 
+- Initial Reasons to bring me into this project
+    - To my upper managment, it was request to get me a complex problem, with large-datasets
+    - colleague-3-architect had visioned to solve some key performance, stuff called productivity projects
+    - This was 90% vendor-partner heavy-team, so I was also tasked to see what we can solve differently
+- my role
+    - lead the technical design and architecture
+    - a failed attempt to convert shared db acess to a wrapper service
+- Purpose of overall Tool - In-house tool for cost-modeling-space
+    - post digitization of shop-visits to MRO-shops, this as the first place were analysts could re-adjust the cost with either repair,replacement(new,used) and re-model them to differenet shops as well, so that they could re-adjust to what made sense for cost-optimization
+    - It had pretty good models already built on regresssion for matured product lines
+    - automation-1 There was an ongoing new thread to introduce Cost by ModuleByWorkscope
+        - this modeling was applicable for current new product-lines GENX, Ge9x, LEAP and future ones
+        - design-option-1   
+            - there was 20 to 30% dynamic data which varied among 3 new-product-lines
+            - The team had already gone to far in several business-flows, they had also applied  or was inherent with original design [EAV-data-model](https://en.wikipedia.org/wiki/Entity%E2%80%93attribute%E2%80%93value_model) 
 
-        - on few-attempts we wanted first secur the problem-1, as we had observed in the past that the integrations , consume lot of time if potential isssue. As we brainstormed with our vendor-partner who had quite a good grip on the domain, we came to know that existing tool, had direct db-connection to fetch the data the data they wanted. 
-        to our surprise the nexgen team which was building a everything on new stack with api-development approach was OK to pull the data directly from the database.
-        As we learnt , this was a typical integration everyone followed or dared to question including new NextGen team because the entire cost-space had a common shared-databse architecture and lot of applications 10 plus incluing several modeling, reporting, integration applications were built.
-        Having, seen some success on refactoring, I and with few other arcitects and my pod-lead-cum-mgr proposed to build a api wrapper so that the direct db connection, is retired. Our initial idea was simple, with the wrapper to begin, we could have changed the sharded db to service architecture eventually by just satisfying the api contract.
-        we proposed a 1.5 to 2 month to develop the solution. we escalated to upper-managment as-well, inspite of presenting all tradeoffs, the downstream stream application didnt even wanted to miss a single day. 
-        As we discovered, there also seemed to be some unknown political background for the strong shared db architecture deviation.
+    - automation-2 This was supposed to be integrated with a downstream consumer(SIM) for which I had recently done the integration
+        - design-option-1: 
+            - the old fleetflex-tool had direct access to this shared-database, called the views exposed, The new replacement so called next-gen SIM-tool also had finalized to goforward with direct-access. 
+    - some-eventual-discoveries
+        - technically, this was purely a shared-database-architecture with on-prem-oracle
+-  My design decisions, tasks, contributions 
+    - automation-2 :
+        - we saw the future problems, if direct access continued in future as well, for below concern
+            - first, this was time-to-market, deliver asap, with least change, direct access to views meant tight locking of integration to database views , which interm suggested that this cost-model application cannot make any change to database, refactoring which could affect the running views.
+            - second, there was no thought process to make sure to efficiently allow downstream application to consume in 100 of thousand records if it grew so.
+            - third, based on how downstream made db connection to views, a connection failure could have halted its operation.
+        - we proposed a new design to give a wrapper-service, to which they could have consumed, potentailly this would have addressed many above and on top of that myself and another data-architect had imainged to change the current architecture to nosql one. This didnt materialize probably we were late in the game.
+    - automation-1
+        - Purpose: with plenty of discussion with BA and our SME(vendor-partners) who had gained enough knowledge on domain, it appeared that for new product-lines it was difficult to model cost because the shop-visit could happen in future 3 to 5 years. Some analysts and stakeholder had cleverly devised a model to take engine parts with highest cost all the way module level and remodel to different shops, engine-models etc they had devised a formula having multiplied by a x % exposure-rate.
+        - the current design-option-1 had few major conerns
+            - first, even though analysts picked high part cost, we had to model for all the parts of engine, which they had filtered in a prevous buisness flow and then build all permuations(team-called-placeholder) for shops, regions, series, model etc. so no body was thinking through scale
+            - second, a leap engine was by far the biggest one in volume, its volume/scale wasn't factored again
+            - third, there were four modling-inputs , one part-level was already failing or crashing occasionaly
+        - After, some heavy brainstorming, the third concern was re-emphasized to me, we projected the data-volume-growth and stared exploring some novel solutions to eliminate EAV-data-model which was the root cause, due to pivoting nature, the 100MB input was becoming more than a gig and SQL joins which connected to EAV-data-model-tables behaved misearbly slow. From 10 to 20mins 
+        - My another colleague had  1 novel idea to leverage on AWS-glue baked by AWS s3 to eliminate the EAV-data-model with python as a service layer and parquet as format. Though it all sounded good. We kept this an open option design-option-2, I started exploring java-service with aws-s3 as design-option-3. 
+        - design-option-3
+            - I took  only the core piece of taking the 4 modeling inputs and rollup the cost and demostrated with no-sql option having done in few seconds for the worst one LEAP product-line
+                - my rational choice for java, inspite of having python was simple and stupid. 95% of the team knew java-ecosystem, so had a future thought that if we cracked in java, it will open up doors for many other beyond this team as well
+            - for visiblity and simplicity I simply preferred CSV over parquet.
+            - also leveraged aws-s3-select so that other can think interms of sql
+                - direct parsing with opencsv should have also been fine
+            - partition on s3 prefixes with all the domain-attributes like product-line , analysis year
+            - the aggregation, rollup all was done in java-service layer with mutations for full-performance benefit
+            - the 20% dynamic data was handle with custom data-structure based on a dynamic array.
+            - occasionaly, I had solved few beanstalk build and deployement issues.
+            - pkg-by-feature structuring was also heavily leveraged
+- outcome/result
+    - the team was happy with EAV-data-model removed
+    - during QA testing Leap rollup happened as fast as < 10 seonds
+- some intersting observations to debate or discuss or improvise
+    - for some reason for my entire tenure, from team I repeatedly heard the modeling inputs and outputs as reports, in reality they werent
+    - There was plenty of scope for applying the regression-model it was limited to pull only 3 year data, with nosql we could have gone for even 10+ and beyond as well
+    - There was plenty of good stuff  on visiblity the team had baked for the entire anaysis-flow, choosing all possible analysis of models was bit cumbersome and could have improvised.
+    - 
 
-        - Now i as tasked to look at Problem-2, with all the inputs from heavy brainstorming sessions strected to 2 to 3 hours occasionaly, learn  that this was serious problem from technical point of view, the team was trying to solve.
-        There was a catch in the requirement, for 3 product-lines, the schema could change and was quite dynamic. So they had devised this https://en.wikipedia.org/wiki/Entity%E2%80%93attribute%E2%80%93value_model, which u could take a look in your free time. This was an intersting problem for me as well.
-        colleague-5(vendor-partner-1) : very good python, sql, strored-proc and had lot of grip on the cost domain space
-        colleague-6(vendor-parter-2) : very tech-centic person, but very cooperative
-        BA: was kind enough to simplify the overall the math behind the feature.
-        pupose of the feature: to rollup the cost of parts of engine all the way upto an MRO shop and dyanmic parameters like region, thrust etc.
-        After few sessions with our BA,  I was able to digest the math and got confidence of solving it.
-        on a side-note, Our PO trusted BA who in tern trusted colleague-5,6, so I just made ally with colleague-5,6 and BA.
-        But rather than storing the data in the shared database, we started brainstorming on removing the entity-attribute-value pattern, started to look at nosql model, because the acutal million records became 18 million records because there were 18 attributes which got piovted.
-        on as side note everyone except me was in team was  talking about reports, there were 4 modeling inputs which they called as reports. It took some time to convince them that they were just modeling inputs. because the end user called it like that. in my view i also reimaning the inputs to be just one, could have syntesized based on a configuration.
-        we started thinking of aws mgd servcie leveraging like mongodb. we figured out that getting approval for any new mngd db service could take months of approval.
-        in the meanwhile my-colleague-6 was talking about a novel idea of leveraging aws-glue with s3, even had a prototype solution backing his theory. 
-        as a backup plan we suggeste colleague -6 and another develoer to continue and proceed with EAV solution.
-        We called our nosql solution as option-2.
-        Though my I was excited about solving the problem with s3 but was little sketpical about solving it in python ecoysystem which only my colleague-5 had expertise,
-        I started ventruing into dumping the dynamic-schema data per product line with java service layer. 
-        Also during a brainstorming, it cracked to me to solve in few seconds with max a minute in worst case.
-        So far with EAV solution, user could trigger for rollup go for a good walk of 2km or 10 to 15mins coffee breakup for an average usecase. with worst case the team was already concernced with 20 to 25min time. So even they needed a novel solution badly.
-        As I started devleoping and implementing the solution it took 4 to 5 weeks extra than as I had anticipated.
-        At the background, I conveyed the scalable solution to my manager and he handled it very in background.
-        Finally, after few hiccups in correcting the rollup logic,  we took the worst case(20 millions for a product line ) and figured out it took close 10 to 15 seconds for the overall rollup aggregation.
-        it had leveraged partitioning on product,customer etc so we confident on scalablity as opposed to eav option-1 on shared-database.
-        finally i gave KT, I got over to next project.
-        originally i had visioned to work only  6months, however it got strected to 11months
-        by the way, after i left  , even though it got prodcutionized after few months, to consumer of it took sweet time and i heard i happend, alost 1 year later.
-    - ### project-3 billing reconciliation
-        - with intent of getting out solving  in 6 months, with great enthuiasm, solving a no-sql joined this team
-        - This team had roughly 50% ge 50% vendor-partner
-        - unlike my previous teams, I got saved from NextGen tools jargon, some modeling concepts.
+- ### project-3 billing, reconciliation 
+- Clearview Billing 
+- Initial Reasons to bring me in
+    - to stabilize the overall application
+    - take a fresh look on the current design and architecture
+- my role
+    - recon-feature : lead the full end to end design and implemenation to productionizing it 
+    
+- Purpose of overall Tool - In-house tool for Billing
+    - every month GE billed its customer based on an agreement with something called severity condition in which the engine flew as as opposed orginal agreed severity, Since the contracts were long term ranging from  to 20+ year, biller could charge an explicit dollar escalation.
+    There was a new requirement with heavy push from top to incorporate an automation of reconciliation of older invoices. Billers (the-end-users) of app so far did this manually probably with lot of excel work
+    - Design-Option-1 
+        - to just add an reconciliation indicator, in all of the regular billing tables(database), service-layer, UI-layer 
+        - With a time-to-market idea the team had already finalized this with buisness  as well 
+    - some-discoveries to problems as couple months passed by with lot discussions
         - This system already had two components
-            - app-1.0 an old application which served few cusomter
-            - app-2.0 a brand new applicatin with modern tech-stack(java,springboot,vuejs, aws(ECS))
-        - purpose - every month GE billed its customer based on an aggrement with something called severity condition in which the engine flew as as opposed orginal agreed severity, Since the contracts were long term ranging from  to 20+ year, biller could charge an explicit dollar escalation
-        - this project had already gone with  several iterations, app-2.0 tool promised to be a next-gen tool, heavily betted on aws infra.
-        - I was supposed to work on a feature called reconciliation to reconcile billings on qurarterly, semi-annual, annuall and monthly which varide from customer to customer as per agreemet made.
-        - in-fact there was ongoing series of design-disucssions, the data-model was finalized, the timelines were alfrady publised sep-end for thie feature.
-        - initially i was requested by my pod-lead to just implement it.    
-            As I took a look a database ER-diagram several things didnt make sense, looked like the datamodel was merely recopied with just an indicator with regular billing vs reconciled billing. the indicator was flowing everywhere and it looked like stored-proc was the way forward, because the earlier model had built it that way.
-            lets call this solution option-1. 
-        - as i brought my concerns to my Pod lead and mgr notice, we were trying to re-negotiate with business for 4 months extra.
-        - some regural-billing took close to 10 mins.
-        - after doing some projection on data volume growth, i made a discovery that if we built with on existing data base the regualar monthly invoicing application and database would also crash. 
-            the reason again because of eav pattern for storing severity factors which varied again each customer, contract.
-            but unlike my perviouse cost-space-problem which had 20% dynamic attributes play, this had 80% play.
-        - more over unlike my previous projects this was portal application facing customer and transaction heavy. 
-        - as I discovered there a in impact of $400 million every month.
-        - though in theory i wanted by call app-3.0, we thought of applying the solution silently at background. I had a great support from my manager and my director on this.
-            we identified  couple of design-options.
-                option 2.1 to store 2d array structure for dynamic-severity-conditions - it didnt materalize
-                option 2.2 to leverage aws mgd nosql solution, though we were exporling again on mongodb, it didnt materialize.
-                option 2.3 leverging aws-s3 got kicked off.
-        - due contraints on man-power i got 1 dedicated service developer(colleague-7) added.
-        - 1 mistake i did, unlike my previous project where i took only critical flow, i got tagged for entire feature.
-            as we discoverd it had some major 7 to 8 flows. ideally i should have only worked flow 4 to 6.
-        - couple of months passed, the progress was only upto flow-3.
-        - now there was change in mgmt and my QA (colleague-9) was tasked to take up the pod lead role.
-        - i was struggling to understand the core functionality and to my surprise this guy had everything what i wanted to tundestand. Though he was scolding me for reaching out later. he was kind enough to simplify all the flows in excel, i was amazed at some math he applied in excel. 
-        I said to myself that i need his alliance to solve this big problem. 
-        - Things started getting better, With his help we gave buisness also  some new capabilities, by this time the project was already 3 to 4 months delay,
-        - as we started brainstorming and simplifying further adding new buisiness capablitiies like file upload, i injected lot of pre-processing techniques (compuations,aggregations) upfront before user could click next. when user went for next step he got already computed results.
-        - to remove the eav-pattern, i again leveraged aws-s3 for service layer, with good partition-techniques etc.
-        - my POD-lead-cum-QA alredy new how to do load testing , and most of the testing was he did, i just did a sanity y test which saved me.
-            - on a side-note i had to make few corrections on the domain of  aggregation-logic, some bugs got surfaced initially for  couple of weeks. then things got better.
-            - though there were other testers and BA, i worked on bug only if it came from my Pod-lead because the business logic was complex enough and only we had a fair enough undersntading.
-        - on parallel note, i had helped team on git-stragey branching by feature, and some cicd problems.
-        - i also had a great help from colleague-3-architect on understadin this portal-infra space and occasional build issues.
-    - ### project-4 data-strategy
-        - I gave a heads upto my manager and director, though they gave few opitons, they didnt materialize for me.
-        - on project-2 cost space, my director asked for a last assignment to come up with a strategy on data for entire cost-space, which was on shared database architecture.
-        - the data architecture for entire cost space was overwhelming due to its deep enough business logic hard-wired in storedprocs.
-        - bit of reasearch took me to something call defensive strategy which made sense at that time. https://hbr.org/2017/05/whats-your-data-strategy
-        - I ruled out offensive, all Ge problem pointed towards defensive strategy.
-        - after few brainstorming discussion with team , I proposed few techniques to split the data based on productline, customer etc and to leverae something like cloud-ojbect-store.
+            - cvb-1.0 the orignial old application  which had several limitations on billing-flexibility and on pretty much shared database architecture and heavy store-proc centric.
+            - cvb-2.0 a brand new applicatin with modern tech-stack(java,springboot,vuejs, aws(ECS)) all invoicing 
+            - there was a migration activity from app-1.0 to app-2.0 as well
+            - this project had already gone with  several iterations, app-2.0 tool promised to be a next-gen tool, heavily betted on aws infra.
+            - This was embedded in customer portal, so it also had different contols be it security, infra etc
+            - wostcase-scale : some regural-monthly-billing(southwest-airline) took close to 10 mins and was worstening
+            - There were also lot of tickets from billers on cvb2.0 automation to be stabilized
+            - Team also struggled with single-master branch strategy and they usually worked on lot of tickets, features, bugs etc
+            - Team, also had  a challenge in understaning the new ECS, codebuild aws-infra as I recall.
+            - impact of $400 million every month 
+-  My design decisions, tasks, contributions :
+    - Reconciliatio-feature : lead the full end to end design and implemenation to productionizing it 
+    - As, I reviewed and made several attempts to  fit the Design-Option-1 and ran in my mental models. Few things were bothering, 
+        - First-concern,  it was more from a time-to-develop and deliver asap and concern-1 it didnt factor or devised any solution for  wostcase-scale. now from monthly-regular-billing to yearly there was 12x if you can imagine
+        - second-concern, there was a 80% dynamic-schema play per invoice/bill based on severity factor the engine flew. There nothing done any thing to tackle it better,  The [EAV-data-model](https://en.wikipedia.org/wiki/Entity%E2%80%93attribute%E2%80%93value_model) was used to tackle it. Though at surface of iceberg it looked 4 factor of (temperature, utilization, altitutue, thrust) there were several derived attributes which could vary further based on Join Venture, Engine, customer to name few, they all were backed up by heavy formula as well.
+        - third-conern, due to this reconciliation feature, there was high possibility of impact regular-invoicing to current runtimes of service and storage, my fear was service-crash and major performance to year-on-year. Which team wasnt noticing or thought of
+    - I proposed two more desing options to tackle above concern
+        - design-option-2 : to have multivalued array structure, in  the exisiting schema. json to eliminate the EAV-data-model backed by a new feature-service to isolate regular-monthly-billing. the rational choice was speed but reduce the pivoting of data-growth 
+        - design-option-3 : leverage nosql storage for all three concerns backed by a new feature service.
+    - contribution :
+        - desinged and implemented design-option-3  end-to-end with help of a developer, QA(had a strong grip on the entire usecase, lot of credit goes for his clarity and simplfication).
+            - On a sidenote like pandora-box the number of busines-flows went beynond 8, I had a good amount of burndown, Ideally I was suppose to work only of flow-4,flow-5 and flow-6 which did all core calculations, but end to end need to be seriously thought.
+        - like my previous project , i landed with aws-s3 leveraged its prefix for data-partioning and address pretty much all 3 conerns
+            - several-techniques like 1 network-call, in-memory-processing, mutataion of aggregations were heavily used.
+        - this was further built with pkg-by-feature, embedded inside, regular invoicing.
+        - the entire invoice-calculation-engine was reimagined and rebuilt.
+        - validation-problem, The billers usually had to validate for lot of engines in some cases close to 600 to 1000, so devised a one shot validation cum possible fail scenario. so had built a new validation-engine to show new capability or help the biller in 1 go.  
+        - adding new buisiness capablitiies like on file upload, i injected lot of pre-processing techniques (compuations,aggregations) upfront before user could click next-invoice-calculations. when user went for next step he got already computed results so it was just a dowloading a copy of computed results. The general idea was to add the whole computations on file upload itself. of course it comes with a adative code developement cost.
+        - lot of low-level critical pieces like interpolation-engine was rebuilt and refactored from cvb 2.0
+        - to help accelerate front end development, several 2d api were built at service and given to UI so that they could just blindly draw the matrix, saving serveral hours of development time.
+        - refactored git-branching feature strategy
+        - Helped team on making several other decisions as they surfaced in my tenure like git-branching-by-feature, some minor correction on aws-codebuild, ECS etc
+    - people-who-helped-me in few hard-times 
+        - QA without his clarity, the domain, some critical biz calculations could have been really hard to digest
+        - colleague-3-architect on understading this portal-infra space and occasional build issues.
+        - my manager and director to have covered on few timeline slippages and having patience on end solution
+        - few developers(UI,service) who helped in flow1,flow-2,flow3
+- outcome/result
+    - the worstcase for regular-monthly-invoicing which took 10+ mintues for 600+ engines was now tested for 12x yearly reconcilation for 1000+ enignes invoicing time took was less than 10 seconds leveraging existing service-compute.
+    - the buisness was promised on not to worry on data load for alteast 10+ years 
+   
+- ### project-4 data-strategy attempt in 2+ months
+- data-strategy for cost-space
+- Initial Reasons to bring me in
+    - to take a fresh look what we can strategize in terms of data architecture for this most complex, upsteam cost-modeling suite of applications which had stored-proc heavy business-logic and share-database-architecture. 
+- my role
+    - To come up with a strategy 
+- Purpose of cost-space
+    - it was the most upstream suite of modeling-space an analyst would start with as eninge came to shop and digitized the MRO stuff
+        - technically it was all shared-database(on-prem), full of stored-procs, each-app with its own copy of truth.
+-  My recommendations, approaches, contribution
+    - data architecture for entire cost space was overwhelming atleast to me, for below
+        - first, its deep enough business logic hard-wired in storedprocs, hardly there were any experts left to decode it.
+        - second, nobody wanted to touch/disturb this shared datbase architecture, if they did also lot of pushback from top-management
+        - third, there was no master-static data to even orchestrate the product-wise or customer-wise data
+    -  bit of reasearch took me in few directions
+        - 1. to something called defensive strategy which made sense at that time. https://hbr.org/2017/05/whats-your-data-strategy
+        - 2. I was already exploring data-ownership and data-as-product from zamak dehagni's data-mesh
+    - parallely, there were some good stuff on ETL time reduction with aws-glue jobs from one of the exiting team
+    - I did make some fail attempts to strategize the static-data(master-contractual-data,master-product-data)
+    - Finally, I proposed a theory, that all the product-lines could be decentralized and isolated so that they could be scaled horizontall or vertically as per the future data-volume growth. Gave some techineques of cloud-object-store options, its partitioning techniques, these were all nosql-solutions. So its hard to convince anyone, unless they have done it.
 
 
 
 
-
-
-
-## TOC
-- [Quick Bites on Problem Solving](#quick-bites-on-problem-solving)
-- [Software Design](#software-design)
-- [Software Design with SOLID, CUPID, UNIX Philosophy](#software-design-with-solid-cupid-unix-philosophy)
-- [Software Design with Patterns ](#software-design-with-patterns)
-- [Software Design by domain-driven-design](#software-design-by-domain-driven-design)
-- [Data Modeling](#data-modeling)
-- [System Thinking](#system-thinking)
-- [Product Thinking](#product-thinking)
-- [Software Architecture](#software-architecture)
-- [Execution Style](#execution-style)
-- [Java Ecosystem](#java-ecosystem) 
-- [Cloud Computing](#cloud-computing)
-- [Fascinating Technologies](#fascinating-technologies)  
-- [an-engineer-since-2019](#an-engineer-since-2019)
-- [Execution Style](#execution-style)
-- [](#)
-- [](#)
-- [](#)
-- [](#)
-- [](#)
 
 ## Quick Bites on Problem Solving
 - These are some of my approaches, techniques, strategies when the business-domain to technical-domain  is well-understood 
@@ -751,9 +734,9 @@ since I was a new commer my colleague-1 and 2 did many times articulation becaus
 ## Software Design with SOLID, CUPID, UNIX Philosophy
 - eval(SOLID,CUPID,unix-philosophy) , generally prefer CUPID and unix philosophy over SOLID becuase in practice SOLID didnt help me to model the domain problem really
     - i would also like to put a strong opinion that irrespective of what we choose, its not visible to customer, end-user one excpetion ofcourse is if  you r shipping a open-source tool,library 
-    - so picking is choice of architect, designer, engineer a-good-developer
+    - so picking is choice of architect, designer, engineer to a-good-developer
     - the key idea no matter what we pick should be cater the evolving needs of business problem 
-        - in my view, this holds good in buidling all sorts of application needs 
+        - in my view, this holds good in building all sorts of application needs 
         - operational aka transactional 
         - analytical  to advanced anlytics using ML, AI technlologies
             - inspite of cheapest object cloud-storage comanies, dont have data ready for advanced analytics, most of it is RDBMs and mostly for couple of years, all being truncated/deleted not storing archiving aws-s3 for example
@@ -773,6 +756,7 @@ since I was a new commer my colleague-1 and 2 did many times articulation becaus
     
     -   i have heavily leveraged builder, factories, adapter, facade if you expect me know everyting and check my knowledge on these probably I am a  wrong fit
 - J2EE, JEE pattern
+-[EAV-data-model](https://en.wikipedia.org/wiki/Entity%E2%80%93attribute%E2%80%93value_model)
 
 ## Software Design by domain-driven-design
 - [Domain-driven design ](https://en.wikipedia.org/wiki/Domain-driven_design)
@@ -782,10 +766,9 @@ since I was a new commer my colleague-1 and 2 did many times articulation becaus
     - please dont hire/work with me 
         - if you are hearing first time and you still found a  better way to solve the problem
         - you dont like this design not matter what
-- from a clould-computing per-se also the from evolution to options, in-my view point to only one thing to accelarate on solving business problem or to automate it with evolving-business-needs 
-    - on-premise -> IAAS -> PAAS -> SAAS , FAAS 
+- from a clould-computing per-se also the from evolution to options, in-my view point to only one thing to accelarate on solving business problem or to automate it with evolving-business-needs from on-premise to XAAS( IAAS -> PAAS -> SAAS , FAAS )
 - retirement to replatform
-    - in most of my observation the core-business-domain its operating-principles more or less remain same like in typical ecommerce order,inventory and in manufacturing(MRO,supply-chain)
+    - in most of my experience and observations the core-business-domain its operating-principles more or less remain same like in typical ecommerce order,inventory,payment, shipping and in manufacturing(MRO,supply-chain) with few deltas
         -  user-personas may change
         - traditional ways of doing it might change   
         - new digital tools got cheaper
@@ -878,65 +861,100 @@ since I was a new commer my colleague-1 and 2 did many times articulation becaus
         - some how this has also  helped me to understand storage and compute solution better
         - back in college days i was also facinated with GPU but seeing cost and its application(gaming, 3d-modeling), i kept away from researching it, and kept buying built in with CPU till date.
 
-- [Java Ecosystem](#java-ecosystem)    
-## Java Ecosystem   
-- java-ecoysystem
-    - java, java, java..
-    - experience in building desktop application, web services, microservices, data-centric backend applicatios
-    - i have primarily seen the evoultion of Java technogies,  
-        - its multi-paradigm 
-        - what i personally like in java one side is imperative sytle,  fine grained control on mutation of objects for large data sets , imagining a thread on jvm heap of course we have to trade off the heavy verbose code for it. 
-        - also for my cognitive style JVM , its memory model, garbage-collection techniques, multithreading concurrency etc suite well , probably in few of my attempts i failed to understand this in python
-        - just see below database technologies written in java, if you would like to research more.
-        - if you are new to java or need to know what stuff could be built with to excite you or broaden on mindset
-            - https://en.wikipedia.org/wiki/Amazon_DynamoDB, https://en.wikipedia.org/wiki/Apache_Cassandra https://en.wikipedia.org/wiki/Apache_Kafka  https://en.wikipedia.org/wiki/Neo4j 
-        - jdk-21 
-            - in my view , the most promising release  after java-8,  i am yet to leverage java 9 modualarity
-            - very exciting with virtural-threads, just a conigruation-change(spring.thread-executor=virtual) in springboot should boost performance, though i need to test for a heavy thread centric micro-service in pilot mode, before productionizing it. 
-            - record pattern, simplicity at best with implicit(immutablity,adapthive defau), data-oriented programming, atleast we  can now get rid of lomobok annotation
-        - just my view dont take it to heart id you are still using EJB, applets etc
-            - some flourish and current trend (spring,springboot) leveraging aop, DI, cloud integrations
-            - near to endagered (EJB) , in my view also http-statless helps a lot, so stateful bean, hyped entity beans didnt make sense as data-volume growth increased
-            - to extinct(Java applet) 
-        - servlet 
-            - first J2ee technology to serve data in 2000s now abstracted by Spring framework by @Restcontroller
-        - JSP
-            - dynamic content + static html served by underlying servlet technology, no more relevant now
-        - JSF
-            - building web component as a developer i didnt like it much, never got comfortable with it, as i recall it was due to verbose of tagging etc
-        - [springboot](https://spring.io/projects/spring-boot)
-            - this is a game changer in java for building production ready microservices 
-            - leveraging cloud integration support, 
-            - vast data-acess libraries from simple-powerful-jdbc to nosql(cassandra,neo4j)
-        - protocols
-            - CORBA 
-                - it was really complex to understand, and complex enough to explain now as well
-                - just FYI in case intersted, then as I recall it helped even  hetergeneous  java, c++ objects to communicate with interfaces and technology defined by corba,
-            - RMI (simply superceded by @RestController)
-                - last used 2016, 2017
-                - first basic block of distributed programming in java
-                - uses socket programing  leveraging tcp/ip with java interfaces 
-                - java agnostic not hetergenous like Corba
-            - SOAP  (simply superceded by @RestController from spring)
-                - xml over http - to serve data
-                - almost decommioned/deprecated with REST arcitecture styles 
-                - this is my first web api development experience around 2009 and 2012,2012
-                - got exposure xml-parsers( sax and jax ) 
-            - JDBC
-                - my goto tool to access data
-                - @JDBCTemplate simplifies all the boiler plate and good to use especially while pulling large data sets in batch, complex sql joins for transparency (orm tools really fail here only in my view and experience)
-                - ofcourse for simple cases could be replaced by @Entity from spring
-            - [JMS](https://en.wikipedia.org/wiki/Jakarta_Messaging)
-                - 
+- [My Java Stack & Few Titbits](#my-java-stack--few-titbits)    
 
+## My Java Stack & Few Titbits   
+- also in [Fascinating Technologies](#fascinating-technologies)
+- if you r thinking  sustainability, 
+        - [comment]: https://ionutbalosin.com/2024/03/analyzing-jvm-energy-consumption-for-jdk-21-an-empirical-study/
+        - [energy-efficiency](https://thenewstack.io/which-programming-languages-use-the-least-electricity/)
+        - [awspblog - Rust is also interesting](https://aws.amazon.com/blogs/opensource/sustainability-with-rust/?pg=devrust)
+- My stack, my View on  Java & a bit on its Ecosystem
+- At low-level lot of core-java conecpts are pretty much neutral and  common to data-structure, algorithms in general. My grip strongly comes from having deeper understanding on java internals, aggregation on large-object-graphs, multhreading contol, hashing techniques of java.
+- Relevant:  
+### microservices
+    - Springboot 5+
+    - with [](#software-design-by-domain-driven-design)
+### data-centric 3+years
+- of course in my 18years, i have seen the evoultion of lot of Java technogies many fading to constantly flourshing like Spring, spring-boot, Jdbc
+- its multi-paradigm 
+- what i personally like in java one side is imperative sytle,  fine grained control on mutation of objects for large data sets , imagining a thread on jvm heap of course we have to trade off the heavy verbose code for it. 
+- also for my thinking style, JVM , its memory model, garbage-collection techniques, multithreading, concurrency etc suite well , probably in few of my attempts I failed to understand this in python
+- just see below database technologies written in java, if you would like to research more.
+- if you are new to java or need to know what stuff could be built with to excite you or broaden on mindset
+    - [dynamodb](https://en.wikipedia.org/wiki/Amazon_DynamoDB), [cassandra](https://en.wikipedia.org/wiki/Apache_Cassandra) [kafka](https://en.wikipedia.org/wiki/Apache_Kafka) [neo4j](https://en.wikipedia.org/wiki/Neo4j)
+- jdk-21 
+    - in my view , the most promising release  after java-8,  I am yet to leverage java 9 modualarity yet in some real world project
+    - very exciting with virtural-threads, just a conigruation-change(spring.thread-executor=virtual) in springboot should boost performance, though i need to test for a heavy thread centric micro-service in pilot mode, before productionizing it. 
+    - record pattern, simplicity at best with implicit(immutablity,adaptive defaults), data-oriented programming,
+        - complemented with streams we could do some good aggrgations, reduction with 1-step closer towards matrix operations
+        - atleast we  can now get rid of lomobok annotation, 
+- just my view dont take it to heart id you are still using EJB, applets etc
+    - some flourish and current trend (spring,springboot) leveraging aop, DI, cloud integrations
+    - near to endagered (EJB) , in my view also http-statless helps a lot, so stateful bean, hyped entity beans didnt make sense as data-volume growth increased
+    - to extinct(Java applet) 
+- ### flourishing And Relevant Java Stack
+- [springboot](https://spring.io/projects/spring-boot)
+    - this is a game changer in java for building production ready microservices 
+    - leveraging cloud integration support, 
+    - vast data-acess libraries from simple-powerful-jdbc to nosql(cassandra,neo4j)
+- JDBC
+    - my goto tool to access data
+    - @JDBCTemplate simplifies all the boiler plate and good to use especially while pulling large data sets in batch, complex sql joins for transparency (orm tools really fail here only in my view and experience)
+    - ofcourse for simple cases could be replaced by @Entity from spring
+[comment]: to add to my stack Micronaut, and Quarkus | learning tools such as ELKI, DL4J, and JAVA-ML | 
+    
+- ### My Java Old-Stack
+- experience-in-building :  
+    ### desktop-application first 6+ years
+    - [Java Swing](https://en.wikipedia.org/wiki/Swing_(Java)), tables, tabletrees, gridbaglayouts(my-goto-layout-manager)
+    -  I pretty much built whatever came to me, end-to-end with backend jdbc/hibernate/ejb 
+    - notable works to recall inventory-search, appoinment-scheduler, HQ-store-hierarchy,field-technician-application, 
+    - had build lot reubsable-components be it at user-interface level or backing data-models especially leveraging components
+        - on a side note, also had worked on a proprietary RIA canoo ULC , which was a half-object server side technology
+    - last used 2014
+    ### web-applications 
+        - Servlet, JSP, JSF EJBs, Hibernate backed by JBOSS, now wildfly servers
+        - back in those times we used several custom patterns like facade, dto, dao layers to leverage on these verbose technologies.
+        - last used 2014
+    ### mobile-application 2+years
+    - blackberry-field-technician-app, primarily leveraged more or less the knowledge of java-swing over here, 
+    - last used 2012
+    ### web services 1+years
+    - soapful-webservices, officially this is my first web 
+- a bit on technologies once like dinosaurs and now pretty much superceeded by annotations @Restcontroller, @Service
+- servlet 
+    - first J2ee technology to serve data on top of http-request-response library component in 2000s now abstracted by Spring framework by @Restcontroller
+- JSP
+    - dynamic content + static html served by underlying servlet technology, no more relevant now
+- JSF
+    - building web components as a developer, i didnt like it much, never got comfortable with it, as i recall it was due to verbose of tagging and inflexibility etc
+- CORBA 
+    - it was really complex to understand and complex enough to explain now as well
+    - just FYI in case intersted, then as I recall it helped even  hetergeneous  java, c++ objects to communicate with interfaces and technology defined by corba-interfaces
+- RMI (simply superceded by @RestController)
+    - last used 2016, 2017
+    - first basic block of distributed programming in java
+    - uses socket programing  leveraging tcp/ip with java interfaces 
+    - java agnostic not hetergenous like Corba
+- SOAP  (simply superceded by @RestController from spring)
+    - last used in 2014,2015
+    - xml over http , to serve data
+    - Restful architectural style did a good job in getting rid of strict-xml-schema-wsdl-verbose
+    - this is my first web api development experience around 2012
+    - had good exposure to  xml-parsers( sax and jax ) , a bit of http
+- [JMS](https://en.wikipedia.org/wiki/Jakarta_Messaging)
 
 - [Fascinating Technologies](#fascinating-technologies)    
 ## Fascinating Technologies
+- [wheels](https://en.wikipedia.org/wiki/Wheel)
+    - world runs on wheel, in my house also I like everything to be wheels, easy to clean, readjust space if we have to accomodate more guests
+    - lot of innovation goes from wood to rubber to precision-ball-heads(steel,aluminum) 
 - [AC from War of Currents](https://en.wikipedia.org/wiki/War_of_the_currents)
-    - if AC wasnt popularized and made accessible to common people like us then several technogies wouldnt have been simply possible
-    - watch out dramtaic move on above [The_Current_War](https://en.wikipedia.org/wiki/The_Current_War) 
+    - if Alternating Current wasn't popularized and made accessible to common people like us then several technogies wouldn't have been simply possible
+    - watch out dramtatic movie on above [The_Current_War](https://en.wikipedia.org/wiki/The_Current_War) 
     - FYI ending war gave rise to [General Electric](https://en.wikipedia.org/wiki/General_Electric) interstingly i worked for GE  for 5 years
-    - probably fear, idea,  are connected, probably create innnovation to serve large scale  at low cost
+    - probably fear and idea,  are inte-connected, they create innnovation to serve large scale  at low cost
 - [civil-engineering](https://en.wikipedia.org/wiki/Civil_engineering)
     - all the advancements from 1 floor strucuture to high-rise-apartments,townships, historical-monuments, airports, statues, towers, dams, bridges, roads , flyovers etc
     - in facto lot of software design, patterns are heavily influenced by this discipline, so its a good analogy to see what happening in real world physical structure.
@@ -945,37 +963,99 @@ since I was a new commer my colleague-1 and 2 did many times articulation becaus
     - if you still dont agree with me, please take a look at this one of my favourite goto book on  role of software architect https://architectelevator.com/ if this excites take a look at this https://www.patternlanguage.com/
         - this is just to understand the intersection of two disciplines
     - its important to observe patterns in this field and real-world
-- [www](https://en.wikipedia.org/wiki/WorldWideWeb)  by inventor [Tim Berners-Lee](https://en.wikipedia.org/wiki/Tim_Berners-Lee)
+- [www](https://en.wikipedia.org/wiki/WorldWideWeb)  by inventor [Sir Tim Berners-Lee](https://en.wikipedia.org/wiki/Tim_Berners-Lee)
     - without this i wouldn't be propbably here, democratized sharing knowledge for world just by clicking(now-touching)
-    - http i usually leverage for scalablity,concurrency for inherently being distributed universally.
+    - http : i usually leverage for scalablity,concurrency for inherently being distributed universally.
 - [wiki Encyclopedia](https://en.wikipedia.org/wiki/Main_Page)
     - this is my goto for everything (knowledge,wisdom,defintion,history..etc) ofcourse on sofwtare(pattern,protocols,design,architecture)
     - just on a side note if you ever like my work (past,present,future) and want to thank/gift me, please donate [wiki](https://donate.wikimedia.org/w/index.php?title=Special:LandingPage&country=IN&uselang=en&wmf_medium=sidebar&wmf_source=donate&wmf_campaign=C13_en.wikipedia.org)
     - yeah i donate annually, though many times i feel to contribute frequently, may be near-future quarterly
     - without this i wouldnt be here, being what I am now
 - [java](https://openjdk.org/)
-    - this will be my 1st preferred language (past,present,future) 
+    - this will be goto language (past,present,future) if I dont find anything sutiable for the problem
     - [Multi-paradigm](https://en.wikipedia.org/wiki/Programming_paradigm#Multi-paradigm) [Multi-paradigm-comparision](https://en.wikipedia.org/wiki/Comparison_of_multi-paradigm_programming_languages)  
-    - also interstingly it has helped as a medium to choose my life-partner(mostly we fight occassionaly, but i still dont want to blame java for that), if we ever get to work together you might get to hear that-story which happened while building a blackberry-application in 2012, so its also a personal sentiment towards java.
-    - if you think sustainability
-        - [energy-efficiency](https://ionutbalosin.com/2024/03/analyzing-jvm-energy-consumption-for-jdk-21-an-empirical-study/)
+    - also interstingly it has helped as a medium to choose my life-partner, more on this, if we ever get to work together, you might get to hear that-story which happened while building a blackberry-application in 2012, so its also a personal sentiment towards java.
+    - if you think sustainability, 
+        - [comment]: https://ionutbalosin.com/2024/03/analyzing-jvm-energy-consumption-for-jdk-21-an-empirical-study/
+        - [energy-efficiency](https://thenewstack.io/which-programming-languages-use-the-least-electricity/)
+        - https://aws.amazon.com/blogs/opensource/sustainability-with-rust/?pg=devrust
+    - My experiences with [My Java Stack & Few Titbits](#my-java-stack--few-titbits)
 - [raspberrypi](https://www.raspberrypi.com/) 
-    - this is the most fasicnating hardware i have ever seen
-    - most of the times, the solution I am building, I imagine if i could fit in   8Gb Pi4(₹8k), yet to try pi5
+    - this is the most fasicnating computer [SBCs](https://en.wikipedia.org/wiki/Single-board_computer) i have seen so far
+    - most of the times, the solution I am building, I imagine if i could fit in 8Gb Pi4(₹8k), yet to try pi5
     - This is good computing contraint to me
 - [aws-s3](https://en.wikipedia.org/wiki/Amazon_S3) 
     - any cloud object store should be fine including from google, microsoft, xyz
-    - atleast this is  what i am familiar with for now, with its constraints(3500put, 5000get) per-second for pre-prefix triggers a engineering math which we could leverage to model  many solutions to many unique-problems, espcessially analytical computations and storage options 
+    - atleast this is  what i am familiar with for now, with its constraints(3500put, 5000get) per-second for per-prefix triggers a engineering math which we could leverage to model  many solutions to many unique-problems, espcessially analytical computations and storage options 
     - with $23 per tb, this has become a factor to think interms of scale, storage-cost, ofcourse 99.9999 promise of durability
-    - on s3 put, trigger a lambda to do useful stuff
+    - on s3 put, trigger a lambda to do useful stuff, have configured for many retaining many versions, plenty of options to think of
     - https://docs.aws.amazon.com/AmazonS3/latest/userguide/Welcome.html
 - [sql](https://en.wikipedia.org/wiki/SQL)
-     - if there is one declarative language or style we have to thank for doing our job is this now and forever...
-     - we tell what we want in english, it gives what we want, then engine keeeps changing by vendor and we reap benenfit, provide db-engine is open-source, or ur paying premium for commerical-one
+     - dorminant since 1970s, not going anywhere near sool, 
+     -  Power of delcatariveness, set-therory,  to tell what we want and not on how to
+     - we tell what we want in english, it gives what we want, then engine keeeps changing by vendor and we reap benenfit, provided db-engine is open-source, or ur paying premium for commerical-one fits your budget
      - sql, nosql(surprisingly u still write SQL in nosql-technology)
-     - with advanced analytics technologies with push ML, AI, sql unlikely go away , its that powerful
-     - rathar than running sql on traditional 2d matrix on rdbms, now we could be running on top of csv,parquet,json etc with some library/cloud-service acting as sql engine on top of cloud-object-store or data-lake etc
-        - on a side note  nothing stopping us to pull the data from a storage and doing joins(inner,left,right) on over java-objects using hashing technique, like we did in couple of projects.
-     - aws-s3-select over s3 for objects(csv,parquet, json) has also opened new doors for me to solve some modeling to  analytical problems
+     - Evev with advanced analytics technologies of  ML push, AI, sql unlikely go away , its that powerful or  we just want to leverage on the universal standard-ANSI sql interface to the fullest 
+     -ofcourse times have changed for good  rathar than running sql on traditional 2d matrix on rdbms, now we could be running on top of csv,parquet,json etc with some library/cloud-service acting as sql-engine on top of cloud-object-store or data-lake etc
+     - aws-s3-select api over s3-bucket for objects(csv,parquet, json) has also opened new doors for me to solve some modeling to  analytical problems significantly
      - from big-data to ML problems,  data-lakehouse  query-engines backing sql interfaces also reassures that sql is not going anwhere in near future as well and shows its expansion from rdbms -> data-warehouse -> data-lakes(object-stores ) -> lakehouse(query-engines from analytics to data-movement needs)
-     -
+   
+## star
+- STAR
+    situation
+    task
+    action
+    result
+
+-    problem
+    purpose
+    my-task/my-role
+        design-options (1,2,3)
+    strategy
+    techniques-applied
+    result/outcome
+
+- Initial Reasons to bring me in
+- my role
+- Purpose of overall Tool - In-house tool for Billing
+-  My design decisions, tasks, contributions :
+- outcome/result
+
+
+<br><table>
+	<tr>
+		<td>[*Italic Link*](https://example.com)</td>
+		<td>[*Italic Link*](https://example.com)</td>
+	</tr>
+	<tr>
+		<td colspan=2>
+		Area of a circle: $\pi r^2$ [Contact](#contact)
+		</td>
+	</tr>
+</table>
+
+<br><table>
+	<tr>
+    ## Site Map
+        - [star](#star)
+        - [Bit On Title](#bit-on-title) | [Site Motivation](#site-motivation) | [About Me](#about-me) | [Contact](#contact) 
+        - [One Reason To Work With Me](#one-reason-to-work-with-me)| [You Are](#you-aree)
+        - [Domain Exposure](#domain-exposure) : [Retail](#retail) | [Financial Services](#financial-services) | [Telecom](#telecom) | [Aviation](#aviation) | [Billing](#billing)
+	</tr>
+</table>
+
+
+
+<footer>
+<p style="float:left; width: 20%;">
+Copyright @ Prashanth, 2024
+</p>
+<p style="float:left; width: 60%; text-align:center;">
+
+<br />This work is licensed under a
+</p>
+<p style="float:left; width: 20%;">
+Email addresses will be added when they are setup.
+[Contact](#contact)
+</p>
+</footer>
