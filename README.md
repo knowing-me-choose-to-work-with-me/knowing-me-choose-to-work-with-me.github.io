@@ -1,16 +1,68 @@
+<html>
+<head>
+<style>
+body {
+  margin: 0;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 25%;
+  background-color: #f1f1f1;
+  position: fixed;
+  height: 100%;
+  overflow: auto;
+}
+
+li a {
+  display: block;
+  color: #000;
+  padding: 8px 16px;
+  text-decoration: none;
+}
+
+li a.active {
+  background-color: #04AA6D;
+  color: white;
+}
+
+li a:hover:not(.active) {
+  background-color: #555;
+  color: white;
+}
+</style>
+</head>
+
+
+<ul>
+  <li><a class="active" href="#site-motivation">site-motivation</a></li>
+  <li><a href="#news">News</a></li>
+  <li><a href="#contact">Contact</a></li>
+  <li><a href="#about">About</a></li>
+</ul>
+
+
 
 
 ## Site Map
 - [star](#star)
 - [Bit On Title](#bit-on-title) | [Site Motivation](#site-motivation) | [About Me](#about-me) | [Contact](#contact) 
-- [One Reason To Work With Me](#one-reason-to-work-with-me)| [You Are](#you-aree)
+- [One Reason To Work With Me](#one-reason-to-work-with-me) | 
+- [You Are](#you-are) : [Recuriter HR](#recuriter-hr) | [Hiring Manager](#hiring-manager) | [CXO](#CXO)  [Architect](#architect) | [Business Decision Maker](#business-decision-maker) | [Product Owner](#product-owner) | [Functional Owner](#functional-owner) | [QA Developer/Engineer](#qa-developerengineer) | [Backend Developer/Engineer](#backend-developerengineer) | [Fontend Developer/Engineer](#frontend-developerengineer)
 - [Domain Exposure](#domain-exposure) : [Retail](#retail) | [Financial Services](#financial-services) | [Telecom](#telecom) | [Aviation](#aviation) | [Billing](#billing)
-- [](#) | [](#) | [](#) | [](#) | [](#) | [](#) | [](#) | [](#) |
-- [](#)
-- [](#)
-- [](#) | [](#) | [](#) | [](#) | [](#) | [](#) | [](#) | [](#) |
-- [](#) | [](#) | [](#) | [](#) | [](#) | [](#) | [](#) | [](#) |
-[](#) | [](#) | [](#) | [](#) | [](#) | [](#) | [](#) | [](#) |
+- [My Work Experiences](#my-work-experiences) : [Company-4-GE Oct-2018 to Jan-2024](#company-4-ge-oct-2018-jan-2024) | [Company-3 Wipro Apr-2016 to Jul-2018](#company-3-wipro-apr-2016-jul-2018) |  [Company-2-CSC Dec-2009 to Mar-2016](#company-2-csc-dec-2009-to-mar-2016) | [Company-1-Tomax Jun-2005 to Sep-2009](#company-1-tomax-jun-2005-to-sep-2009)
+- conflict-mgmt :  [Why do I step into your shoes](#why-do-i-step-into-your-shoes) | [Autonomy-on-problem-solving over designation,Position,money](#autonomy-on-problem-solving-over-designationpositionmoney)
+- [My Quick Bites on Problem Solving](#my-quick-bites-on-problem-solving) | [Math Works](#math-works) | [Execution Style](#execution-style) | [an-engineer-since-2019](#an-engineer-since-2019) 
+
+- My Take on :  [Software Design](#software-design) | [A Bit On Software design](#a-bit-on-software-design) |[Design Principles](#design-principles) | [Patterns](#patterns) | [Domain Driven Design](#domain-driven-design) | [Data Modeling](#data-modeling) | [](#system-thinking) | [System Thinking](#system-thinking) | [Software Architecture](#software-architecture) | [Cloud Computing](#cloud-computing)
+[Execution Style](#execution-style) 
+- [My Java Stack & Few Titbits](#my-java-stack--few-titbits) | [Fascinating Technologies](#fascinating-technologies)  | | [Teaching Mentoring](#teaching-mentoring)
+
+- [](#) | [](#) | [](#) | [](#) | [](#) | [](#) | [](#) | [](#) | [](#) | [](#) | [](#) | [](#) | [](#) | [](#) | [](#) | [](#) |
+
+
 
 ## Bit On Title
 - Some other titles that i had thought of 
@@ -79,7 +131,8 @@
 - ### Aviation
 - ### Billing
 
-## You want to jump on to my work experiences
+
+## My Work Experiences
 - [Work-Experiences](#work-experiences) 
     - [Company-1-Tomax Jun-2005 to Sep-2009](#company-1-tomax-jun-2005-to-sep-2009)
         - [Retail](#retail) 4.3 years | inventory-mgmt | demand-forecasting | 
@@ -90,25 +143,6 @@
     - [Company-4-GE Oct-2018 to Jan-2024](#company-4-ge-oct-2018-jan-2024)
         - 5.3 years - discovering myself as software-engineer, system-designer, data-modeler, architect
 
-## My Tech-Stack Views, Techniques, 
-- [Quick Bites on Problem Solving](#quick-bites-on-problem-solving)
-- [Software Design](#software-design)
-    - [Software Design with SOLID, CUPID, UNIX Philosophy](#software-design-with-solid-cupid-unix-philosophy)
-- [Software Design with Patterns ](#software-design-with-patterns)
-- [Software Design by domain-driven-design](#software-design-by-domain-driven-design)
-- [Data Modeling](#data-modeling) | [System Thinking](#system-thinking) |  [Product Thinking](#product-thinking)
-- [Software Architecture](#software-architecture) | [Cloud Computing](#cloud-computing)
-- [Execution Style](#execution-style)
-- [My Java Stack & Few Titbits](#my-java-stack--few-titbits) 
-- 
-- [Fascinating Technologies](#fascinating-technologies)  
-- [an-engineer-since-2019](#an-engineer-since-2019)
-- [Execution Style](#execution-style)
-- [Teaching Mentoring](#teaching-mentoring)
-- [](#)
-- [](#)
-- [](#)
-- [](#)
 
 ## math-works
 - lets check how much records we can process with limited ram of 8gb
@@ -139,11 +173,13 @@
 - for lesiure prefer  progressive-music, movies(sci-fic,non-fic(true-story-inspire, biographical))
     - i do watch movies in many languages(english,hindi,kannada,tamil,malayalam,telgu,korean etc)
 - love to  travel(mountains, jungles, beaches, historical-monuments for architecture)
-- love to shop in decathlon for everything I need including office, bike, hiking wearables.
+- love to shop in decathlon for everything, including office, bike, hiking wearables.
 - i dont understand politics and dont like to be involved in office polictics as well  , though i am not too blind at voting
 - I am quite selective in my work, once picked I do commit till its completed.
 - I do like sharing knowledge, teaching, selective mentoring etc
-- i prefer challenging work where in can improvise on the solutions, mostly for novel-business-problems
+- I prefer challenging work, where in, I can improvise on the solutions, mostly for novel-business-problems
+    - I typically dont like to stick to any company for job-safety, for reptitive-work and solutioning
+    - It will be dishonesty to my beliefs, to take pure maintenance and support work
 - [My Work Style](#my-work-style) - this might also be interesting.
 
 - [Teaching Mentoring](#teaching-mentoring)
@@ -160,8 +196,9 @@
 - If you have top 3 problems and you care about outcome,result than routine process below might help
     - autonomy to form a small team of my own would be a great help 
     - In my view and experience  team with good matching frequency and autonomy(tools,techniques,time-mgmt) does a lot more than expected and as lead or team-member I ensure or contribute to the best of my knowledge
-- normally in big organizations, the buhorizontal-ride
+- normally in big organizations, the horizontal-ride
 - vertical-ride
+- hub and spoke model
 
 ## Recuriter HR
 - FAQs
@@ -362,7 +399,7 @@ we were four peope from NIIT(different branches), and from tomax there were four
 Parallely we were tasked to build a software library for the company. Though initially were bit of competing coming from different regions,states,languages culture, we slowly adopted  towards just 1 goal building the library our goal to the best of our knowledge making more useful for company users.
 occassion we gave test 1 in each month, for 3 times i recall.
 This was foundational for strenghting in my OOP concepts, java, multithreading concepts also how to work in collaboration. also a little on my leading and presentation skills 
-- real-projects
+- real-project
 - when I first got into a project, i was tasked to do testing for 3 weeks or so, i was little skeptical as i wanted to start on development, coding-stuff, i did research on wiki narrowed that boundary testing is what testers fail from database,  having looked at database constraints i was able create few bugs in Jira to everyones surprise. later i got to know that that the  scenario(business-flow) never happens. 
 - next i was tasked to build a inventory lookup screen using java swing desktop library, it went for several weeks to shape it up, wrote thousands of lines, mostly fear of bug, wrote lot of defensive code on 1 side, embedded lot of flexibilty for user to search with anything like substring, comination of domain-fiels like item, category backed by sql or operator, and wild card of sql like , and few java-layer, i introduced lot of configurations for explicitly controlling the behaviour,
 Though i delayed my work for few weeks got support from my team lead, after i expalined all what i was trying to embed, there were few bugs and the search screen was well received, i got some fame from it as well, 
@@ -479,14 +516,18 @@ most of the time my-allyteam(myself,colleague-1,colleague-2) we suggested you ju
 since I was a new commer my colleague-1 and 2 did many times articulation because i spoke too much technical digging into versant database source occassionally, JTA etc give clarity.
 - there was 1 one more ticke of special interset , some application team came and said that CS libary the comment section of resource(RAN,WRAN,MIB etc) is limited and we could enhance it to be unbounded length. I was just thinking did he mean ram size or hard disk size. my colleague-1 said to take a look, i said we could go max ram size or the string's size not beyond that. He said please gather some proof for your statement then i researched at both jvm and Javalanguagespec. then recalled java-source code String class and its length method backed by char[].lenth, gave proof that that max, gave apporximat 2^32 -1 . My colleague-1 took this info and handled ticket on this own taking out the complexity which the application team x had raised.
 - there were few more enhancements which i did, if i recollect will add later
-- a very seriously annoying thing for every release made was something call ST-KPI, it was metric to measure if there was delta in performance between (previous, current), thats a big story, if performance impoved/degrade we had to findout root-cause, not sure who devised but they did forget the jdk upgrade, ant/maven upgrade, os changes, database upgrade etc, it was a big mess all together finally someone top all way to ericsson client made a decision which benchmark to be taken going forward which i never got visibility.
-- on fun side post lunch we had a good team of 7 to 8 people , though not directly connected on work, but belonging to same restricted area, we enjoyed food, conversations, gossips and a 15 to 20 min walk.
+- 
 - finally mid 2018 i decided to move on, having some experiences, with stong will power i repeatedly said to my self to join a product based company and ok to take a break for 2 t 3 months.
 - on a side note 
-    - i didnt work with any ericsson mgmt directly , nor  i was approached by ericsson account to be aborbed
+    - i didnt work with any ericsson mgmt directly , nor  i was approached by ericsson account to be absorbed
         however based on work tipped off from a very senior colleague which i wasnt aware, i was projected for Huwaei account, after my resignation,   the client was intersted, interveiwed(TPS problem with an aggregation locid was a intersting one  and i still recall most of the discussion , as it was mostly mathematical. )
         Though technically it sounded good, it didnt materialize and more over  usually its not good to negotiate once I resign from my position , so declined that offer from wipro's attempt to retain me.
-- left wipro on 11 july 2018, with a cake celebration(first one for me on leaving company)
+
+- some intersting observations to debate or discuss or improvise
+    - 
+    - a very seriously annoying thing for every release  was something call ST-KPI, it was metric to measure if there was delta in performance between (previous, current), thats a big story, if performance impoved/degrade we had to findout root-cause, not sure who devised but they did forget the jdk upgrade, ant/maven upgrade, os changes, database upgrade etc, it was a big mess all together finally someone top all way to ericsson client made a decision which benchmark to be taken going forward which i never got visibility.
+    - on fun side post lunch, we were a good team of 7 to 8 people , though not directly connected on work, but belonging to same restricted area, we enjoyed food, conversations, gossips and a 15 to 20 min walk.
+    - left wipro on 11 july 2018, with a cake celebration(first one for me on leaving company)
 ## Company-4-GE Oct-2018 Jan-2024
 -  5.3 years - discovering myself as software-engineer, system-designer, application-architect, solution-architect
 ### aviation-domain-exposure - the-Engine-product , after-market-service-agreement, the-margin-review
@@ -569,7 +610,7 @@ since I was a new commer my colleague-1 and 2 did many times articulation becaus
             - First, I got a chance to work  along with my colleague-architect who interviewed me.He had couple of integration strategies sync,async. Knowing the application enough, I strongly insisted the synchronous communication (web-api) with KISS principle. we also brainstormed on technology to pick, I was more inclined toward exiting Java/springboot stack.My colleague-architect had visioned serverless in mind. No matter how we implemented it, it was bothering me that downstream application need to get/pull information needed from our-upstream-application with-in 2 to 5 seconds, because downstream had no clue on overall workflow and it can only get from us as upstream. They had a heavy dependency to select the contract, followed by the technical-modeling-workflow setup against the cmr, backed by a standardized-workflow-template devised by us-the-upstream. Only when they had these two flows could they kickstart theirs. So from serverless point of view, little google on aws-lambda warned on cold-start, so java was out of context(graal vm was in news, but wasnt tested), Finally as demonstrated by my other architect  with node.js/typescript, we noticed the server to be booted in a second or couple. This gave us a good confidence that if we could serve the data-pull in millis, then we could meet the SLA of 2 to 5 seconds. I built the most complex api query and verified that it took in 700 to 800 milllis. We zeroed on node.js/typscipt/aws-lambda. I sucessfully built all remaining apis and overall developemnt in 8 t 9 weeks.  My colleague-3-architect contributed on almost all cloud-formation templates, for aws-lambda. This helped me to focus on solving the overall business problem in a better way. production went smooth, in fact we deployed 1 day prior itself. It was a good learning for me, as well. We presented the the solution to larger audience, also noticed that serverless with integration was something we tried newly in much wider space of the org.on a side note, to keep the integration extensible and flexible I had leveraged sql views, complex joins and leveraged all buisness logic in it and  the typyescript service layer just handled the error scenarios and was dumb enough on any busincess logic.On a side note to verify system scalablity, we did a load testing with Jmeter simulating 500+ cmr domain events per second as opposed to ideal 30+cmrs per second. ofcourse it wasn't necessary looking at aws-lambda-concurrency of 1000s, however proof was needed to ensure confidence in all stakeholders.  
 - some intersting observations to debate or discuss or improvise
     - Team org and evolution : 3 PO change, 2 Pod-lead, team size for 17+ to 6+
-        - i myself rejected Pod lead role, for architectural-stuff
+        - I myself rejected Pod lead role, for architectural-stuff
     - spreaded across 8 to 9 microsercies,  only 3 meant solving domain problem, rest 5 felt more of libary, shared service candidates
     - storage-db -  the data growth of appliation was hardly 32 MB by the time and by the time, i left it might have touched 100mb or so.  for an orchestrator for 3 to 5 years this was the data growth, I observed. The modeling inputs and outputs were stored on aws-EFS 
     - The key business-domain-event could have been roughly 30cmrs * 50steps spreaded across across each quarter , so this wasnt any data-centic application and I ocassionaly debated with my colleagues on hype/buzz against this. Probably I knew, too much on this data-model.
@@ -712,26 +753,73 @@ since I was a new commer my colleague-1 and 2 did many times articulation becaus
 
 
 
+- [My Quick Bites on Problem Solving](#my-quick-bites-on-problem-solving) | [Math Works](#math-works)
 
+- My Take on :  [Software Design](#software-design) | [A Bit On Software design](#a-bit-on-software-design) |[Design Principles](#design-principles) | [Patterns](#patterns) | [Domain Driven Design](#domain-driven-design) | [Data Modeling](#data-modeling) | [](#system-thinking) | [System Thinking](#system-thinking) | [Software Architecture](#software-architecture) | [Cloud Computing](#cloud-computing)
+[Execution Style](#execution-style) 
+- [My Java Stack & Few Titbits](#my-java-stack--few-titbits) | [Fascinating Technologies](#fascinating-technologies)  | [an-engineer-since-2019](#an-engineer-since-2019) | [Execution Style](#execution-style) | [Teaching Mentoring](#teaching-mentoring)
+ | [](#) | [](#) | [](#) | [](#) | [](#) |
 
-## Quick Bites on Problem Solving
+## My Quick Bites on Problem Solving
 - These are some of my approaches, techniques, strategies when the business-domain to technical-domain  is well-understood 
-- arithmetic, %,
-- eval-loop-controls(for,streams,)
+    - looking and identifying core domain attributes necessary for the overall automation-math
+- arithmetic, % for size, occasional binary manipulation
+- evaluation of loop-controls (for,streams,)
+    - for,while - they give precise grip and fine grained control and tradeoff for verboseness and complexity of indicies
+    - streams, collections - they give readability, high order math, functional-oriented, with a tradeoff on fine grained control, 
 - crafting-and-controlling mutable-state as it gets into some useful transformation like aggregations, rollups, reductions etc
-- crafting immutable-structures for business permutations, cobminations 
+- crafting immutable-structures for business permutations, combinations 
 - heavy usage of hashing-in-java-context for O(1) performance
 - structing-low-level(pkg-by-feature,nested-classes, static-utilities,non-static-state-controls) 
-- threading : usually leverage http-stateless per-request-thread, per-event-async-thread(for-complex-scenearios only)
+- threading : usually leverage http-stateless per-request-thread(virtual-threads), per-event-async-thread(for-complex-scenearios only)
 - dynamic-2d-array-apis(custom-built) lever
     - my goto solution for front-end problems when they have to populate a matrix of data, if they ask repeatedly
 -  data-pull and compute with custom-techniques at 1-network-call, system-calls, IO 
 
 ## Software Design
-### My Biased Opinions, Views, Perceptions
-### My Biased Techniques, strategies
+- My Take, Biased Opinions, Views, Perceptions
+- My Biased Techniques, strategies, approaches
 
-## Software Design with SOLID, CUPID, UNIX Philosophy
+## A Bit On Software design 
+- The definition [Software design](https://en.wikipedia.org/wiki/Software_design) is a good one to start with.
+    - from-wiki : Software design is the process of conceptualizing how a software system will work before it is implemented or modified.
+    - Modeling - a thorough research with multiple views on business flows, data flows  with proper directions identifying push/pull model, permuations of uses and its weightage is more important than anything else to kick start the design
+        - identifying the organic inputs and outputs is also very crucial
+        - for communicating with other on the ideas we need some tools 
+        - I usually pick flow-charts, data-flow-diagrams, spreadsheets-with-actual, confluence etc
+        - on a side note Usually when I join a project probably to design a feature, I get to see a custom-tailored cloud-provider referenece-architecture-diagram, which in my view is the worst thing to start with unless I have been tasked to troubleshoot or fix a operational-infra issue.
+- Purpose :  should solve the domain-problem factoring evolving-biz-changes, it should be communicable, more than anything should highlight the alternaive-approaches, techinques, tradeoffs take to arrive at the design
+- chaos of choices, tradeoffs
+- juggle of choices often are  based on hype, practicality, familiarity, trend, proven-track record, past-experience, accidental-academic-choice(like-mine), the way we percieve or have analogy with real-world to software
+    - Probably the biggest problem is in the imgaination of computing, storing, processing, communicating
+    - a good one will, evaluate if the software-api-tools are cheap enough to solve the biz problem in an optimal-cost
+- Software design itself could mean many things like api-design, component-design, system-design, DDD, evolevable-design, etc
+- it could simply mean a set of microservices over on-prem, cloud(IAAS, PAAS, SAAS, FAAS) 
+    - again there is  constant juggle on granularity of microserices, their communication-styles orchestration and choreograhy
+- biz-stakeholders like to hear our software/tool/app is  extenisible, usable, cost-effective, high-performant and may not be tech-centric ilities like  scalbility, security, modularity, compatibility, robust, fault-tolerant etc 
+    - sure most will just knod their head on hearing ilities but only few could have deeper understanding of it or truly understand it 
+- My offer on software-design
+    - put the domain-problem to be automated at the center and start picking the cheapest-software-api-tools and try satisfying(bring-balance) multiple stakeholders 
+        - biz : extenisible, usable, cost-effective, high-performant and build trust enabling new biz capabilities, un-explored-manual-touchpoints like laborious data-entry
+        - dev : balance on techilities and build trust on automating the right way with right tools 
+        - mgmt :  minimize on cost(development, financial)  to begin with and build trust ensuring that software works on odd-times 
+    - Though the original idea is to keep/make lot of stakeholders, the primary focus will be always to bring everone the core of the domain-problem and be a catalyst, a-tourist-guide on choices we make and take.
+    -  Though I could be wrong in generalizing, many fail becuase they focus too much on a minority of stakeholders like biz, dev, management
+
+## Design Principles
+- Software Design with SOLID, CUPID, UNIX Philosophy
+- whom to follow 
+    - first why not to follow, blindly
+        - GoF author didnt write J2EE pattern, microservices
+        - Some authors did thier marketed well based on their pressing  problems they percieved, while people like me as well try to catch up these someone else solved the problem differently creating new hype, buzz, trend etc. so its difficult to stick any one technologist-pioneer's view. like medicine, we designers, architects have to keep updating frequently yearly or so to update our view.
+    - its better to follow people who authored continuously several things with decades of exposure and kept updating thier view.
+        - few people whose work has influenced me  [Martin Fowler](https://www.martinfowler.com/), [Neal Ford](https://nealford.com/) [Gregor Hohpe](https://architectelevator.com/) 
+- what to adopt and why not to 
+    - what not to
+        - java-context : once upon a time these were trending dinosarus servlet, jsp, JSF, EJBs etc ofcourse they aren't extinct but lying in some legacy software, refactoring,modernizing them could be tricky and challenging 
+            - on a side note  their concepts, patterns have been moved to higher order abstraction like @restcontroler, @entity
+    - what to then, like MCU loki's "He Who Remains"
+        - techniques, approaches,  fundamentals like stateless-true-distributed-http, tcp/ip, encapsulation, moudularization, messaging-concepts , multithreading, event processing and handling, algorithms, data-structures
 - eval(SOLID,CUPID,unix-philosophy) , generally prefer CUPID and unix philosophy over SOLID becuase in practice SOLID didnt help me to model the domain problem really
     - i would also like to put a strong opinion that irrespective of what we choose, its not visible to customer, end-user one excpetion ofcourse is if  you r shipping a open-source tool,library 
     - so picking is choice of architect, designer, engineer to a-good-developer
@@ -744,21 +832,19 @@ since I was a new commer my colleague-1 and 2 did many times articulation becaus
             - 
         - realtime streaming 
         -
-## Software Design with Patterns 
-- in my view if time-is-money, we save TIME by leveraging, someone's (person, team org)   solution to a repitive-problem-space    
+## Patterns 
+- in my view if time-is-money, we save TIME by leveraging them, someone's (person, team, org)   solution to a repitive-problem-space    to a contrained-domain-space or bounded-context
 - pattern : context-driven, recurring, 
 - Gof patterns
     - again this is not visible to customer, end-user 
     - a little research on backgroud will take you to https://en.wikipedia.org/wiki/Christopher_Alexander https://en.wikipedia.org/wiki/Pattern_language both kickstart you with enough wisdom to build custom patterns as per the domain
     - if u r an aware :  the original authors didnt invent them, they just identified and documented, so its more of discovery than invention, but Chistopher did popularize the term pattern is often attributed to father of pattern.
-    - 
     - first these are very low-level Object Oriented patterns, they are really useful if you are building a library(aws-sdk) etc so domain of application really depends on the domain probelm at hand.
-    
     -   i have heavily leveraged builder, factories, adapter, facade if you expect me know everyting and check my knowledge on these probably I am a  wrong fit
 - J2EE, JEE pattern
--[EAV-data-model](https://en.wikipedia.org/wiki/Entity%E2%80%93attribute%E2%80%93value_model)
+- [EAV-data-model](https://en.wikipedia.org/wiki/Entity%E2%80%93attribute%E2%80%93value_model)
 
-## Software Design by domain-driven-design
+## Domain Driven Design
 - [Domain-driven design ](https://en.wikipedia.org/wiki/Domain-driven_design)
     - this is what i leverage in most solving all business problem, be it automation of billing, rolling up cost for million records, partitioning stratgies for data-modeling, scaling on data-volume growth, security(internet,intranet)
     - if you agree a lot on this, probably we can jump on this dicussion first.
@@ -1059,3 +1145,8 @@ Email addresses will be added when they are setup.
 [Contact](#contact)
 </p>
 </footer>
+
+
+<body>
+</body>
+</html>
