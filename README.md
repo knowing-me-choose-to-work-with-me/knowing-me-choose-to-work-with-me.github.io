@@ -1,15 +1,14 @@
 ## Site Map
 - [Bit On Title](#bit-on-title) | [Site Motivation](#site-motivation) | [About Me](#about-me) | [Contact](#contact) 
 - [One Reason To Work With Me](#one-reason-to-work-with-me) | 
-- [You Are](#you-are) : |  [Recuriter HR](#recuriter-hr) | [Hiring Manager](#hiring-manager) | [CXO](#CXO)  [Architect](#architect) | [Business Decision Maker](#business-decision-maker) | [Product Owner](#product-owner) | [Functional Owner](#functional-owner) | [QA Developer/Engineer](#qa-developerengineer) | [Backend Developer/Engineer](#backend-developerengineer) | [Fontend Developer/Engineer](#frontend-developerengineer)
+- [You Are](#you-are) : |  [Recuriter HR](#recuriter-hr) | [Hiring Manager](#hiring-manager) | [CXO](#CXO) | [Architect](#architect) | [Business Decision Maker](#business-decision-maker) | [Product Owner](#product-owner) | [Functional Owner](#functional-owner) | [QA Developer/Engineer](#qa-developerengineer) | [Backend Developer/Engineer](#backend-developerengineer) | [Fontend Developer/Engineer](#frontend-developerengineer)
 - [Domain Exposure](#domain-exposure) : [Retail](#retail) | [Financial Services](#financial-services) | [Telecom](#telecom) | [Aviation](#aviation) | [Billing](#billing)
 - [My Work Experiences](#my-work-experiences) : [Company-4-GE Oct-2018 to Jan-2024](#company-4-ge-oct-2018-jan-2024) | [Company-3 Wipro Apr-2016 to Jul-2018](#company-3-wipro-apr-2016-jul-2018) |  [Company-2-CSC Dec-2009 to Mar-2016](#company-2-csc-dec-2009-to-mar-2016) | [Company-1-Tomax Jun-2005 to Sep-2009](#company-1-tomax-jun-2005-to-sep-2009)
 - conflict-mgmt :  [Why do I step into your shoes](#why-do-i-step-into-your-shoes) | [Autonomy-on-problem-solving over designation,Position,money](#autonomy-on-problem-solving-over-designationpositionmoney)
 - [My Quick Bites on Problem Solving](#my-quick-bites-on-problem-solving) | [Math Works](#math-works) | [Execution Style](#execution-style) | [an-engineer-since-2019](#an-engineer-since-2019) 
-- My Take on : |  [Software Design](#software-design) | [A Bit On Software design](#a-bit-on-software-design) |[Design Principles](#design-principles) | [Patterns](#patterns) | [Domain Driven Design](#domain-driven-design) | [Data Modeling](#data-modeling) | [](#system-thinking) | [System Thinking](#system-thinking) | [Software Architecture](#software-architecture) | [Cloud Computing](#cloud-computing)
+- My Take on : |  [Software Design](#software-design) | [A Bit On Software design](#a-bit-on-software-design) |[Design Principles](#design-principles) | [Patterns](#patterns) | [Domain Driven Design](#domain-driven-design) | [Data Modeling](#data-modeling) |  [System Thinking](#system-thinking) | [Software Architecture](#software-architecture) | [Cloud Computing](#cloud-computing) | 
 [Execution Style](#execution-style) 
-- [My Java Stack & Few Titbits](#my-java-stack--few-titbits) | [Fascinating Technologies](#fascinating-technologies)  | | [Teaching Mentoring](#teaching-mentoring)
-
+- [My Java Stack & Few Titbits](#my-java-stack--few-titbits) | [Fascinating Technologies](#fascinating-technologies)  | [Teaching Mentoring](#teaching-mentoring)
 
 
 ## Bit On Title
@@ -28,9 +27,11 @@
     - Not to show off on my website skills with html/js stuff, its 99% static + 1% dynamic(clickable)
 - if not for work, just for a coffee talk, just drop me a mail, on topic you would like to connect
 - Last, but not the least, it's influenced by wiki links, so please feel to click whatever interests you
-- rest assured this is not a generated AI content, spelling/grammatical disasters of mine should convince on that.
+- rest assured this is not a generated AI content, grammatical/typo errors  of mine should convince on that.
+    - if you find any disastorous grammatical context, please excuse me, hopefully and eventually they will be corrected.
 
-## Contact :  [Mail](mailto:prashanth.jtr@gmail.com) | [LinkedIn](https://in.linkedin.com/in/prashanth-tr-ba3363304)
+## Contact  
+- ### [Mail](mailto:prashanth.jtr@gmail.com) | [LinkedIn](https://in.linkedin.com/in/prashanth-tr-ba3363304)
 ## About Me 
 - Prashanth T R, myself a  Software Engineer having 18years of experience in IT with research-first mindset, building and automating for data-centric novel-business-problems
     - all business problems are unique and they need a customized solution built for its purpose, constrant-space
@@ -57,7 +58,7 @@
  
 ## Domain Exposure
 - More to come on this space
-- ### Retail, Ecommerce
+- ### Retail
     - [Company-1-Tomax Jun-2005 to Sep-2009](#company-1-tomax-jun-2005-to-sep-2009)
     - willingess to work again - BIG,YES
 - ### Financial Services
@@ -158,6 +159,7 @@
 - vertical-ride
 - hub and spoke model
 
+## You Are
 ## Recuriter HR
 - FAQs
     - I have 18 years of IT experience aka software engineering 
@@ -887,19 +889,20 @@ since I was a new commer my colleague-1 and 2 did many times articulation becaus
 - it also could be dynamic, static, modular, 
 - [J2EE to JEE](https://en.wikipedia.org/wiki/Jakarta_EE) this was the standard till till spring and spring boot with 
 
-- [Cloud Computing](#cloud-computing)
 ## Cloud Computing
+- more to come on this
 - on-premise -> IAAS -> PAAS -> SAAS , FAAS 
 
-- [Product Thinking](#product-thinking)
-## Product Thinking 
-- 
+## XAAS Thinking 
+- more to come on this
+- Product To Service thinging
 
-- [Execution Style](#execution-style)
+
 ## Execution Style
-- set of 5s, 20s, 
+- more to come on this
+- for now this shoul help
+    - [Autonomy-on-problem-solving over designation,Position,money](#autonomy-on-problem-solving-over-designationpositionmoney) | [My Quick Bites on Problem Solving](#my-quick-bites-on-problem-solving) | [Math Works](#math-works) | [Why do I step into your shoes](#why-do-i-step-into-your-shoes)
 
-- [an-engineer-since-2019](#an-engineer-since-2019)
 ## an-engineer-since-2019
 - attempting to being like one, thinking like one, 
     - what good i am if dont talk about processing MBs to GBs in  Ghz, in a operating system process, probably due to an event trigger to http-request thread having fetched  a gb of data from a storage like database/s3 
