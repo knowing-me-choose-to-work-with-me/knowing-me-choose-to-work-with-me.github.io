@@ -1,78 +1,108 @@
 ## Site Map
 - [Bit On Title](#bit-on-title) | [Site Motivation](#site-motivation) | [About Me](#about-me) | [Contact](#contact) 
 - [One Reason To Work With Me](#one-reason-to-work-with-me) | 
-- [You Are](#you-are) : [Recuriter HR](#recuriter-hr) | [Hiring Manager](#hiring-manager) | [CXO](#CXO)  [Architect](#architect) | [Business Decision Maker](#business-decision-maker) | [Product Owner](#product-owner) | [Functional Owner](#functional-owner) | [QA Developer/Engineer](#qa-developerengineer) | [Backend Developer/Engineer](#backend-developerengineer) | [Fontend Developer/Engineer](#frontend-developerengineer)
+- [You Are](#you-are) : |  [Recuriter HR](#recuriter-hr) | [Hiring Manager](#hiring-manager) | [CXO](#CXO)  [Architect](#architect) | [Business Decision Maker](#business-decision-maker) | [Product Owner](#product-owner) | [Functional Owner](#functional-owner) | [QA Developer/Engineer](#qa-developerengineer) | [Backend Developer/Engineer](#backend-developerengineer) | [Fontend Developer/Engineer](#frontend-developerengineer)
 - [Domain Exposure](#domain-exposure) : [Retail](#retail) | [Financial Services](#financial-services) | [Telecom](#telecom) | [Aviation](#aviation) | [Billing](#billing)
 - [My Work Experiences](#my-work-experiences) : [Company-4-GE Oct-2018 to Jan-2024](#company-4-ge-oct-2018-jan-2024) | [Company-3 Wipro Apr-2016 to Jul-2018](#company-3-wipro-apr-2016-jul-2018) |  [Company-2-CSC Dec-2009 to Mar-2016](#company-2-csc-dec-2009-to-mar-2016) | [Company-1-Tomax Jun-2005 to Sep-2009](#company-1-tomax-jun-2005-to-sep-2009)
 - conflict-mgmt :  [Why do I step into your shoes](#why-do-i-step-into-your-shoes) | [Autonomy-on-problem-solving over designation,Position,money](#autonomy-on-problem-solving-over-designationpositionmoney)
 - [My Quick Bites on Problem Solving](#my-quick-bites-on-problem-solving) | [Math Works](#math-works) | [Execution Style](#execution-style) | [an-engineer-since-2019](#an-engineer-since-2019) 
-
-- My Take on :  [Software Design](#software-design) | [A Bit On Software design](#a-bit-on-software-design) |[Design Principles](#design-principles) | [Patterns](#patterns) | [Domain Driven Design](#domain-driven-design) | [Data Modeling](#data-modeling) | [](#system-thinking) | [System Thinking](#system-thinking) | [Software Architecture](#software-architecture) | [Cloud Computing](#cloud-computing)
+- My Take on : |  [Software Design](#software-design) | [A Bit On Software design](#a-bit-on-software-design) |[Design Principles](#design-principles) | [Patterns](#patterns) | [Domain Driven Design](#domain-driven-design) | [Data Modeling](#data-modeling) | [](#system-thinking) | [System Thinking](#system-thinking) | [Software Architecture](#software-architecture) | [Cloud Computing](#cloud-computing)
 [Execution Style](#execution-style) 
 - [My Java Stack & Few Titbits](#my-java-stack--few-titbits) | [Fascinating Technologies](#fascinating-technologies)  | | [Teaching Mentoring](#teaching-mentoring)
-
-- [](#) | [](#) | [](#) | [](#) | [](#) | [](#) | [](#) | [](#) | [](#) | [](#) | [](#) | [](#) | [](#) | [](#) | [](#) | [](#) |
 
 
 
 ## Bit On Title
 - Some other titles that i had thought of 
-    - knowing-me-support-me, knowing-me-hire-me, hire-me-fire-me-once-job-is-done, 6-months-contract, rent-me-6-months, [Knowing Me, Knowing You](https://en.wikipedia.org/wiki/Knowing_Me,_Knowing_You))
+    - knowing-me-support-me, knowing-me-hire-me, hire-me-fire-me-once-job-is-done, 6-months-consultant, 
+    - try listening to this song while you analyze my thoughts [Knowing Me, Knowing You](https://en.wikipedia.org/wiki/Knowing_Me,_Knowing_You))
 
 
 ## Site Motivation
-- Motivation for this site, is to help you decide in  hiring-me or helping in your decsion making so that you/your team could make a better choice to work with me.
-- one one dimension, it's difficult to put all our thoughts in condensed 2 page resume, this is  more of a open book to my experiences so that you can make better choices as you are evaluating me for certain role
+- Motivation for this site, is to help you decide in  hiring-me or helping in your decision making so that you/your team could make a better choice to work with me.
+- On one dimension, it's difficult to put all our thoughts in condensed 2 page resume, this is  more of a open book to my experiences so that you can make better choices as you are evaluating me for certain role
 - In another dimension, In my all experiences, so far, while working to solve a core-business-problem, as we try to discover each other, friction is unavoidable and  mostly demands lot more time, energy and patience to understand each other. 
     - this could be primarily because of few factors and dimensions, we usually have have lot of differences in opinions, culuture, thoughts, methodologies, techniques, approaches, problem-solving-skills, real-time-experiences, the way we perceive real-world and software-world etc
-- This is a open book of my mine, to  help you minimize friction towards me, yourself and us, eventually to make us more comfortable, familiar in our ideas, thoughts and creativity. Hopefully,  this site helps you understand me better on my rationale choices and help you welcome me with an open mindset
-- Last but not the least, it's influenced by wiki links, so please feel to click whatever interests you
+- This is a open book of my mine, to  help you minimize friction towards me, yourself and us, eventually to make us more comfortable, familiar in our ideas, thoughts and creativity. Hopefully,  this site helps you understand me better on my rationale choices and help you hire/welcome me with an open mindset
+- what its not
+    - Not to show off on my website skills with html/js stuff, its 99% static + 1% dynamic(clickable)
+- if not for work, just for a coffee talk, just drop me a mail, on topic you would like to connect
+- Last, but not the least, it's influenced by wiki links, so please feel to click whatever interests you
+- rest assured this is not a generated AI content, spelling/grammatical disasters of mine should convince on that.
 
-## Contact
-- [Mail](mailto:prashanth.jtr@gmail.com) | [LinkedIn](https://in.linkedin.com/in/prashanth-tr-ba3363304)
+## Contact :  [Mail](mailto:prashanth.jtr@gmail.com) | [LinkedIn](https://in.linkedin.com/in/prashanth-tr-ba3363304)
 ## About Me 
 - Prashanth T R, myself a  Software Engineer having 18years of experience in IT with research-first mindset, building and automating for data-centric novel-business-problems
     - all business problems are unique and they need a customized solution built for its purpose, constrant-space
     - the research is not to burn the cash of the company but to find low-cost-effective technology solution, 
-        - complex business domain take time to get clear understanding. we get better undestanding to choose right cost-effective techniques, tools as we make repeated attemptss.
+        - complex business domain take time to get clear understanding. we get better undestanding to choose right cost-effective techniques, tools as we make repeated attempts.
     - by automation, I mean as  simple as arithmetic to algebraic to advanced ones(regression,interpoloation,xyz)  to a  scale (multiplied by domain like nubmer of products, customers, time etc) because deep down thats what I have encountered so far.
     - by data centric I usually mean the volume of equations to be automated say like thousands to millions to billions with some busniess-rules which are specific to the domain context of the problem
 ## One Reason To Work With Me
 - You want just one reason to figure out if i will be a good fit or not for your team, for your current set of problems
     - Given enough autonomy on solving the business-problem, I typically form a small team(3 to 4 people) apply a feature-driven-development splitting with a mental-model of organic business-flows (say 1 to 10 or so), showing/demonstrating business with new capabilities(automation), carefully crafting for core-important-flows say (4 to 6) identified with verifiable weightage (60 to 80)% giving business stakeholder with  few design-options which they can choose based on cost-factors like development(scoped-to-time), competence, financial and opportunity with cost-effective technology solutions. 
-        - I typically take few rides vertical to horizontal to make end-users  domain-problem is well understood, is put at the center of the solution, the overall solution-space surronds it. 
-            - [Software Design by domain-driven-design](#software-design-by-domain-driven-design)
+        - I typically take few rides vertical to horizontal to make sure end-users  domain-problem is well understood, is put at the center of the solution, the overall solution-space surronds it. 
+            - [Software Design by domain-driven-design](#software-design-by-domain-driven-design) broken-link
         - I have proven track record of building-cost-centric solutions with $23/tb on custom-techniques for storing and leveraging this further to processing with just 1-network-call
         - I do have solid grip on doing in-memory processing  with either mutations or immutable techniques for larger data-sets in millions in pratice and  in theory it holds good for billions as well, again few custom techniques, tricks
         - as an engineer, if you are excited on leveraging cloud-object-stores to full potential for historical data usecases , then my expertize, may be worth while to consider.
         - I also have great interest in using serverless FAAS technologies
         - [math-works](#math-works)
         - I like my-work to speak-about-me, than a designation, it could be misleading-to-you, as it does-to-me (Wipro's architect is one quote from mine)
-        - you have 
         
 - I'm also open for contract to hire for 6 months or little more, with some negotiations on my billing.
 - If you are looking for an IC role, please check on relevant sections.
 - Future-thoughts
-    - I do have a thought of being an independent-consultant or agency of few-like minded people, though its down the road of 3 to 5 years
+    - I do have a thought of being an independent-consultant or agency of few-like minded people, though its down the road 5 years
  
 ## Domain Exposure
-- ### Retail
+- More to come on this space
+- ### Retail, Ecommerce
+    - [Company-1-Tomax Jun-2005 to Sep-2009](#company-1-tomax-jun-2005-to-sep-2009)
+    - willingess to work again - BIG,YES
 - ### Financial Services
+    - [Client-3 : Societe Generalle](#client-3--societe-generalle)
+    - willingess to work again - BIG,YES
+        - I have my own personal interst in stocks, so though the math, regulation is hard, still a good challenging one to work with
 - ### Telecom
+    - [Client-1 : Verizon Data Services](#client-1--verizon-data-services)
+    - willingess to work again - very unlikely
+        - on  core telecom : Big No
+        - Unless a business analyst or FO, does a spoon fooding on the domain, its factors, its difficult to make sense on the domain, WRAN, RAN, eNodeB etc of Ericsson expereience still rings a bell in my head.
 - ### Aviation
+    - so far [aviation-domain-exposure](#aviation-domain-exposure)
+    - MRO, modeling needs for analysts, pretty much lot of scope for advandced analytics     
+    -  willingess to work again - BIG,YES
+        - Since childhood I am excited, seeing airplanes fly, so its very fascinating work again on this domain.
 - ### Billing
+    - [project-3 billing, reconciliation ](#project-3-billing-reconciliation)
+    - Though it was an in house solution built for GE, due to  a year's end-to-end exposure and  based on my maturity got to know pretty much a typical standard buisness equation and  higher order math. It could be a over simplification but a good one to start on a dicussion.
+        - $$ billedValue = utilization * money * optionalFactors$$
+            - utilization could be a time unit of engine/telecom connection usage in hours/second respectively
+            - money could be $ , ₹, € etc
+                - in aviation due to a long term service aggreement, they do have some called escalation rate, i m sure, this could hold for other domains as well
+            - optionalFactors are very intersting as they could increase or decrease
+                - in aviation we have interpolated severity factors on certain thresholds like temperature, utilization, thrust used by pilot, cycles etc
+                - in telecom it could be a discounted rate above 1 hour or unlimited plan
+                - discount rate for x customer
+                - xyz specific to domain
+    - willingess to work again - BIG,YES
+    - ### Future ones interstig for me
+        - healthcare, geo spatial, xyz business-automations and re discovering with a cheaper cost
+        - you have a big bang on modernization
+            
 
 
 ## My Work Experiences
 - [Work-Experiences](#work-experiences) 
+    - [Company-4-GE Oct-2018 to Jan-2024](#company-4-ge-oct-2018-jan-2024)
+        - 5.3 years - discovering myself as software-engineer, system-designer, data-modeler, architect
+    - [Company-3 Wipro Apr-2016 to Jul-2018](#company-3-wipro-apr-2016-jul-2018)
+    - [Company-2-CSC Dec-2009 to Mar-2016](#company-2-csc-dec-2009-to-mar-2016)
+        - intro to consultancy, deputation, 
     - [Company-1-Tomax Jun-2005 to Sep-2009](#company-1-tomax-jun-2005-to-sep-2009)
         - [Retail](#retail) 4.3 years | inventory-mgmt | demand-forecasting | 
         - intro to corporate culture, foundations for  software development as taught by my-great-mentor who taught not execute until the output is conceived in mind.
-    - [Company-2-CSC Dec-2009 to Mar-2016](#company-2-csc-dec-2009-to-mar-2016)
-        - intro to consultancy, deputation, 
-    - [Company-3 Wipro Apr-2016 to Jul-2018](#company-3-wipro-apr-2016-jul-2018)
-    - [Company-4-GE Oct-2018 to Jan-2024](#company-4-ge-oct-2018-jan-2024)
-        - 5.3 years - discovering myself as software-engineer, system-designer, data-modeler, architect
 
 
 ## math-works
@@ -90,16 +120,13 @@
 - above is checklist or litmus test when i hear huge data in brainstorming
 - usually the business equations are stright-forward automations of arithmetic, algebraic equations, unless we move towards analytics, data-science, ML 
 - [an-engineer-since-2019](#an-engineer-since-2019) - this might also interest you.
-- $$  $$
-
+- project-2 and project-3 of [Company-4-GE Oct-2018 Jan-2024](#company-4-ge-oct-2018-jan-2024) have been solutioned based on above mathematical theories which involved millions of rows
 ## Cultural Fitness
 - Each org has unique culture, each individual might view it differently, You could have your own perception of your organization,company
 - Below is mine
 - primarily result, outcome oriented, open minded
 -  social  at (face2face,phone,sms) not at whatsapp,telegram etc to avoid-news-gossips
 - in my view god is binary, i choose 0, but like to go for archiecture,hill-view, on religous places, monuments
-    - please dont screen me - if you have a  strong ideology or weightage on any particular religion,geography,language
-    - on as side not i watch movies in 
 - food (coffe,tea, seafood,traditional,authentic indian cusine) generally have very low perferces for star rated food, especially coporate-ones
 - for lesiure prefer  progressive-music, movies(sci-fic,non-fic(true-story-inspire, biographical))
     - i do watch movies in many languages(english,hindi,kannada,tamil,malayalam,telgu,korean etc)
@@ -309,161 +336,19 @@
     - on a side note we will try to make the layout as adaptive as possible than absloute positioning
 
 ## QA Developer/Engineer
+- more to come on this
 
 ## PL/SQL Developer/Engineer
-        
-
-
-
-
-
+- more to come on this
+    
 ## Work-Experiences
-## Company-1-Tomax Jun-2005 to Sep-2009
-- Tomax India,Bangalore 
-- Domain : Retail
-- Exposure on inventory-mgmt, workflow-mgmt, 
-- tenure 4.3 years, taste of good-developer caring-for-performance, building-reusable components for desktop-applications,
 
-- initally I was in a training of 6 months, re-trained on java,sql, dbms concepts, html,javascript.
-- we also received some good session on retail product as well.
-we were four peope from NIIT(different branches), and from tomax there were four dedicated mentors for us, later there were .
-Parallely we were tasked to build a software library for the company. Though initially were bit of competing coming from different regions,states,languages culture, we slowly adopted  towards just 1 goal building the library our goal to the best of our knowledge making more useful for company users.
-occassion we gave test 1 in each month, for 3 times i recall.
-This was foundational for strenghting in my OOP concepts, java, multithreading concepts also how to work in collaboration. also a little on my leading and presentation skills 
-- real-project
-- when I first got into a project, i was tasked to do testing for 3 weeks or so, i was little skeptical as i wanted to start on development, coding-stuff, i did research on wiki narrowed that boundary testing is what testers fail from database,  having looked at database constraints i was able create few bugs in Jira to everyones surprise. later i got to know that that the  scenario(business-flow) never happens. 
-- next i was tasked to build a inventory lookup screen using java swing desktop library, it went for several weeks to shape it up, wrote thousands of lines, mostly fear of bug, wrote lot of defensive code on 1 side, embedded lot of flexibilty for user to search with anything like substring, comination of domain-fiels like item, category backed by sql or operator, and wild card of sql like , and few java-layer, i introduced lot of configurations for explicitly controlling the behaviour,
-Though i delayed my work for few weeks got support from my team lead, after i expalined all what i was trying to embed, there were few bugs and the search screen was well received, i got some fame from it as well, 
-though i was little skpetical on working java swing building graphical components, its my team lead/mentor who encouraged that its a good way to start the career.
-Takeway was i was becoming very good on layout managment with adaptive behviours, especially using gridbaglayout manager, because it had weights to strech a component in both horizontal and vertical dimension.
-Till date i leverage this techniue on several ways, yes it as something to do with even LLMs 2B,70B models as well in my view.
-I also got expertize on building table, table tree ui components. This helped for almost for next 6 years or so until i completely switched by profile for backend-developer.
-All amazing stuff i did was because of math. 
-Of course lot goes to on my java OOPs to build reusable components, and few  j2ee patterns but it wasnt visible to everyone, because the frontend work i did overshadowed.
-Then i kept on building several screens, reusable components, i got assiged to multiple projects.
-slowly though i was famous for front-end developement, i got interset in backend using jdbc, hiberanted, ejbs, servlets, jsps etc they were trending at  that time.
-next i got to work on a something called workflow-activity-mgmgt (an workflow-orchestrator in current  terminology), sadly I had to move away from my mentor's direct coaching,
-again built several resuable components, got to collaborate with different team-lead they had different ideologies, but I continued with my initial teachings of my mentor. after a year or so this project was called off, we did everything best, amazing stuff, etc but got to hear there end user vision had changed.
-Lesson learnt , validate the business requiremnts, so hence forth till date i strongly apply domain-driven-design and validate business-requiment.
-Next for a year mid-2008 or so I worked on an unique opportunity CXA customer-experience-architecture for Lesschwab tires.
-And they had zeroed o ULC- ultra light client libarry liccensed one cost lakhs at that time.
-ULC - purpose rich client application every gui compoent was split into client and server component. Primarily there were two people we had strong grip on building desktop application my mentor and my self. And on US counter part i heard there were two developers leading this whole program (surpisingly they were almost near to 60 years of age.) This was a useful information, i got to learn that i can become a developer till 60 years of my age.
-coming back to project, i got training from  my mentor and those two super senior deveopers.
-Now i was tasked to train others including my other tech-leads who were leading web development projects.For tomax this was the most visible project, because as opposed to reatial-product they wanted to try services for this 400 store Les-schwab Tires.
-Now i was also in limelight, not the technology was hard but i had to train and work with almost 2x to 3x of my experence, I bet on my grip on java, swing libaray concepts, knowledge on ULC trained many for 2 months.
-Project started i did something different in execution.
-I took lead on few critical component(appointment-schedueler, reusable-table-comonent,reusable-tabletreecomonent), and guided others on their day to day development acitivities. 
-parallel i was digesting this CXA technique, a protoype bassed approach you can litterally click all embded dummy screens experience the overall flow an build stuf and adapt based on rapid feedback. this was a phenomenal technique i used for almost all of my front end development, wLater this helped me understand better on api contracts with web-services(SOAP, REST)
-of course lot And lot went smooth, Ocassionaly I had guidance from my mentor and other leads when i was getting struck.
-
-Then it was mid-2009, we recived a letter from CEO starting  with "Nothing is permanent in life" ending with we are closing Tomax India operations. More than me, it was shocking for several seniors as probably because of their financial dependency, emotional attachement(including myself).
-on sep 15 2009 we all tomaxians india were happy, because we got almost 4 to 6 months of salary as compenstation based on tenure we served. by the way i got 4 months 
-I just said to myself any company i join, i will keep resignation in my pocket and work fearlessly.
-i took a break to spend 2 months with my family, went to my native for  a month enjoying food.
-Then when i started back, job openning were little less, more screening due to global financial housing bubble impact. finally after with a bit of struggle, with 50% hike i got an offer from CSC, chennai, i accepted
-
-
-## Company-2-CSC Dec-2009 to Mar-2016
-- computer sciences corporation, now DXC again acquird by HP
-- tenure 6 years: attempting to be a good consultant, exploring leadership, collaboration, new challenges in domain of telecom,investment-banking
-
-- ### verizon deputation, chennai (3 years)
-- 1st project(vmlite()) and taste of blackberry, being deputed a client-office chennai olympia techpark
-- task-1 is a good one to share i was tasked load some static-data to database and devise a solution (automation-script), the static domain was little tricky, so with dedicated week of work i devsied a partial solutiong in java, parsing and reformatting with something like notepad/textpad which i dont recall,
-    I loaded all data and went back after a week or so, i had streched late-night to acheieve this.
-    one of the expert, saw, verified the work and said good work.
-    till then, intersitingly every day afternoon my other CSC colleague used to send a mail stating i will be late.
-    It was larger audience in the mail chain.
-    My client manager, seeing that work was completed faster than his anticipation, relaxed me coming late to office. And asked my colleague not to send my late coming mail. 
-- then it went on bug fixing, feature enchancements, i became approachble on blackberry front end developer.
-- the blackberry application was primarily targed for verizon field technician for data to day work, backed by scheduling, job assignment etc.
-- then after few months almost a year, there came a requirement(vmobile), an important one to me.
-    The requirement was to build a laptop desktop application, probably few fields technicians were getting/promoted to use laptops for their work. So they wanted to resuse the existing business domain logic and build a a new application which was almost similar/tobe-faimilar wth blackberry application.
-    I was a natural pick, with Swing in my expericence, now the cxa les-schwab experience came to help me I proposed we should be building adaptive screens, and we could incorporate little extra developemnt time for building resualble table component promising reduction of future developemnt.
-    it was a bit to struggle to convince the stakeholders . 
-    Luckily my csc-colleague (now my long term friend) had prior experience in verizon and quite reputation. so he convinced on our ideas. while was leading on the front-end technology, te took care of back-nuiances like a soap webservice, polling etc. and he taught few of this.
-    eventually with few demos and promise of new capablities, slowly it got statbilized. and after few months of production, we got to hear that its lot easier for field technician on laptop then blackberry due to screen size and extra capablities which we had introduced.
-    Lesson learnt, you need a strong ally(my-Csc-colleague, client-mgr, client-team-lead), to make sure our ideas work.
-    once stabilized, i requested to move away from this project and i was assigned back to blackberry application projet
-- then it was bug-fixing, few enhancements
-- one intersting small feature was to share the location silently every time he/she/x picked a job, status-update, reroute, etc i implemented using a timer logic with explicit control on timer settings etc.
-- - verizon by this time had already checked my interest if would like to join their org
-    - i rejected 1st time because they offered mgmt position, with just 6years i felt its too early and conveyed i am only intersetd in technical stuff.
-    - second time i rejected as family settled in banglaore, though reapproached on technhical stuff, 
-    - on a side note same was offered to my-csc-colleague.
-- @ 2012 a parallel developement, i met my life parterner as verizon-employee, we chose to go back to banglore by end of 2012 towards over hyped dooms day.
-
-- CSC was courteous to find project for me in bangalore, on myrequest
-- visa, banglore (2 months)
-
-- on a side note there were some credit card processing domain session by an excellent BusinessAnalyst, that was helpful
-- Societe Generalle -investment banking (3 years)
-
-- project-1 (referential repository)
-    - a very good team lead, super BA, QA and excellent team members, i never felt like a consultant
-    - unlike verizon, all meeting in Societe Generalle were open for everybody, there is no close talk/discussion separately with SocGen employees , we were allowed in all team lunch, parties, outings etc.
-        what an amazing culture, almost zero bias
-    - when it comes to culture, socgen comes first in my mind
-    - the purpose of application was to consoldiate all the stocks/instrumens data and treat as golden copy for downstreams. they used an asset mgmt tool proprietary. backed by tibco rv messaging, 
-    - i did some bug fixing, enhancements on message filtering, did ant to maven migration(1000 of scripts floating) did some bash scripting to automate work, had to incorporate/inject backward compatiblity  stuff like that.
-    - on a side note our client team lead ensure that we all go around 4 evening for a tea-break and no technical discussion. that was a good culture.
-    - again i was offered couple of times on my willingness to join socgen, though the culture was superb, probably i could have a got a fat pkg, if felt tech to be outdated, glad i did it,  i declined stating i had different technical aspirations
-    - i conveyed the same to CSC and  CSC got me to another project for another vertical
-- project-2(securities-book-keeping) tast of web-api development
-    - interviewed(1 round of technical discussion) it was mostly a open discussion on current-problems, team capabilities etc, i showed by interest.
-    - it was mostly a upgradation of an existing tool with latest technogies.
-    - we were 4 members from CSC and 3 from Socgen including team lead
-    - we did some enchancements, I trouble shooted few exising, creeping issues, primarily on performance.
-    - i guided team on front end developement, though i restrained taking active development on front end
-    - there came a requirement of building servcies for seurities based geography reconciling the position/movements for each trade done.
-        i volunteered for this and started building soap webservices, built an aggregation logic purely based on java hashing technique, for consolidating all movements for a given instrument and region
-        parallely i was working a lot with 2 BAs who extensive knowledge and were open enough to simplify the domain of how trades happen. one of them prepared an excel , priortized the use case, i kept on building stuff as per his instructions, correcting my aggregation logic , we even tested for a scale of few  thousands , which BA tested. These two BAs were from France, so i got to know lot of their culture.
-        all went well we deployed and end user were happy with consistency of aggragation logic. They dont accept even 1 decimal variation, yes we need. of course the performance was also good.
-        After stablizing i thought of moving out from CSC, primarily for a market correction 
-    - post my resignation, the client manager did propose on offering a position, i was skeptical  as i had some other technical apirations.
-        parallel CSC also didnt want to leave, so they offered csc-france for the same project, middel-east on site. The france onsite offer from csc didnt materialzie and others i declined.
-    - on a side note finally working for 3 years, i got convinced that stock market is trustable and  i can also invest. So its a life time lesson added for my financial-goal, this domain has helped me on personal goal.
-    - i dont mind now joining back to this domain any time, as long as the i culturally fit them well.
-## Company-3-Wipro Apr-2016 Jul-2018
-- project-1 (Ericsson telecom)
-- unlike my onsite client deputation , this was in wipro office (1 year electornic city, another year in divaysthree tech park, white field)
-- frankly speaking this my firs exposure to service-based consultancy services , from office , canteen, campus etc
-- it was very unique experience on campus, culture
-- purpose of appication: a central library for all 50 plus hosted OSS aplications to talk to database(object oriented database(versant)), it  had abstraction for below
-    -  2-phase-commit transaction 
-    -  a primary publisher to event-channel
-    - Some OSS configurations, adaters(MIB,RAN) etc
-    - built on top RMI, CORBA for few appoications
-- when i looked a source code of projects and inception date it dated back to 2006, i could literally see GOF patterns, few J2EE patterns, it was built very beautifully with separation of concerns with just plain java classes and structures.
-- The team was good, our scrum-master cum manager called BABA protected us from unnecessary issues, I also got work with a colleague-1 a domain expert on telecom with a decade expericence, he always had an idelology to fail-fast and fail intelligently, may be becasuse of the issues seen around. 
-there as another colleague-2(now a long term friend) who coulple of year experience had solid exposure in administration of versant databse and shell scripts and he was really good at articualting things to customer.
-Primarily we 3 as an ally guarded the fort of CS libary from all the issues/ 50 plus applications we could literally get ticket from any where, any team. There was this ball-game of its not our issue war, 
-No wonder  i got  introduced into a concept of rooster-call on-call-support for weedends. This was the reason i got my first laptop.
-    Till then i was only working on desktops.
-- Though designated as architect in wipro coming back to my contribution my first  recognition / reputation didnt come for solving/troubleshooting issue, but ti  was for improving a consisteny-check-tool(usually-took-50 mins) which i improvised(reduced 12 to 15mins) by recuding system-calls, networks-calls, io-calls. probably my colleague-1 wanted to check my strenghts 
-- after couple of months i realized  that designation was namesake and i was lead developer in role in practice.
-- the frequent issue , when the ticket was raised  was cs library has locked the transaction, we need their support, it was optimistic locking strategy which every application could have chosen when they connect to CS libary, but they needed our help to show that, since two application concurrent behaviour for data-integrity lock could have occurred, there was blame game for lack of knowledge stating application A, B...X caused it etc,
-most of the time my-allyteam(myself,colleague-1,colleague-2) we suggested you just suggested you retrigger your usecase because thats what is needed to do, some teams were adomant(stated) to give full explanation, so we took the global event-channel log it gave applications A,B,..x who caused, the sharded resource(object) on versant-database etc they never came back after that mail,ticket comments not sure what they understood.
-since I was a new commer my colleague-1 and 2 did many times articulation because i spoke too much technical digging into versant database source occassionally, JTA etc give clarity.
-- there was 1 one more ticke of special interset , some application team came and said that CS libary the comment section of resource(RAN,WRAN,MIB etc) is limited and we could enhance it to be unbounded length. I was just thinking did he mean ram size or hard disk size. my colleague-1 said to take a look, i said we could go max ram size or the string's size not beyond that. He said please gather some proof for your statement then i researched at both jvm and Javalanguagespec. then recalled java-source code String class and its length method backed by char[].lenth, gave proof that that max, gave apporximat 2^32 -1 . My colleague-1 took this info and handled ticket on this own taking out the complexity which the application team x had raised.
-- there were few more enhancements which i did, if i recollect will add later
-- 
-- finally mid 2018 i decided to move on, having some experiences, with stong will power i repeatedly said to my self to join a product based company and ok to take a break for 2 t 3 months.
-- on a side note 
-    - i didnt work with any ericsson mgmt directly , nor  i was approached by ericsson account to be absorbed
-        however based on work tipped off from a very senior colleague which i wasnt aware, i was projected for Huwaei account, after my resignation,   the client was intersted, interveiwed(TPS problem with an aggregation locid was a intersting one  and i still recall most of the discussion , as it was mostly mathematical. )
-        Though technically it sounded good, it didnt materialize and more over  usually its not good to negotiate once I resign from my position , so declined that offer from wipro's attempt to retain me.
-
-- some intersting observations to debate or discuss or improvise
-    - 
-    - a very seriously annoying thing for every release  was something call ST-KPI, it was metric to measure if there was delta in performance between (previous, current), thats a big story, if performance impoved/degrade we had to findout root-cause, not sure who devised but they did forget the jdk upgrade, ant/maven upgrade, os changes, database upgrade etc, it was a big mess all together finally someone top all way to ericsson client made a decision which benchmark to be taken going forward which i never got visibility.
-    - on fun side post lunch, we were a good team of 7 to 8 people , though not directly connected on work, but belonging to same restricted area, we enjoyed food, conversations, gossips and a 15 to 20 min walk.
-    - left wipro on 11 july 2018, with a cake celebration(first one for me on leaving company)
 ## Company-4-GE Oct-2018 Jan-2024
--  5.3 years - discovering myself as software-engineer, system-designer, application-architect, solution-architect
-### aviation-domain-exposure - the-Engine-product , after-market-service-agreement, the-margin-review
+-  5.3 years - discovering myself as software-engineer, system-designer, application-architect, solution-architect 
+### aviation-domain-exposure 
+- the-Engine-product , after-market-service-agreement, the-margin-review
 - [ge-aerospace](https://www.geaerospace.com/sitemap) [GE-wiki](https://en.wikipedia.org/wiki/GE_Aerospace) my exposure is on in-house software tools and applicaitons built for [commercial-services](https://www.geaerospace.com/commercial/services)
-- the way, I have understood, on the space i got exposed to, and everything what I workef for in GE  starts with an engine coming to shop-visit, then many appliations digitize  on the MRO (overhaul repair,replacement of parts etc). The services offered are very customized for each customer be it airline or airframer which they call by customized-service-agreements CSAs which span from 5 to 20+ years of contract, GE has x-margin-profit which are reviewed CMRs(contractual-margin-review) annually on a pre-defined quarter. The basic idea is to check the MRO cost incurred for the set of engine which came to shop. So, every quarter of the year, they check or review(to-be-precise) on the x-margin-tobe-realized which was signed with customer to see if its profitable or not. if not then to make some adjustments on cost trading off repair vs replacement-of-parts((old,new)) or send them to another MRO shops spreaded across the globe where the labor cost is cheaper. For some Engines like CFM56, Leap due to JV say 50:50 the revenue gets shared. The complexity continues like this on how ge charges/bills customer on several factors like temperature, altitude, thrust and utilization(just like my-bike-service)
+- the way, I have understood, on the space i got exposed to, and everything what I worked for in GE  starts with an engine coming to shop-visit, then many appliations digitize  on the MRO (overhaul repair,replacement of parts etc). The services offered are very customized for each customer be it airline or airframer which they call by customized-service-agreements CSAs which span from 5 to 20+ years of contract, GE has x-margin-profit which are reviewed CMRs(contractual-margin-review) annually on a pre-defined quarter. The basic idea is to check the MRO cost incurred for the set of engine which came to shop. So, every quarter of the year, they check or review(to-be-precise) on the x-margin-tobe-realized which was signed with customer to see if its profitable or not. if not then to make some adjustments on cost trading off repair vs replacement-of-parts((old,new)) or send them to another MRO shops spreaded across the globe where the labor cost is cheaper. For some Engines like CFM56, Leap due to JV say 50:50 the revenue gets shared. The complexity continues like this on how ge charges/bills customer on several factors like temperature, altitude, thrust and utilization(just like my-bike-service)
     - GE Purpose "We invent the future of flight, lift people up and bring them home safely"
     - culture-perse : in-my-view though I could be wrong, I imagine it to be pyramid of  people(bottom), process, techonology(top) and due to the very nature of business they usually put safety and security at top. so even for inhouse-software solutions which are not internet  facing still to use a technology, process and multi-level approvals are always deeply inherent in the culture. I should admit that there are lot of good problems(modeling-analytics-simulation) to be exploited and  solved. I also felt that I was evolving as a good software engineer during my tenure for the support I got from my immediate-managment and colleagues support. 
     - since childhood, I have great interest in aeroplanes, its fascinating to watch them fly, although i kind of dont like long-journey in plane due to conjusted seating, I usually  prefer aisle seat, so that I can strech my legs.
@@ -691,6 +576,177 @@ since I was a new commer my colleague-1 and 2 did many times articulation becaus
 - [My Java Stack & Few Titbits](#my-java-stack--few-titbits) | [Fascinating Technologies](#fascinating-technologies)  | [an-engineer-since-2019](#an-engineer-since-2019) | [Execution Style](#execution-style) | [Teaching Mentoring](#teaching-mentoring)
  | [](#) | [](#) | [](#) | [](#) | [](#) |
 
+
+## Company-3-Wipro Apr-2016 Jul-2018
+### project-1 (Ericsson Account -  Telecom)
+- Configuration Service - Library
+- my-role : started as senior developer, eventually taking lead of all major features, enhancements and support
+- purpose of appication: a central library for all 50 plus hosted [OSS Telecom](https://en.wikipedia.org/wiki/Operations_support_system) aplications to talk to database([Versant Object Database - VOD](https://en.wikipedia.org/wiki/Actian_NoSQL_Object_Database)), it  had abstraction for below
+    -  2-phase-commit transaction 
+    -  a primary publisher to event-channel, publishing all events from 50+ applications which connected to VOD
+    - Some OSS configurations, adaters(MIB,RAN) etc
+    - built on top RMI, CORBA for few appoications
+- a-little-story-to-share :  The team was good, our scrum-master cum manager called BABA protected us from unnecessary issues, I also got work with a colleague-1 a domain expert on telecom with a decade of expericence, he always had an idelology to fail-fast and fail intelligently, may be becasuse of the issues seen around. There was another colleague-2 who had become a SME in our space  with solid exposure in administration of versant databse and shell scripts and he was really good at articualting things to customer Ericsson.
+Primarily, we 3 for almost 1.5 years, as an ally guarded the fort of CS libary from all the support activities be it quarterly tussle of ST-KPI, deadlock-support, rollback of transaction etc , from 50 plus applications we could literally get ticket from any where, any team. There was this ball-game of its not our issue war from the raiser. Some issues were so wierdly raised, support wasn't even needed and mostly we had to diplomatically handle the support tickets, which my other two colleagues excelled with command on the OSS domain and I generally took the technical-research and piteched whenever deeper code, design was involved.
+- Though designated as architect in wipro coming back to my contribution my first  recognition / reputation didnt come for solving/troubleshooting issue, but ti  was for improving a consisteny-check-tool(usually-took-50 mins) which i improvised(reduced 15 to 20mins) by recuding system-calls, networks-calls, io-calls. probably my colleague-1 wanted to check my approach
+- the frequent issue , when the ticket was raised  was cs library has locked the transaction, we need their support, it was optimistic locking strategy which every application could have chosen when they connect to CS libary, but they needed our help to show that, since two application concurrent behaviour for data-integrity lock could have occurred, there was blame game for lack of knowledge stating application A, B...X caused it etc,
+most of the time my-allyteam(myself,colleague-1,colleague-2) we suggested you just suggested you retrigger your usecase because thats what is needed to do, some teams were adomant(stated) to give full explanation, so we took the global event-channel log it gave applications A,B,..x who caused, the sharded resource(object) on versant-database etc they never came back after that mail,ticket comments not sure what they understood.
+since I was a new commer my colleague-1 and 2 did many times articulation because i spoke too much technical digging into versant database source occassionally, JTA etc give clarity.
+- there was 1 one more ticke of special interset , some application team came and said that CS libary the comment section of resource(RAN,WRAN,MIB etc) is limited and we could enhance it to be unbounded length. I was just thinking did he mean ram size or hard disk size. my colleague-1 said to take a look, i said we could go max ram size or the string's size not beyond that. He said please gather some proof for your statement then i researched at both jvm and Javalanguagespec. then recalled java-source code String class and its length method backed by char[].lenth, gave proof that that max, gave apporximat 2^32 -1 . My colleague-1 took this info and handled ticket on this own taking out the complexity which the application team x had raised.
+- there were few more enhancements which i did, if i recollect will add later
+- ### Reason to leave
+    - 2 years was quite a stretch, for a project which was getting decommissoned, getting release from project also felt trickier, so quit to look for new opportunities hoping for exposure in microservies, cloud. Also took a break, 1.5 month or so hoping to join a product-based-company
+- some intersting observations to debate or discuss or improvise
+    - This was my first exposure to consultancy services  from office , canteen, campus etc. It was a very unique experience on campus, culture
+    - Ocassionaly looking at source code of projects, I could literally see GOF patterns, few J2EE patterns, EIP, it was built very beautifully with separation of concerns with just plain java classes and structures, probably the best crafted code so far in my experience, excellent test coverage etc. It was a decade old, very stable. Hoever it was in getting decomissioned in next couple of years, probably for 5g push with new tech-stack of microservices, containerization backed by  neo4j but it happend in Ericsson, Ireland
+    - I also got  introduced into a concept of rooster-call on-call-support for weekends. This was the reason I got my first laptop, till then i was only working on desktops, so had to go to office, In wipro also remote work meant only for weekend support, even with laptop u still had to go to office for ericsson account on weekdays.
+    - a very seriously annoying thing for every release  was something called ST-KPI, it was metric to measure if there was delta in performance between (previous, current), thats a big story, if performance impoved/degrade we had to findout root-cause, not sure who devised but they did forget the jdk upgrade, ant/maven upgrade, os changes, database upgrade etc, it was a big mess all together finally someone top all way to ericsson client made a decision which benchmark to be taken going forward which i never got visibility.
+    - on fun side post lunch, we were a good team of 7 to 8 people , though not directly connected on work, but belonging to same restricted area, we enjoyed food, conversations, gossips and a 15 to 20 min walk.
+    - left wipro on 11 july 2018,  with a cake celebration(first one for me on leaving company)
+
+   
+## Company-2-CSC Dec-2009 to Mar-2016
+- CSC Computer Sciences Corporation, now DXC again acquird by HP
+- Tenure 6 years: attempting to be a good consultant, exploring leadership, collaboration, new challenges in domain of telecom,investment-banking
+- ### Client-1 : Verizon Data Services
+    - tenure : 3 
+    - project-1 : Vmlite(verizon mobile lite) field technician app, taste of blackberry with perstdb
+    - purpose : The blackberry application was primarily targed for verizon field technician for routine FIOS installion, repair work, backed by scheduling, job assignment, gps-tracking etc.
+        - on a side note, i never tested the app on real blackberry app, occasionaly verizon colleague demonstrated to us. we did everything to the best of our imagination on a simulation IDE on our PCs. It was good enough, occasionally for some UI distortions we had to see real screenshots of user tickets
+    - my-role : joined as a consultant developer, occasionally took lead on development, as per the autonomy, as given by my verizon-client-manager after a years of trust. Although, I would like to make a special mention of my csc-colleague-1 with whom I devised several solutions. Before joining CSC to work with me, he had prior experience on verizon-domain, he was a ex employee. 
+    - my tasks, contribution
+        - semi-automation-1 :  
+            - a-little-story : A good one to share, as I was tasked load some static-data to database and devise a solution (automation-script), the static domain was little tricky, it was basically all static data of field technicaian blackberry app GUI controls like drop down, choices, labels etc. These were supposed to be dynamically loaded in several screen of blackberry app.
+            With a dedicated week of effort,  I was able to  devsie a partial solutiong in java, parsing and reformatting with something like notepad/textpad which i dont recall. I loaded all data and went back after a week or so, to my client-manager, I had streched late-night to acheieve this, not to impress or get  recognition, it was difficult to split the work i was trying to automate. one of the expert, saw, verified the work and said good work. For me it was till then, intersitingly every day afternoon my other CSC colleague used to send a mail stating i will be late to office.It was larger audience in the mail chain. My client manager, seeing that work was completed faster than his anticipation, relaxed me coming late to office. And asked my other-csc-colleague not to publish my late coming mail. There were multiple things later I built on top of this
+        - automations-2-gps-location-updater: another feature  to share the location silently every time a feild-technician picked a job, dida a status-update, reroute, etc . I implemented using a timer logic with explicit control on timer settings etc.
+        - automations-n : I did build lot of blackberry screens, though there wasnt a sophisticated like java swing, some box layouts helped as I recall. Ofcourse due to limitations, blackberry ram and perst OO db, lot of tweaking was needed, so occasionally to save memory, I did leverage some binary arithmetics ocassionally for storing data.
+            - then it went on bug fixing, feature enchancements, i became approachble on blackberry front end developer.
+        - 
+    - project-2 : vmobile laptop app
+    - Purpose : The requirement was to build a laptop desktop application, probably few fields technicians were getting/promoted to use laptops for their work. A team from US, who was heading , wanted to resuse the existing business domain logic and build a a new application which was almost similar/tobe-faimilar wth blackberry application.
+    - challenges : 
+        -  an alternative vmlite blackberry app meant that we need get familiar with pretty much all the screens.
+        -  a juggle of reusing vmlite's business logic, the extensive optimized code and its relaxation to huge Java heap memory, though a big relief, we had to rewire lot of java code. 
+        - blackberry app fully blow into laptop meant lof  plenty of real-estate, what do we fill with.
+    - my-role : along with my csc-colleague-1, a key developer, then occasionally, leading front-end-development as per the autonomy-given. 
+        - Filling plenty for real esate with useful stuff for technicians came to my cup of tea. Now the company-1-Tomax experience of experience came for my help, including protypying approach of CXA, I too demonstrated some clickable dummy screens, so that US team could feel it in first hand.
+    - my tasks, contributions :
+        - an-intersting-story to share :    I was a natural pick, with Swing in my expericence,  I proposed, we should be building adaptive screens, and we could incorporate little extra developemnt time for building resualble table component promising reduction of future developemnt time. It was a bit to struggle to convince the stakeholders especially US team.     Luckily, my csc-colleague-1(now-a-long-term-friend-of-mine), had prior experience in verizon and quite reputation. So he convinced on our ideas. While I was in full tracktion of leading on the front-end technology, he took care of back-nuiances like a soap webservice, polling etc. and he taught few of this to me as well, while I taught him few things on Java swing techniques.
+            - a funny and intersting thing based on abstraction of reusable table component i had built, he leveraged them and to everyones suprise, he built almost 5 to 7 screens in a week or so. Ocassionally on his backend code, i got to fix few bugs or enhancements. We were a combination to crack anything we were thrown at.
+            To make use of entire real estate i used several techinques like
+                - column widths could be expanded to the frame of desktop, i had backed everything to gridbag layout, border layout management
+                - i dont recall fully, but i vaguely suggest that we gave lot of options and embedded several useful components, becuase we had too much real estate, say like going from 1-rk to a villa design
+           Eventually with few demos and promise of new capablities, slowly it got statbilized. and after few months of production, we got to hear that its lot easier for field technician on laptop then blackberry due to screen size and extra capablities which we had introduced. 
+        -  automations-n
+            - for first time , I had applied multisort thing on tabular data.
+            - serialized entirire object graph, make a deep-clone copy , so that application preferences for field technicians could be save on log out to disk of laptop. on laptop the field technicians prefrences were restored.
+                - I also recall that, field technician technician could take a screenshot of job buckets, etc, for which again above serialization was used on jtable view, but not on actual tablemodel by leveraging java's tranisient variable feature.
+            - mostly I we 
+    -  some intersting observations to debate or discuss or improvise
+        - Lessons learnt, you need a strong ally(my-Csc-colleague, client-mgr, client-team-lead), to make sure your/our ideas work.
+        - dormitory : I usually went to client office late, they were least bothered on when I went, rather on my transparency and efficiency of my work. So many times initially, I did sleep in the office dormitory. some times i even took powernaps during lunch times. Every office if affordable should have one I feel.
+        - we had lot of good conversations with verizon colleagues, I was also quite notorious on debates on pretty much any topic and prett much many were getting entertained on our evening tea breaks full of tamil,english context switching conversations.
+        - few things you encounter  as being consultant for first time :
+            positivies : we  could finish one project, move on to another one, probably for those who want to be more technology-centric and aspire to learn or get into new challeges.
+            downsides : there were some tiny things like as a consultant, i wasnt not allowed to go to verizon-specific things like  lunch, team-outings, townhalls, internal-demos etc a kind of first experiences. this varies org to org, but something to know or be familiar with
+        - every-weekend-travel :  every friday I use to travel to bangalore from chennai and by monday noon i was back to office.
+        - sometimes, we all were asked to come weekends, I usually got saved from my hectic every-weekend-travel
+- ### Client-2 : VISA, CSC (2 months)
+- VISA
+- it was hardly 2 months, it was on decommissioned state and moving to fully l3 support model, so I moved on, 
+    -  on a side note there were some credit card processing domain session by an excellent BusinessAnalyst, that was helpful
+- project-3 (referential repository)
+- ### Client-3 : Societe Generalle  
+    - Domain : investment banking (referential-asset, booking-keepin on trade movements)
+    - Tenure : 3 years,  
+    -  special-mention : Societe Generalle,  my goto company-name, for open-culture-with-transparency, 
+    - project-1 : 
+        - purpose : to consoldiate all the stocks/instrumens data and treat as golden copy for downstreams. 
+            tech-stack : a proprietary asset-mgmt-tool desktop application , backed by tibco rv messaging, ant builds, oracle db 
+                - running simple 
+        - my-role : as a developer(desktop,backend)
+        - my tasks, contibutions
+            - automation-n :
+                - some enhancement on screens with asset-mgmt-tool, bug fixing
+                - enhancements on message filtering, 
+                -  did ant to maven migration(1000 of scripts floating) did some bash scripting to automate work, had to incorporate/inject backward compatiblity  stuff like that.
+    - some intersting observations to debate or discuss or improvise
+        - a very good team lead, superb BA, QA and excellent team members, I never felt like a consultant
+        - on a side note our client team lead ensured that we all go around 4 evening for a tea-break and no technical discussion. We could freely talk anything, random discussions.
+    - project-2(securities-book-keeping) officially my first web-api development with soap-services, prior to this it was all servlet/jsp/jsf
+        - purpose : As I recall, there separate applications(securities-book-keeping) for each market region like frankfurt, luxemborg, Societe Generalle was planning to unify all those with a single application. Seurities based geography were tobe reconciled from  the position/movements for each trade done for that particualr region/market
+            -  pralllely  upgrade with an existing tool with latest technogies and some new business capabilities
+        - my role : key backend developer, along with occasional frontend app development.
+        - my tasks designs, contribution : 
+        - automation-1 : Bancs CA Initialization tool
+            - Led the key design of web services on Bancs CA Initialization tool, built a reusable workflow algorithm which did aggregation of thousands of positions/movements of stocks. me and france conterpart BA, we ensured all critical business use case were covered and even did  a manual load testing for some extreme figure. Basically the BA did all load testing
+            I had backed the whole aggreagation logic with heavy use of bottom up tree building, leveraging hashing. To the best tof my knowledge I kept scalablity in my mind ensuring  statelss with soapful-webserices. Also, some key domain tables in database had billions of rows, so i had pulled all the data for my use case and did aggregation applying business rules in java-memory.
+            Even 1 decimal variation was unacceptable. This was my officially first encounter for building scalable web apis and with some good success. This has been very instrumental and foundational experience  for all of my scalable distributed computing so far. I just got better as I got to compute further on large data sets.
+        - automation-2 : Bancs Trade Update workflow
+            - Designed real time Bancs Trade Update workflow of ISI, I had built an good abstraction some good parts which  I had built above to efficiently  update the trade workflow data.
+        - Tuned a performance issue on security integration taking 10 min to less than a minute, related to dependency injection, 
+    -  some intersting observations to debate or discuss or improvise
+        - culture : unlike verizon, societe generalle had very open culture be it lunch, team-outings, townhalls, internal-demos etc a kind of first experiences being a consultant. Except for the fact that i got paid from my CSC, everything in societe generalle was equal treatment for all. No laptop for anyone. A strict policy of not working beyond 7pm, pretty much deserted. There were rumors that if anyone worked late continuously, then the manager gets call from HR, to check on overburn. In entrie 3 years tenure, that I on my own went a weekend for few hours, due to a deadline and my own commitment and cracking of some business rules and devising algo.
+            - I was tasked to take several interviews, even for societe generalle employees
+        - I predominantly worked with  2 BAs who had extensive knowledge and were open enough to simplify the domain of how trades happen. one of them prepared an excel , priortized the use case, i kept on building stuff as per his instructions, correcting my aggregation logic , we even tested for a scale of few 100 thousands , which BA tested and passed. These two BAs were from France, so occasion we shared a lot of our cultures, food.
+        - true agile : we synchronized our scrum calls with france-team post lunch and the france-team very good at task-estimation-6h-rule, assingmet, live update of status in JIRA, if you committed to a task, you had to deliver, neither over/nor under estimation was allowed. So we split several tasks for a day. This was a big learning for me as well. 
+        - biggest-takeaway : I got convinced that stock market is trustable and  I can also invest. So its a life time lesson added for my financial-goal. As of now, this is also a retirment plan of mine.
+
+## Company-1-Tomax Jun-2005 to Sep-2009
+- Tomax India,Bangalore 
+- Domain : Retail
+    - Exposure on inventory-mgmt, workflow-mgmt, merchandise-hierarchy
+- Tenure :  4.3 years, taste of good-developer caring-for-performance, building-reusable components for desktop-applications, prototyping-on-domain-flow, 
+- Tomax, had some catchy phrase - demand-driven-conntinum, connecting-the-dots
+- ### project-1 
+    - New Promo UI (Revenue Management) 
+    - Purpose : A new Desktop application with new business capabilities and flexiblities for managing promotions to extend the reach to new parteners and customers.
+    - automation-1-SKU-Lookup-Screen: 
+        - role - frontend-developer
+        - My tasks, contributions
+        - my-first-developement-story :  I was tasked to build a inventory lookup screen using java swing desktop library, it went for several weeks to shape it up, wrote thousands of lines, mostly fear of bug, wrote lot of defensive code on 1 side, embedded lot of flexibilty for user to search with anything like substring, combination of domain-fiedls like item, category backed by sql options (or, like, %)  and few on java-layer, i introduced lot of configurations for explicitly controlling the behaviour. of course pretty much lot business rules on event-listeners.
+        Had also built quite a bit of  abstraction keeping MVC(push-model) using  JTableAbstractmodel, JTable-view , configuring column-heards even to populate the results of search. The result them selves were sortable based on the click of view etc. The work had also got 
+        delayed for few weeks, however got support from my team-lead-cum-mentor, having convinced him on with expalination of all what i was trying to embed. Ofcourse there were few bugs and the search screen was well received, i got some fame from it as well.
+        Though i was little skpetical on working java swing building graphical components, its my team lead/mentor who encouraged that its a good way to start the career.
+        - automations-xyz
+            - ofcourse I built lot of screens, enhancements, fixed bugs etc, which I dont recall much
+    - some intersting observations to debate or discuss or improvise
+        - I became  very good on layout managment with adaptive behviours, especially using gridbaglayout manager, because it had weights to strech a component in both horizontal and vertical dimension. Till date I leverage this techniue on several ways, yes it as something to do with even LLMs 2B,70B models as well if you think interms of weight.I also got expertize on building table, table tree ui components. This helped for almost for next 6 years or so until i completely switched by profile for backend-developer.
+        All amazing stuff i did was because of math of building adaptive screens irrespective of display-device size.
+        Of course lot goes to on my java OOPs concepts to build reusable components and few  j2ee patterns but it wasnt visible to everyone, because the frontend work I did overshadowed.Then i kept on building several screens, reusable components as I got assiged to multiple projects.
+        - slowly, though I was famous for front-end developement, i got great interset in backend using jdbc, hiberante, ejbs, servlets, jsps etc they were trending at  that time.
+        - Sadly, I had to move away from my mentor's direct coaching, but we kept connecting whenver i got struck for my entire tenure of Tomax, even for next switch of my company
+- ### project-2
+    - workflow-activity-management, Time and Attendance
+    - Purpose : 
+    - automation-2-merchandise-hierarchy
+        I vaguely remember that we had to build a screen where in we had to list all retail stores  revenue for its respective HQ.
+        - My mentor had already taught me building tabletress in my project-1 which came handy here. It was the probably the most interesting component I built with java swing. At tree you display HeadQuarterStores and on click of it we had to pull all the store which were assigned to it. As i vaguely remember technically I had solved it by using a 10 level hashmap anticipating the depth backed by custom tree data structure with typical node referncing itself with parent and children, the table model computed overall aggregation and rolled up to its HQ. 
+            - on a side this technique I have leveraged has been a life saver in many of my developement till date. 
+    - automations-xyz
+        - ofcourse I built lot of screens, enhancements, fixed bugs etc, which I dont recall much
+        - This project had lot of different tech stack with  workflow-domain(Portlets, Struts, Shark Enhydra Workflow) backed by ejb, hibernate servlet jsp etc
+        - it was lot of quick dirty works of servlet/jsp combinations fixing bugs, 
+        - again built several resuable components, got to collaborate with different team-lead they had different ideologies, but I continued with my initial teachings of my mentor. after a year or so this project was called off, we did everything best, amazing stuff, etc but got to hear there end user vision had changed. Lesson learnt , validate the business requiremnts, so hence forth till date i strongly apply domain-driven-design and validate business-requiments, probably strong reason of [Why do I step into your shoes](#why-do-i-step-into-your-shoes) ideology
+- ### project-3
+    - CXA   customer-experience-architecture for [Les Schwab tires ](https://www.lesschwab.com/) 
+        - on a side note , myluck its business still contines but the appointment scheduler is not what we built, definitely front end technology change every 3 to 5 years that to blame
+            - however the factors for booking appointment like tires(new, flat repair..), serverices-like(brake, wheels, alignment) followed by date and slot options are pretty much striaight forward, a strong reason for advocating/my bias on DDD
+    - Purpose : To build a tire service desktop application for services like appointment, MRO-stuff, sale of parts etc
+    - my-role : lead developer in tomax-india, training coaching
+        - a-little-story : back then it was 2008 to 2009, housing bubble, Tomax apart from its retail-product-suite wanted to experiment on services, so  Tomax US had visioned a new architecture a prototype baseed apprach, called by CXA-Customer Experience Architecture. This was very new experience where we got see some plain screens with button and navigation you could pretty much experience the whole flow. probably true new agile methodology for me. 
+        Now there was one key change on tech-stack, for front end they zeroed on RIA library ULC . Unlike java swing , this was server side technology. The desktop GUI components were half-client half-server(backed by RMI if i recall). Primarily there were two people we had strong grip on building desktop application my mentor and my self. And on US counter part i heard there were two developers leading this whole program (surpisingly they were almost near to 60 years of age. This was a useful information, i got to learn that i can become a developer till 60 years of my age). Thats how I became lead developer not by designation.I  got training from  my mentor and those two super senior deveopers.Now i was tasked to train others including my other tech-leads who were leading web development projects.For tomax this was the most visible project, because as opposed to reatial-product they wanted to try services for this 400 store Les-schwab Tires. Now i was also in limelight, not the technology was hard but i had to train and work with almost 2x to 3x of my experence, I betted on my grip on java, swing libaray concepts, knowledge on ULC and trained many for 2 months, sharing all the knowledge I had.
+    - my tasks, contribution
+        - When project started i did something different in execution.I took lead on few critical component(appointment-schedueler, reusable-table-comonent,reusable-tabletreecomonent), and guided others on their day to day development acitivities. Anybody could grab me for anything they needed on ULC. of course lot And lot went smooth, Ocassionaly I had guidance from my mentor and other leads when i was getting struck.
+- ### Reason to leave, Tomax
+    - It was mid-2009, we recived a letter from CEO stating "Nothing is permanent in life" and  ending with we are closing Tomax India operations. More than me, it was shocking for several seniors as probably because of their financial dependency, emotional attachement(including myself).on sep 15 2009 we all tomaxians-India were happy, because we got almost 4 to 6 months of salary as compenstation based on tenure we served. I just said to myself any company i join, i will keep resignation in my pocket and work hoping termination from either-side any-time.
+    - i took a break to spend 2 months with my family, went to my native for  a month enjoying food. Then when i started back, job openning were little less, more screening due to global financial housing bubble impact. Finally, after a bit of struggle, with 50% hike i got an offer from CSC, chennai, i accepted
+- Few interesting stories to share 
+    - story-1-double-training : I wasnt smart enough to get a college placement, so did a Java/J2EE course from [NIIT](https://www.niit.com/india/java-full-stack-developer-program) and from its placement, I got into Tomax. Here again I was on a further training of 6 months, re-trained on java,sql, dbms concepts, html,javascript and retail-domain as well. Along with me, Tomx had hired 3 more from diffrent NIIT branches. We  four all-new peope from NIIT(different branches), different states got four mentors who trained extensively  abased on real experience. Parallely we were tasked to build a software library for the company. Though initially were bit of competing coming from different regions,states,languages culture, we slowly adopted  towards just 1 goal building the library and our goal, to the best of our knowledge making the library  more usable  for company users.  And we were the first pilot batch which tomax was experiment on an idea grooming freshers vs hiring exprienced ones and grooming. Initially, we gave test 1 in each month, for 3 times i recall. This was foundational for strenghting in my OOP concepts, java, multithreading concepts also how to work in collaboration. also a little on my leading and presentation skills. For Tomax, it our pilot batch was success
+    - story-2 :  when I first got into a project-1, i was tasked to do testing for 3 weeks or so, i was little skeptical as i wanted to start on development, coding-stuff, i did research on wiki narrowed that boundary testing is what testers fail from database,  having looked at database constraints i was able create few bugs in Jira to everyones surprise. later i got to know that that the  scenario(business-flow) never happens. 
+- some intersting observations to debate or discuss or improvise
+    - CXA technique : I did leverage this prototype based apporach in my future projects especially in Verzion while buidling field technician application to  build stuf and adapt based on rapid feedback. This was a phenomenal technique i used for almost all of my front end development, later this when  I switched to backend-profile it helped me understand better on api contracts with web-services(SOAP, REST)
+ 
 ## My Quick Bites on Problem Solving
 - These are some of my approaches, techniques, strategies when the business-domain to technical-domain  is well-understood 
     - looking and identifying core domain attributes necessary for the overall automation-math
@@ -764,8 +820,12 @@ since I was a new commer my colleague-1 and 2 did many times articulation becaus
         - realtime streaming 
         -
 ## Patterns 
-- in my view if time-is-money, we save TIME by leveraging them, someone's (person, team, org)   solution to a repitive-problem-space    to a contrained-domain-space or bounded-context
-- pattern : context-driven, recurring, 
+- if time-is-money, we save TIME and MONEY both by leveraging or avoiding anti-patterns, someone's (person, team, org)   solution to a repitive-problem-space    to a contrained-domain-space or bounded-context
+- pattern : context-driven, recurring, time-saving, common-vocab-for-a-reptivive-problem's solution, 
+- anti-pattern :
+    - the biggest anti-pattern is every single pattern extremely-good-one also applied for a wrong-context undersntanding the problem-domain
+        -  may it was trending and you wanted to add in your resume/cv for pattern-matching, mis-understood its use-cases, other show-off-stuff, many possiblities
+- for any pattern for its efficacy, my recomendation cum approach is discuss with several colleagues, research on its use-cases, try it first on small blast-radius, then apply for larger-one, especially when it touches the core of business-problem 
 - Gof patterns
     - again this is not visible to customer, end-user 
     - a little research on backgroud will take you to https://en.wikipedia.org/wiki/Christopher_Alexander https://en.wikipedia.org/wiki/Pattern_language both kickstart you with enough wisdom to build custom patterns as per the domain
@@ -842,25 +902,25 @@ since I was a new commer my colleague-1 and 2 did many times articulation becaus
 - [an-engineer-since-2019](#an-engineer-since-2019)
 ## an-engineer-since-2019
 - attempting to being like one, thinking like one, 
-    - what good i am if dont talk about processing MBs to GBs in  Ghz, in a operating system process, probably due to an event trigger to http-request thread having feteched  a gb of data from a storage like database/s3 
+    - what good i am if dont talk about processing MBs to GBs in  Ghz, in a operating system process, probably due to an event trigger to http-request thread having fetched  a gb of data from a storage like database/s3 
     - with some just basic arithmetic its possible to process the data once in-memory RAM either through mutation of heap or immutable functional programming with streams library in java having some good grip on the way JVM works.
     - its quite possible to build a theory on approximate time usually in seconds to process the amount of data(MBs to GBs)
         - on a side note for big-data technologies Apache-Spark excites me or promises me to process memory on more than 1 node in memory
         - in near future, getting a good grip on this might make me a good developer to build data-pipelines for big-data, machine-learning data space
-    - frankly i wasnt  smart enough to understand in my (4 year engineering  + 13 years software development) that makes 17 years, may be i wasn't smart enough 
+    - from a perspective of an engineer frankly i wasn't  smart enough to understand in my (4 year engineering  + 13 years software development) that makes 17 years
         - on a side note later to come back again
         -  I had 1 good mentor who gave me some basic understanding in my 2 years of my career at first company
         - i think first company experience will shape you a lot, atleast it made a good developer though not engineer
         - his first teaching
             - you imagine the problem wholistically to which you are coding , dont run trial and error to see the output
              when you are convinced that 90% you are done, execute it, with 10% change or correction you should be able to generate the desired output solving the probelem.
-             i took this concept so far that i am notorious not to run my code till i am convince even for days to week based on the complexity of week, and still generate the desired output.
+             i took this concept so far that i am notorious not to run my code till i am convince even for days to week based on the complexity of work, and still generate the desired output.
              most of the time i dont test my code, i ask  testers/qa to run all comibnations, give them my own context and scenarios so that i can pick next complex stuff to solve.
-        - its my first mentor whom I should give alot  of credit for shaping me up
+        - its my first mentor whom I should give a lot  of credit for shaping me up
     - trust me, i understood all the above,  after 13 years of software development and as i came across these technologies
     - many thanks goes to parallel developments when i got introduced to concepts since 2018 on below
         - cloud computing  
-        - dev-ops culture now its dev-sec-ops (largely due AI penetration) 
+        - dev-ops culture now its dev-sec-ops (largely due to AI penetration) 
             - on a side note since nov 2022 chatgpt boom its  ML-ops, LLM-ops
         - microservices
         - cicd pipeline
@@ -874,9 +934,9 @@ since I was a new commer my colleague-1 and 2 did many times articulation becaus
     - 2019 April conferences [GIDS](https://developersummit.com/)
         -  2 day programme , though i was sponsored for a single day, a colleague of mine cancelled i got another day chance to attend, which i was delighted
         - This changed my perception of building software design, architecture, microservice granularity, mis conception of 12-factor app as a standard, 
-    - since college days i was facinated towards storage-devices, PCs(cpu,ram) and i was always curious in understanding how to leverage on   cpu speed(3ghz) and storage-speed(nvme.m2(5GB/s)))
+    - since college days i was fascinated towards storage-devices, PCs(cpu,ram) and i was always curious in understanding how to leverage on   cpu speed(3ghz) and storage-speed(nvme.m2(5GB/s)))
         - some how this has also  helped me to understand storage and compute solution better
-        - back in college days i was also facinated with GPU but seeing cost and its application(gaming, 3d-modeling), i kept away from researching it, and kept buying built in with CPU till date.
+        - back in college days i was also fascinated with GPU but seeing cost and its application(gaming, 3d-modeling), i kept away from researching it, and kept buying built in with CPU till date.
 
 - [My Java Stack & Few Titbits](#my-java-stack--few-titbits)    
 
@@ -901,14 +961,14 @@ since I was a new commer my colleague-1 and 2 did many times articulation becaus
 - if you are new to java or need to know what stuff could be built with to excite you or broaden on mindset
     - [dynamodb](https://en.wikipedia.org/wiki/Amazon_DynamoDB), [cassandra](https://en.wikipedia.org/wiki/Apache_Cassandra) [kafka](https://en.wikipedia.org/wiki/Apache_Kafka) [neo4j](https://en.wikipedia.org/wiki/Neo4j)
 - jdk-21 
-    - in my view , the most promising release  after java-8,  I am yet to leverage java 9 modualarity yet in some real world project
+    - in my view , the most promising release  after java-8,  I am yet to leverage java 9 modularity yet in some real world project
     - very exciting with virtural-threads, just a conigruation-change(spring.thread-executor=virtual) in springboot should boost performance, though i need to test for a heavy thread centric micro-service in pilot mode, before productionizing it. 
     - record pattern, simplicity at best with implicit(immutablity,adaptive defaults), data-oriented programming,
-        - complemented with streams we could do some good aggrgations, reduction with 1-step closer towards matrix operations
-        - atleast we  can now get rid of lomobok annotation, 
-- just my view dont take it to heart id you are still using EJB, applets etc
+        - complemented with streams we could do some good aggregations, reduction with 1-step closer towards matrix operations
+        - atleast we  can now get rid of lombok annotation, 
+- just my view dont take it to heart if you are still using EJB, applets etc - Rephrase
     - some flourish and current trend (spring,springboot) leveraging aop, DI, cloud integrations
-    - near to endagered (EJB) , in my view also http-statless helps a lot, so stateful bean, hyped entity beans didnt make sense as data-volume growth increased
+    - ehy EJB failed near to endagered (EJB) , in my view also http-statless helps a lot, so stateful bean, hyped entity beans didnt make sense as data-volume growth increased
     - to extinct(Java applet) 
 - ### flourishing And Relevant Java Stack
 - [springboot](https://spring.io/projects/spring-boot)
