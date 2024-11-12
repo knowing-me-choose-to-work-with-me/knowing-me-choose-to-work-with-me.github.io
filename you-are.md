@@ -1,26 +1,28 @@
 ## You Are
-## Recuriter HR
+## Recuriter,Talent Acquisition Team, HR Team 
 - FAQs
     - I have 18 years of IT experience aka software engineering 
-    - Yes, I have almost 18 years in java
-    - 5 years exerience in microserivces leveraging  aws-cloud technologies like ECS, lambda, S3, aws-RDS
+    - 18 years as a developer, designer in  java-ecoysystem
+    - 5 years exerience in microserivces(springboot) leveraging  aws-cloud technologies like ECS, lambda, S3, aws-RDS
     - 3+ in data-modeling for operational, transactional 
-    - 3+ years in nosql data-modeling
+    - 3+ years in nosql data-modeling building custom tailored solutions
     - I have theortical knowledge on data-lakehouse, data-mesh architecture
-- you probably want to take a look at culture-fitness first
+- you probably want to take a look at culture-fitness 
 - Also it would be really helpful and saving time for both of us if hiring panel gets to know me with my resume, site 
 - I am primarily looking for role which demands solution-architecture, scalable-system-design, software-architecture, data-modeling
 - I am not much concerned about designation, as along as the role promises above or something equivalent
 - I am not a cloud architect, I usually leverage cloud technologies
 - I am open for remote, hybrid(2 to 3 days) , 
     - as per the criticallity could do all heavy discussions,collaborative needs for couple of weeks and next couple of weeks remote if that helps.
+- below might interest you
+    - [Cultural Fitness](README.md#cultural-fitness) | [My Work Style](#my-work-style) | [Teaching Mentoring](#teaching-mentoring) 
 
 
 ## Hiring Manager
 - With all respect, as they vary from org to org, assuming to a be Manager, Director, VP .. xyz
 
 - you probably want to take a look at culture-fitness first followed by technical-fitness
-    - [Cultural Fitness](#cultural-fitness) | [My Work Style](#my-work-style) | [Teaching Mentoring](#teaching-mentoring)
+    - [Cultural Fitness](README.md#cultural-fitness) | [My Work Style](#my-work-style) | [Teaching Mentoring](#teaching-mentoring)
 - You probably want to check on some of the rationales, challegenes, domain, project experiences of mine
 - [One Reason To Work With Me](#one-reason-to-work-with-me) 
 - [Work-Experiences](#work-experiences)
