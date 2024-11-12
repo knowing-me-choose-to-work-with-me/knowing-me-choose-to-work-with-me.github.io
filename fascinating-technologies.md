@@ -1,0 +1,53 @@
+## Fascinating Technologies
+- [wheels](https://en.wikipedia.org/wiki/Wheel)
+    - world runs on wheel, in my house also I like everything to be wheels, easy to clean, readjust space if we have to accomodate more guests
+    - lot of innovation goes from wood to rubber to precision-ball-heads(steel,aluminum) 
+- [AC from War of Currents](https://en.wikipedia.org/wiki/War_of_the_currents)
+    - if Alternating Current wasn't popularized and made accessible to common people like us then several technogies wouldn't have been simply possible
+    - watch out dramtatic movie on above [The_Current_War](https://en.wikipedia.org/wiki/The_Current_War) 
+    - FYI ending war gave rise to [General Electric](https://en.wikipedia.org/wiki/General_Electric) interstingly i worked for GE  for 5 years
+    - probably fear and idea,  are inte-connected, they create innnovation to serve large scale  at low cost
+- [civil-engineering](https://en.wikipedia.org/wiki/Civil_engineering)
+    - all the advancements from 1 floor strucuture to high-rise-apartments,townships, historical-monuments, airports, statues, towers, dams, bridges, roads , flyovers etc
+    - in facto lot of software design, patterns are heavily influenced by this discipline, so its a good analogy to see what happening in real world physical structure.
+    - proabably a mathematcial error could cause deaths at scale like dam
+    - software-jargons (pillar, foundation, factories, facade, bridge, )
+    - if you still dont agree with me, please take a look at this one of my favourite goto book on  role of software architect https://architectelevator.com/ if this excites take a look at this https://www.patternlanguage.com/
+        - this is just to understand the intersection of two disciplines
+    - its important to observe patterns in this field and real-world
+- [www](https://en.wikipedia.org/wiki/WorldWideWeb)  by inventor [Sir Tim Berners-Lee](https://en.wikipedia.org/wiki/Tim_Berners-Lee)
+    - without this i wouldn't be propbably here, democratized sharing knowledge for world just by clicking(now-touching)
+    - http : i usually leverage for scalablity,concurrency for inherently being distributed universally.
+- [wiki Encyclopedia](https://en.wikipedia.org/wiki/Main_Page)
+    - this is my goto for everything (knowledge,wisdom,defintion,history..etc) ofcourse on sofwtare(pattern,protocols,design,architecture)
+    - just on a side note if you ever like my work (past,present,future) and want to thank/gift me, please donate [wiki](https://donate.wikimedia.org/w/index.php?title=Special:LandingPage&country=IN&uselang=en&wmf_medium=sidebar&wmf_source=donate&wmf_campaign=C13_en.wikipedia.org)
+    - yeah i donate annually, though many times i feel to contribute frequently, may be near-future quarterly
+    - without this i wouldnt be here, being what I am now
+- [java](https://openjdk.org/)
+    - this will be goto language (past,present,future) if I dont find anything sutiable for the problem
+    - [Multi-paradigm](https://en.wikipedia.org/wiki/Programming_paradigm#Multi-paradigm) [Multi-paradigm-comparision](https://en.wikipedia.org/wiki/Comparison_of_multi-paradigm_programming_languages)  
+    - also interstingly it has helped as a medium to choose my life-partner, more on this, if we ever get to work together, you might get to hear that-story which happened while building a blackberry-application in 2012, so its also a personal sentiment towards java.
+    - if you think sustainability, 
+        - [comment]: https://ionutbalosin.com/2024/03/analyzing-jvm-energy-consumption-for-jdk-21-an-empirical-study/
+        - [energy-efficiency](https://thenewstack.io/which-programming-languages-use-the-least-electricity/)
+        - https://aws.amazon.com/blogs/opensource/sustainability-with-rust/?pg=devrust
+    - My experiences with [My Java Stack & Few Titbits](#my-java-stack--few-titbits)
+- [raspberrypi](https://www.raspberrypi.com/) 
+    - this is the most fasicnating computer [SBCs](https://en.wikipedia.org/wiki/Single-board_computer) i have seen so far
+    - most of the times, the solution I am building, I imagine if i could fit in 8Gb Pi4(₹8k), yet to try pi5
+    - This is good computing contraint to me
+- [aws-s3](https://en.wikipedia.org/wiki/Amazon_S3) 
+    - any cloud object store should be fine including from google, microsoft, xyz
+    - atleast this is  what i am familiar with for now, with its constraints(3500put, 5000get) per-second for per-prefix triggers a engineering math which we could leverage to model  many solutions to many unique-problems, espcessially analytical computations and storage options 
+    - with $23 per tb, this has become a factor to think interms of scale, storage-cost, ofcourse 99.9999 promise of durability
+    - on s3 put, trigger a lambda to do useful stuff, have configured for many retaining many versions, plenty of options to think of
+    - https://docs.aws.amazon.com/AmazonS3/latest/userguide/Welcome.html
+- [sql](https://en.wikipedia.org/wiki/SQL)
+     - dorminant since 1970s, not going anywhere, near soon 
+     -  Power of delcatariveness, set-therory,  to tell what we want and not on how to
+     - we tell what we want in english, it gives what we want, then engine keeps changing by vendor and we reap benenfit, like peformance, new ansi-sql-feature, new modelings like arrays to pg-vector etc provided db-engine is open-source, or ur paying premium for commerical-one fitting your budget
+     - sql, nosql(surprisingly u still write SQL in nosql-technology)
+     - Evev with advanced analytics technologies of  ML push, AI, sql unlikely go away , its that powerful or  we just want to leverage on the universal standard-ANSI sql interface to the fullest 
+     - ofcourse times have changed for good  rathar than running sql on traditional 2d matrix on rdbms, now we could be running on top of csv,parquet,json etc with some library/cloud-service acting as sql-engine on top of cloud-object-store or data-lake etc
+     - aws-s3-select api over s3-bucket for objects(csv,parquet, json) has also opened new doors for me to solve some modeling to  analytical problems significantly
+     - from big-data to ML problems,  data-lakehouse  query-engines backing sql interfaces also reassures that sql is not going anwhere in near future as well and shows its expansion from rdbms -> data-warehouse -> data-lakes(object-stores ) -> lakehouse(query-engines from analytics to data-movement needs)

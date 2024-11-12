@@ -1,0 +1,38 @@
+## Domain Exposure
+- More to come on this space
+- see also
+    - [Domain Driven Design](README.md#domain-driven-design)
+    
+- ### Retail
+    - [Company-1-Tomax Jun-2005 to Sep-2009](my-work-experiences.md#company-1-tomax-jun-2005-to-sep-2009)
+    - willingess to work again - BIG,YES
+- ### Financial Services
+    - [Client-3 : Societe Generalle](#client-3--societe-generalle)
+    - willingess to work again - BIG,YES
+        - I have my own personal interst in stocks, so though the math, regulation is hard, still a good challenging one to work with
+- ### Telecom
+    - [Client-1 : Verizon Data Services](#client-1--verizon-data-services)
+    - willingess to work again - very unlikely
+        - on  core telecom : Big No
+        - Unless a business analyst or FO or SME on domain, does a spoon fooding on the domain, its factors, its difficult to make sense on the domain, 
+            - on a side note,  WRAN, RAN, eNodeB etc of Ericsson expereience still rings a bell in my head.
+- ### Aviation
+    - so far [aviation-domain-exposure](#aviation-domain-exposure)
+    - automations-encountered-so-far : rolling up cost, multi-modeling on data-science for useful insights, in-house billing 
+    - software-scope : inhouse for GEs internal analysts
+    - MRO, modeling needs for analysts, pretty much lot of scope for advandced analytics     
+    -  willingess to work again - BIG,YES
+        - Since childhood I am excited, seeing airplanes fly, so its very fascinating to work again on this domain.
+- ### Billing
+    - [project-3 billing, reconciliation ](#project-3-billing-reconciliation)
+    - Though it was an in house solution built for GE, due to  a year's end-to-end exposure and  based on my maturity got to know pretty much a typical standard buisness equation and  higher order math. It could be a over simplification but a good one to start on a dicussion.
+        - $$ billedValue = utilization * money * optionalFactors$$
+            - utilization could be a time unit of engine/telecom connection usage in hours/second respectively
+            - money could be $ , ₹, € etc
+                - in aviation due to a long term service aggreement, they do have some called escalation rate, i m sure, this could hold for other domains as well
+            - optionalFactors are very intersting as they could increase or decrease
+                - in aviation we have interpolated severity factors on certain thresholds like temperature, utilization, thrust used by pilot, cycles etc
+                - in telecom it could be a discounted rate above 1 hour or unlimited plan
+                - discount rate for x customer
+                - xyz specific to domain
+    - willingess to work again - BIG,YES
