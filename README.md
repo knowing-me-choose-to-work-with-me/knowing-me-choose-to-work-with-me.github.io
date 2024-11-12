@@ -191,20 +191,26 @@
 - Software Design with SOLID, CUPID, UNIX Philosophy
 - whom to follow 
     - first why not to follow, blindly
-        - GoF author didnt write J2EE pattern, microservices
-        - Some authors did thier marketed well based on their pressing  problems they percieved, while people like me as well try to catch up these someone else solved the problem differently creating new hype, buzz, trend etc. so its difficult to stick any one technologist-pioneer's view. like medicine, we designers, architects have to keep updating frequently yearly or so to update our view.
+        - Just a thought, GoF, authors didnt get interested in  writing J2EE pattern and J2ee patter authors  didnt come up with  spring framework, microservices etc
+            - on a side based on my observation while I was trying to digest GOF and  J2EE patterns in my late 2000s, [Rod Johnson](https://en.wikipedia.org/wiki/Rod_Johnson_(programmer)) had already published(2004 i guess)  couple of books on J2EE  with and without EJB, creating foundation for spring framework and now spring boot has become the defacto built on top of it. of course lot of Spring frameworks foundation come from [Jakarta EE](https://jakarta.ee/about/why-jakarta-ee/#standard) former J2EE patterns.
+        - my point is while one set of pattern is getting popularized, a new one is parallelly getting created, so its essential to treat pattern and their catalog to thought as useful tools
+        - With all respect all pattern authors(Gof, j2ee, microsevices) did their best and marketed well based on their pressing problems during those years the way  they percieved trying best to influence developers.
+        - There's always a new hype, buzz, trend etc. so its difficult to stick any one technologist-pioneer's view. like medicine, we designers, architects have to keep updating frequently yearly or so to update our view. reviewing our tookit of patterns of patterns
     - its better to follow people who authored continuously several things with decades of exposure and kept updating thier view.
         - few people whose work has influenced me  [Martin Fowler](https://www.martinfowler.com/), [Neal Ford](https://nealford.com/) [Gregor Hohpe](https://architectelevator.com/) 
+        - Gregor's phenomenal Enterprise integration pattern, Architect elevator, Strategies(cloud,platform) shows some good indicator 
+        - Neal ford, Mark Richards software architecture (fundamentals, hard parts ) also throws some excellent light on how to think on high order pattern(depends,tradeoff)  pattern than mastering low level patterns
 - what to adopt and why not to 
     - what not to
-        - java-context : once upon a time these were trending dinosarus servlet, jsp, JSF, EJBs etc ofcourse they aren't extinct but lying in some legacy software, refactoring,modernizing them could be tricky and challenging 
+        - java-context : once upon a time these were trending technologies lik servlet, jsp, JSF, EJBs etc ofcourse they aren't extinct but lying in some legacy software, getting refactored as  part of modernization, although modernizing them could be tricky and challenging and they are also getting revamped under radar of Jakarta EE
             - on a side note  their concepts, patterns have been moved to higher order abstraction like @restcontroler, @entity
     - what to then, like MCU loki's "He Who Remains"
         - techniques, approaches,  fundamentals like stateless-true-distributed-http, tcp/ip, encapsulation, moudularization, messaging-concepts , multithreading, event processing and handling, algorithms, data-structures
-- eval(SOLID,CUPID,unix-philosophy) , generally prefer CUPID and unix philosophy over SOLID becuase in practice SOLID didnt help me to model the domain problem really
-    - i would also like to put a strong opinion that irrespective of what we choose, its not visible to customer, end-user one excpetion ofcourse is if  you r shipping a open-source tool,library 
-    - so picking is choice of architect, designer, engineer to a-good-developer
-    - the key idea no matter what we pick should be cater the evolving needs of business problem 
+- eval(SOLID,CUPID,unix-philosophy) , generally I prefer CUPID and unix philosophy over SOLID becuase they play well with domain-driven-desing and in practice SOLID didn't help me to model the domain problem really well 
+    - [Solid design principle](https://en.wikipedia.org/wiki/SOLID) vs [CUPId](https://dannorth.net/cupid-for-joyful-coding/) vs [unix philosphy](https://en.wikipedia.org/wiki/Unix_philosophy) - more to come on this 
+    - i would also like to put a strong opinion that irrespective of what we choose, its not visible to customer, end-user one excpetion ofcourse is, if  you r shipping a open-source tool,library 
+    - so picking is a choice of architect, designer, engineer to a-good-developer
+    - the key idea no matter what we pick should be to cater the evolving needs of business problem 
         - in my view, this holds good in building all sorts of application needs 
         - operational aka transactional 
         - analytical  to advanced anlytics using ML, AI technlologies
